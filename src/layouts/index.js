@@ -3,21 +3,20 @@ import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 
 import Header from '../components/header'
+import Footer from '../components/footer'
 import './index.css'
 
 const Layout = ({ children, data }) => (
-  <div>
-    <Helmet
-      title={data.site.siteMetadata.title}
-      meta={[
-        { name: 'description', content: 'Sample' },
-        { name: 'keywords', content: 'sample, something' },
-      ]}
-    />
+  <div className="site-wrapper">
     <Header siteTitle={data.site.siteMetadata.title} />
-    <div>
-      {children()}
-    </div>
+
+    <main id="site-main" className="site-main outer" role="main">
+      <div className="inner">
+        {children()}
+      </div>
+    </main>
+
+    <Footer />
   </div>
 )
 

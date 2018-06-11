@@ -1,6 +1,10 @@
 import React from "react";
 
 export default ({ data }) => {
+  console.log(data);
+  if (!data || !data.markdownRemark) {
+    return null;
+  }
   const post = data.markdownRemark;
   return (
     <div>
@@ -12,7 +16,7 @@ export default ({ data }) => {
 
 export const query = graphql`
   query BlogPostQuery($slug: String!) {
-    markdownRemark(fields: { slug: { eq: $slug } }) {
+    markdownRemark(frontmatter: { slug: { eq: $slug } }) {
       html
       frontmatter {
         title

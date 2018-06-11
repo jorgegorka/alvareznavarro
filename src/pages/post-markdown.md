@@ -1,8 +1,10 @@
 ---
-title: "Sweet Pandas Eating Sweets"
-date: "2017-08-10"
+title: "The first post with markdown"
+date: "2018-06-11"
+slug: "custom-url"
+tags: ["important", "awesome", "gatsbyjs"]
 ---
 
-## Pandas are really sweet.
+## First test post using markdown.
 
-Here's a video of a panda eating sweets.
+The content sucks, though!
