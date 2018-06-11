@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from 'gatsby-link'
 
-const IndexPage = () => (
+const ErrorPage = () => (
   <div>
     <h1>Something went wrong</h1>
     <p>If something is wrong Amazon will show this page to the users.</p>
@@ -10,4 +10,4 @@ const IndexPage = () => (
   </div>
 )
 
-export default IndexPage
+export default ErrorPage
