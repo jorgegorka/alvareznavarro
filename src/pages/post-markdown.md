@@ -3,6 +3,7 @@ title: "The first post with markdown"
 date: "2018-06-11"
 slug: "custom-url"
 tags: ["important", "awesome", "gatsbyjs"]
+category: "Category1"
 ---
 
 ## First test post using markdown.
