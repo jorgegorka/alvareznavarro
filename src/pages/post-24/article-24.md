@@ -4,7 +4,7 @@ date: '2005-07-19T19:20:00+00:00'
 slug: '/blog/2005/07/google-xml-maps-indexa-mejor-tu-web'
 tags: ["google", "sitemap"]
 category: 'desarrollo-web'
-excerpt: "Voy a hablar hoy de una nueva utilidad de [Google](http://www.google.com) para mejorar la manera en que este buscador indexa nuestras páginas. Los [GoogleSiteMaps](https://www.google.com/webmasters/sit..."
+excerpt: "Voy a hablar hoy de una nueva utilidad de Google para mejorar la manera en que este buscador indexa nuestras páginas."
 ---
 Voy a hablar hoy de una nueva utilidad de [Google](http://www.google.com) para mejorar la manera en que este buscador indexa nuestras páginas. Los [GoogleSiteMaps](https://www.google.com/webmasters/sitemaps) es un servicio operativo aunque todavía está en fase Beta.
 
@@ -17,4 +17,3 @@ Realmente este sistema solo aporta ventajas evidentes a aquellos sitios que Goog
 Para aquellos de vosotros que tengais que mantener varios sitios lo mejor es abrirse una cuenta en GoogleSiteMaps (si ya tienes una cuenta de otro servico de Google, como GMail, no es necesario crear una nueva) y desde aquí podemos enviar los xml de forma centralizada y nos indicará como ha ido el proceso del fichero.
 
 Una nueva herramienta, bastante útil, sobre todo a administradores de multiples webs.
-

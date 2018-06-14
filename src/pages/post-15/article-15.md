@@ -4,9 +4,7 @@ date: '2015-01-16T11:19:00+00:00'
 slug: '/blog/2015/1/ao-nuevo-vida-nueva'
 tags: []
 category: 'desarrollo-web'
-excerpt: "El año ha comenzado con cambios para mí. Después de tres años he dejado mi trabajo en Sage.
-
-Han sido tres años fantásticos. He conocido a mucha gente estupenda y solo tengo palabras de agradecimiento ..."
+excerpt: "El año ha comenzado con cambios para mí. Después de tres años he dejado mi trabajo en Sage. Han sido tres años fantásticos. He conocido a mucha gente estupenda y solo tengo palabras de agradecimiento..."
 ---
 El año ha comenzado con cambios para mí. Después de tres años he dejado mi trabajo en Sage.
 
@@ -19,4 +17,3 @@ Por lo tanto he tomado la decisión de cambiar de trabajo. Por suerte para mí h
 Copenhagen me ha sorprendido gratamente. Hay mucha actividad relacionada con el mundo de las startups y lo que es más importante, dinero para financiarlas. Conferize tienen las oficinas en [Founders House](http://www.foundershouse.dk/) un espacio de trabajo para startups tecnológicas donde tienes la oportunidad de compartir oficina con gente que esta haciendo proyectos muy interesantes e innovadores.
 
 De momento voy a trabajar en remoto así que seguiré viviendo en Logroño y viajaré a Dinamarca de vez en cuando.
-

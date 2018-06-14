@@ -4,11 +4,7 @@ date: '2005-07-21T19:15:00+00:00'
 slug: '/blog/2005/07/amarok-quien-echa-de-menos-a-itunes'
 tags: ["musica"]
 category: 'desarrollo-web'
-excerpt: "Hoy la cosa va de descubrimientos.
-
-Primero los [GoogleSiteMaps](http://www.lacoctelera.com/jalvarez/post/2005/07/21/google-xml-maps) y ahora [Amarok](http://amarok.kde.org/).
-
-Amarok es un reproductor..."
+excerpt: "Hoy la cosa va de descubrimientos. Primero los GoogleSiteMaps y ahora Amarok."
 ---
 Hoy la cosa va de descubrimientos.
 
@@ -38,4 +34,3 @@ La verdad es que pensaba, con envidia, la suerte de los Mac-eros (y si también 
 Pues sí, solo pongo tres adicionales pero que tres características tan interesantes, si, como me ocurre a mí sueles intercambiar música con tus amigos y te pasan canciones que no conoces, puedes llegar a acceder (simplemente por reproducir un tema en Amarok) a toda la información del grupo que la interpreta y a la letra. Todo automático. Esto mezclado con el podcasting puede ser la bomba. Se acabó eso de "que bien suena este grupo ¿quien será?". Reproduce el tema en Amarok y tendrás a tu disposición la más completa información.
 
 Por cierto la [Wikipedia](http://es.wikipedia.org/wiki/Portada) es libre y puedes colaborar mejorandola así que si tu grupo favorito no aparece allí ya tardas en ir a añadirlo :-)
-

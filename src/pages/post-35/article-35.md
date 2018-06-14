@@ -4,7 +4,7 @@ date: '2005-12-02T07:35:00+00:00'
 slug: '/blog/2005/12/ruby-on-rails-solamente-un-framework-para-desarrollo-web-introduccin'
 tags: ["rails", "ruby"]
 category: 'desarrollo-web'
-excerpt: "Hace aproximadamente unmes terminé de leer el libro "Agile web development with rails". Desde entonces lejos de arrinconar el libro en algún rincón de mi estantería, he pasado muchas horas probando Rails y empleando el libro como guía y como referencia."
+excerpt: "Hace aproximadamente unmes terminé de leer el libro Agile web development with rails. Desde entonces lejos de arrinconar el libro en algún rincón de mi estantería, he pasado muchas horas probando Rails y empleando el libro como guía y como referencia."
 ---
  ![](http://jorgegorka.files.wordpress.com/rails_logo_remix.gif)
 

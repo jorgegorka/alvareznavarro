@@ -4,9 +4,7 @@ date: '2005-08-10T19:01:00+00:00'
 slug: '/blog/2005/08/si-te-gusta-leer-blogs-te-cuento-como-eres'
 tags: ["blog", "Internet"]
 category: 'desarrollo-web'
-excerpt: "Uno de los temas de Internet que más me apasionan es el marketing.
-
-Internet proporciona a las empresas de publicidad algo que ni prensa, radio ni televisión les pueden dar. La posibilidad de **conocer..."
+excerpt: "Uno de los temas de Internet que más me apasionan es el marketing. Internet proporciona a las empresas de publicidad algo que ni prensa, radio ni televisión les pueden dar."
 ---
 Uno de los temas de Internet que más me apasionan es el marketing.
 

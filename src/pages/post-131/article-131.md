@@ -4,9 +4,7 @@ date: '2008-11-08T18:09:00+00:00'
 slug: '/blog/2008/11/web-destacada-carbonica'
 tags: ["Internet", "web_destacada"]
 category: 'desarrollo-web'
-excerpt: "Para inaugurar nuestra sección de webs destacadas hemos elegido una web de altura: [Carbonica](http://www.carbonica.org)
-
-[![carbonica](http://www.riojasoft.com/files/carbonica.jpg)](http://www.carboni..."
+excerpt: "Para inaugurar nuestra sección de webs destacadas hemos elegido una web de altura: Carbonica."
 ---
 Para inaugurar nuestra sección de webs destacadas hemos elegido una web de altura: [Carbonica](http://www.carbonica.org)
 
@@ -23,4 +21,3 @@ El menú es claro (quizás con demasiadas subopciones) y con un orden adecuado.
 Aprovechan perfectamente las ventajas que ofrece la web y en lugar de ser un simple folleto disponen de apartados como la calculadora de emisiones, noticias, blog, la tienda donde comprar arboles que compensen nuestras emisiones y nos animan a unirnos a su "Comunidad de cero emisines".
 
 Resumen: Una web elegante, bien realizada y que nos hace llegar su mensaje. Tanto visitantes como clientes disponen de la información de forma sencilla de usar y agradable de ver. Utiliza herramientas como la calculadora, que ayuda a concienciar e involucrar al visitante, o las noticias y el blog que dotan de dinamismo a los contenidos de la web e incitan a volver buscando actualizaciones.
-

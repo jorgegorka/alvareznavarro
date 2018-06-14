@@ -4,11 +4,11 @@ date: '2004-03-26T16:26:00+00:00'
 slug: '/blog/2004/03/the-elements-of-user-experience'
 tags: ["usabilidad"]
 category: 'desarrollo-web'
-excerpt: "[![elements of user experience portada](http://jorgegorka.files.wordpress.com/elements_user_experience.jpg)](http://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0735712026/sr=1-1/qid..."
+excerpt: "Voy a resumir el libro en una sola frase: Si creas webs y no has leido este libro no estas creando buenas webs."
 ---
 [![elements of user experience portada](http://jorgegorka.files.wordpress.com/elements_user_experience.jpg)](http://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0735712026/sr=1-1/qid=1163860628/ref=pd_bbs_sr_1/102-4838740-6826568?ie=UTF8&s=books)
 
-**[Título: The Elements of User Experience](http://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0735712026/sr=1-1/qid=1163860628/ref=pd_bbs_sr_1/102-4838740-6826568?ie=UTF8&s=books)**  
+**[Título: The Elements of User Experience](http://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0735712026/sr=1-1/qid=1163860628/ref=pd_bbs_sr_1/102-4838740-6826568?ie=UTF8&s=books)**
 **Autor: Jesse James Garrett**
 
 Voy a resumir el libro en una sola frase: _Si creas webs y no has leido este libro **no** estas creando buenas webs._
@@ -26,4 +26,3 @@ Los pasos en los que J.J.G. divide el proceso son estos:
 - Superficie: Diseño visual
 
 Creo que podría contar el libro de memoria, pero no hay proyecto web que no comienze echando mano del libro y volviendolo a repasar.
-

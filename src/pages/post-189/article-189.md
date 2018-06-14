@@ -6,7 +6,7 @@ tags: ["Uncategorized"]
 category: 'desarrollo-web'
 excerpt: "Cada vez que visitas un sitio web dejas un rastro. Un pequeño archivo de texto llamado cookie se instala en tu ordenador guardando información sobre tu visita y permitiendo identificarte con posteriori..."
 ---
-Cada vez que visitas un sitio web dejas un rastro. Un pequeño archivo de texto llamado cookie se instala en tu ordenador guardando información sobre tu visita y permitiendo identificarte con posterioridad. 
+Cada vez que visitas un sitio web dejas un rastro. Un pequeño archivo de texto llamado cookie se instala en tu ordenador guardando información sobre tu visita y permitiendo identificarte con posterioridad.
 
 Estos pequeños ficheros fueron creados inicialmente con la idea de facilitarte el acceso a los sitios que visitas frecuentemente recordándote y permitiéndote acceder sin poner otra vez el usuario y la contraseña. Gracias a la utilidad de recordar contraseña que tienen la mayoría de navegadores esto ya no es necesario y el propio navegador te rellena dichos campos si tu así lo deseas.
 
@@ -37,11 +37,3 @@ Adjunto unas capturas de pantalla sobre como configurar los principales navegado
 
 
 Ten en cuenta que Flash también permite el uso de cookies, pero estas se almacenan en los servidores de Adobe y no existe límite en cuanto a la información que se puede guardar por lo que si tienes Flash instalado estás proporcionando mucha información sobre la que no tienes ningún control.
-
-
-
-
-
-[![Chrome_coockies](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf34e4b0400995a88b00/1392758580764/chrome_coockies.jpg?format=original)](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf34e4b0400995a88afd/1392758580568/chrome_coockies.jpg?format=original)[![Cookies_firefox](http://jorgegorka.files.wordpress.com/2010/07/cookies_firefox.jpg?w=300)](http://jorgegorka.files.wordpress.com/2010/07/cookies_firefox.jpg)[![Security](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf35e4b0400995a88b06/1392758581166/security.jpg?format=original)](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf34e4b0400995a88b03/1392758580971/security.jpg?format=original)
-
-[See the full gallery on Posterous](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf35e4b0400995a88b09/1392758581361/mejora-la-privacidad-en-tu-navegacion?format=original)

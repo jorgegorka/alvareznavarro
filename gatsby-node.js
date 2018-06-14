@@ -1,6 +1,7 @@
 const path = require('path');
 const _ = require('lodash');
 const { createFilePath } = require('gatsby-source-filesystem');
+// const generateTags = require('./tag-generator')
 
 exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
   const { createNodeField } = boundActionCreators
@@ -18,7 +19,6 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
   const { createPage } = boundActionCreators;
 
   const blogPostTemplate = path.resolve("src/templates/blog-post.js");
-  const tagTemplate = path.resolve("src/templates/tags.js");
 
   return graphql(`
     {
@@ -31,6 +31,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
             frontmatter {
               slug
               tags
+              category
             }
           }
         }
@@ -54,26 +55,57 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
       });
     });
 
-    // Tag pages:
-    let tags = [];
-    // Iterate through each post, putting all found tags into `tags`
-    _.each(posts, edge => {
-      if (_.get(edge, "node.frontmatter.tags")) {
-        tags = tags.concat(edge.node.frontmatter.tags);
-      }
-    });
-    // Eliminate duplicate tags
-    tags = _.uniq(tags);
-
-    // Make tag pages
-    tags.forEach(tag => {
-      createPage({
-        path: `/tags/${_.kebabCase(tag)}/`,
-        component: tagTemplate,
-        context: {
-          tag,
-        },
-      });
-    });
+    generateTags(posts, createPage);
+    generateCategories(posts, createPage);
   });
 };
+
+const generateTags = (posts, createPage) => {
+  const tagTemplate = path.resolve('src/templates/tags.js')
+
+  // Tag pages:
+  let tags = []
+  // Iterate through each post, putting all found tags into `tags`
+  _.each(posts, edge => {
+    if (_.get(edge, 'node.frontmatter.tags')) {
+      tags = tags.concat(edge.node.frontmatter.tags)
+    }
+  })
+  // Eliminate duplicate tags
+  tags = _.uniq(tags)
+
+  // Make tag pages
+  tags.forEach(tag => {
+    createPage({
+      path: `/tags/${_.kebabCase(tag)}/`,
+      component: tagTemplate,
+      context: {
+        tag,
+      },
+    });
+  });
+}
+
+const generateCategories = (posts, createPage) => {
+  const categoryTemplate = path.resolve('src/templates/category-list.js')
+
+  let categories = [];
+  _.each(posts, edge => {
+    if (_.get(edge, 'node.frontmatter.category')) {
+      categories.push(edge.node.frontmatter.category)
+    }
+  })
+
+  categories = _.uniq(categories)
+
+  categories.forEach(category => {
+    console.log(category);
+    createPage({
+      path: `/category/${_.kebabCase(category)}/`,
+      component: categoryTemplate,
+      context: {
+        category,
+      },
+    });
+  });
+}

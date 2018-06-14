@@ -4,9 +4,7 @@ date: '2005-07-17T19:22:00+00:00'
 slug: '/blog/2005/07/apple-intel-inside-windows-outside'
 tags: ["apple", "linux", "microsoft"]
 category: 'desarrollo-web'
-excerpt: "Ha pasado ya algún tiempo desde que se anunció que [Apple](http://www.apple.com) dejaba de emplear los procesadores de [IBM](http://www.ibm.com) en favor de Intel.
-
-Tras darle bastantes vueltas estoy c..."
+excerpt: "Ha pasado ya algún tiempo desde que se anunció que Apple dejaba de emplear los procesadores de IBM en favor de Intel."
 ---
 Ha pasado ya algún tiempo desde que se anunció que [Apple](http://www.apple.com) dejaba de emplear los procesadores de [IBM](http://www.ibm.com) en favor de Intel.
 
@@ -23,4 +21,3 @@ Volviendo otra vez al ejemplo del [Ipod](http://www.apple.com/es/ipod/color/). E
 Si volvemos al mundo de los sistemas operativos no es de extrañar que las intenciones de la empresa de Steve Jobs sean la de colarnos su sistema operativo para poder vendernos luego toda su lista de aplicaciones es más yo apuesto por que la versión de MacOS X para plataformas Intel será muchisimo **más económica** que Windows.
 
 ¿Quizás 100% [OpenSource](http://www.opensource.org/)como [Darwin](http://developer.apple.com/darwin/)?
-
