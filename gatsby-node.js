@@ -101,7 +101,7 @@ const generateCategories = (posts, createPage) => {
   categories.forEach(category => {
     console.log(category);
     createPage({
-      path: `/category/${_.kebabCase(category)}/`,
+      path: `/categories/${_.kebabCase(category)}/`,
       component: categoryTemplate,
       context: {
         category,
