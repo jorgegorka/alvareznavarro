@@ -54,3 +54,13 @@ Create slug for pages in markdown files
         })
       }
     };
+
+Netlify CMS
+
+add admin to source
+  https://www.netlifycms.org/docs/add-to-your-site/
+configure config.yml
+  https://www.netlifycms.org/docs/add-to-your-site/
+add oauth to gitlab
+  https://www.netlifycms.org/docs/authentication-backends/#gitlab-backend
+  https://docs.gitlab.com/ee/integration/oauth_provider.html#adding-an-application-through-the-profile
