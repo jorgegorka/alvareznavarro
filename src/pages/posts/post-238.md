@@ -3,14 +3,14 @@ title: "¿Necesita mi empresa un analista web?"
 date: '2011-10-11T00:51:29+00:00'
 slug: '/blog/2011/10/%c2%bfnecesita-mi-empresa-un-analista-web'
 tags: ["consultor analítica web"]
-category: 'Analítica'
+category: 'marketing'
 excerpt: "[![]( webanalytics)]("
 draft: false
-headerImage: 
+headerImage:
 ---
 [![](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf43e4b0400995a88ba0/1392758595891/webanalytics.jpg?format=original "webanalytics")](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf43e4b0400995a88b9d/1392758595690/?format=original) **Esta pregunta junto con la de ¿para qué sirve un analista web? son las preguntas más usuales que te realizan cuando hablas con empresas y les cuentas que eres analista web. Voy a tratar de aclarar estas cuestiones y explicar las funciones de un analista web y las ventajas que aporta a una empresa.** <!--more-->
 
-## 
+##
 
 ## Cuando es necesario contar con los servicios de un analista web
 
@@ -43,8 +43,3 @@ Un buen análisis no nos proporcionará datos, sino soluciones para mejorar nues
 Si consideras tu web como un elemento estratégico para tu empresa necesitas establecer formas de evaluar su funcionamiento. Un análisis de tu web debe proporcionarte no solo información sino pautas a seguir para mejorarla y atraer a visitantes de calidad.  No se trata de conseguir muchas visitas sino muchos clientes.
 
 [box] Si quieres saber como puedo ayudarte a mejorar tu web, [contacta conmigo](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf44e4b0400995a88ba5/1392758596086/?format=original "Jorge Alvarez - Consultor en analítica web").[/box]
-
-
-
-
-

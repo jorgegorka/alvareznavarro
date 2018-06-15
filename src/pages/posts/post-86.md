@@ -3,10 +3,10 @@ title: "Webs ¿Líquidas o fijas?"
 date: '2006-11-28T09:59:00+00:00'
 slug: '/blog/2006/11/webs-lquidas-o-fijas'
 tags: ["historias", "Internet", "rails"]
-category: 'Empresa'
+category: 'marketing'
 excerpt: "Cameron Moll habla en 2 artículos sobre [la mejor forma de optimizar una web]( para [distintas resoluciones de pantalla]("
 draft: false
-headerImage: 
+headerImage:
 ---
 Cameron Moll habla en 2 artículos sobre [la mejor forma de optimizar una web](http://www.cameronmoll.com/archives/001224.html) para [distintas resoluciones de pantalla](http://www.cameronmoll.com/archives/001220.html).
 
@@ -17,4 +17,3 @@ La continuación de un buen artículo: [Las reglas del compromiso](http://www.th
 Hoy hablan de [eyeOS](http://www.eyeos.info/) en [Techcrunch](http://www.techcrunch.com/2006/11/27/eyeos-open-source-webos-for-the-masses/). Hacía tiempo que no visitaba su web y me han recordado que es un proyecto muy interesante y muy bien concebido, no hay que perderlos de vista.
 
 Termino con una revisión del plugin [acts\_as\_taggable](http://www.agilewebdevelopment.com/plugins/acts_as_taggable_on_steroids) que añade utilidades como test, asignación de tags más eficiente y cálculo automático de nubes.
-

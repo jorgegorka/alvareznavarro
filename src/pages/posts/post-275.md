@@ -3,14 +3,14 @@ title: "Mínimo producto viable - Parte 1"
 date: '2014-02-15T18:47:57+00:00'
 slug: '/blog/2014/02/minimo-producto-viable-parte-1'
 tags: ["diseño centrado en el usuario", "mínimo producto viable", "saas"]
-category: 'Desarrollo Web'
+category: 'web-development'
 excerpt: "Qué es el mínimo producto viable? En este artículo inicial sentamos las bases de qué es el MPV y que características debe tener un buen prototipo que sea rápido de producir y que nos permita probar nuestra idea de aplicación directamente con los usuarios finales."
 draft: false
-headerImage: 
+headerImage:
 ---
 Qué es el mínimo producto viable? En este artículo inicial sentamos las bases de qué es el MPV y que características debe tener un buen prototipo que sea rápido de producir y que nos permita probar nuestra idea de aplicación directamente con los usuarios finales.
 
- [caption id="" align="alignnone" width="300.0"][![minimo_producto_viable](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf58e4b0400995a88cb4/1392758856699/minimo_producto_viable-300x142.png)](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf58e4b0400995a88cb1/1392758616412/minimo_producto_viable.png?format=original) minimo\_producto\_viable[/caption] 
+ [caption id="" align="alignnone" width="300.0"][![minimo_producto_viable](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf58e4b0400995a88cb4/1392758856699/minimo_producto_viable-300x142.png)](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf58e4b0400995a88cb1/1392758616412/minimo_producto_viable.png?format=original) minimo\_producto\_viable[/caption]
 
 Aunque la estrategia del MPV puede emplearse en muchos ámbitos, el enfoque del artículo se orienta al desarrollo de aplicaciones web y sobre todo aplicaciones web en modo[Software as a Service (SaaS)](http://es.wikipedia.org/wiki/Software_como_servicio).
 
@@ -32,7 +32,7 @@ Para conseguir que los usuarios finales prueben nuestra aplicación web debemos 
 
 Estas son **las tres principales características que definen un buen prototipo MPV: útil, medible e incompleto**.
 
- [caption id="" align="alignnone" width="216.0"][![mínimo producto viable](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf58e4b0400995a88cb7/1392758856774/wd.jpeg)](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf58e4b0400995a88cb7/1392758616820/wd.jpeg?format=original) mínimo producto viable[/caption] 
+ [caption id="" align="alignnone" width="216.0"][![mínimo producto viable](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf58e4b0400995a88cb7/1392758856774/wd.jpeg)](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf58e4b0400995a88cb7/1392758616820/wd.jpeg?format=original) mínimo producto viable[/caption]
 
 **Útil**.- Para que los usuarios puedan emplear nuestra aplicación web el prototipo debe ser útil. **Debe ofrecer la funcionalidad necesaria (y nada más que la funcionalidad necesaria)** para que quienes se registran en nuestra aplicación puedan utilizarla y solventar su necesidad. A pesar de que le llamamos prototipo, la funcionalidad que se incluya debe ser robusta y sin fallos. No estamos planteando desarrollar un producto a medio hacer, se trata de hacer una mínima parte de nuestra aplicación pero los estándares de calidad para esa parte deben ser los mismos que aplicaríamos a un producto completo.
 
@@ -40,7 +40,7 @@ Estas son **las tres principales características que definen un buen prototipo 
 
 **Incompleto** .- Hay que recordar que estamos hablando de un prototipo, 100% funcional pero prototipo al fin y al cabo. Siempre es complicado decidir que funcionalidad no vamos a desarrollar todavía pero es un ejercicio necesario y sobre todo muy útil.  **Quitar funcionalidad nos permitirá reducir el tiempo entre el desarrollo y la puesta en producción.** Cuanto menor tiempo de desarrollo menores costes y sobre todo, antes empezaremos a validar nuestra idea con las opiniones que verdaderamente importan: las de los usuarios finales.
 
- [caption id="" align="alignnone" width="300.0"][![producto](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf59e4b0400995a88cbd/1392758859861/f1_wd-300x201.jpg)](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf59e4b0400995a88cba/1392758617022/f1_wd.jpg?format=original) producto[/caption] 
+ [caption id="" align="alignnone" width="300.0"][![producto](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf59e4b0400995a88cbd/1392758859861/f1_wd-300x201.jpg)](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf59e4b0400995a88cba/1392758617022/f1_wd.jpg?format=original) producto[/caption]
 
 Cuando, en el año 2005, decidí dejar de desarrollar la aplicación de gestión inmobiliaria que hasta ese momento tenía (una aplicación de escritorio tradicional) y comenzar el desarrollo de la aplicación en modo SaaS, me di cuenta de que si intentaba trasladar toda la funcionalidad del producto de escritorio a la web tardaría mucho tiempo en tenerla terminada. Como el tiempo es dinero, no me podía permitir invertir en un desarrollo largo y costoso por lo que decidí aplicar la estrategia del MPV.
 
@@ -57,4 +57,3 @@ Adoptar la estrategia del MPV estuvo, en mi caso, motivada por la necesidad, per
 En esta primera parte hemos visto las características que debe cumplir un buen prototipo. En una segunda entrega abordaremos el proceso de desarrollo del prototipo: qué metodologías utilizar y cómo poner al cliente como el centro de todas nuestras acciones.
 
 [Mínimo producto viable - Parte 2](http://www.alvareznavarro.es/blog/minimo-producto-viable-parte2)
-

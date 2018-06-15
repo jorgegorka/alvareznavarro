@@ -3,10 +3,10 @@ title: "Website briefing"
 date: '2010-04-09T09:03:15+00:00'
 slug: '/blog/2010/04/website-briefing'
 tags: ["briefing"]
-category: 'Marketing'
+category: 'marketing'
 excerpt: "[![]("
 draft: false
-headerImage: 
+headerImage:
 ---
 [![](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf33e4b0400995a88aed/1392758579164/pdf.png)](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf32e4b0400995a88aea/1392758578962/website-briefing?format=original)
 
@@ -21,4 +21,3 @@ El documento pretendía servir como canalizador de las ideas de los clientes, qu
 Sobre la base de este documento ya podíamos establecer una conversación y determinar los objetivos y el alcance de su web.
 
 Lo adjunto, por si a alquien le puede servir de ayuda.
-

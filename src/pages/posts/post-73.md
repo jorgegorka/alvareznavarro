@@ -3,10 +3,10 @@ title: "Linux se acerca a los usuarios finales"
 date: '2006-07-13T00:06:00+00:00'
 slug: '/blog/2006/07/linux-se-acerca-a-los-usuarios-finales'
 tags: ["Internet", "linux", "ubuntu"]
-category: 'Personal'
+category: 'other'
 excerpt: "Desde que he probado [Ubuntu]( estoy convencido de que esta es la línea a seguir para la implantación del software libre en los escritorios de los usuarios finales. Creo que Ubun..."
 draft: false
-headerImage: 
+headerImage:
 ---
 Desde que he probado [Ubuntu](http://www.ubuntu.com/) estoy convencido de que esta es la línea a seguir para la implantación del software libre en los escritorios de los usuarios finales. Creo que Ubuntu está lista al 100% para su uso por usuarios finales empresariales (tienen absolutamente todo lo que necesitan) y un poco menos para los usuarios domésticos (dependiendo de lo aficionados a los juegos que sean).
 
@@ -21,4 +21,3 @@ Por cierto os recomiendo ver [este video](http://www.hispasec.com/directorio/lab
 Si estais interesados podeis solicitar que os [envíen a casa](https://shipit.ubuntu.com/) , completamnete gratis, los cd’s de instalación de Ubuntu. Hay versiónes para pc de 32 y 64 bits y para Mac.
 
 A mi me tardaron menos de 10 días en llegar por correo. Eficacia total.
-

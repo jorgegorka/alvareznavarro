@@ -3,10 +3,10 @@ title: "Ruby on Rails - Bases de datos - Parte II"
 date: '2006-01-04T10:29:00+00:00'
 slug: '/blog/2006/01/ruby-on-rails-bases-de-datos-parte-ii'
 tags: ["rails"]
-category: 'Desarrollo Web'
+category: 'web-development'
 excerpt: "En este segundo artículo sobre las bases sobre las que seasienta Rails voy a hablar de las bases de datos y el papel que juegan en el desarrollo de una aplicación con Rails.Si no has leído los artícu..."
 draft: false
-headerImage: 
+headerImage:
 ---
 En este segundo artículo sobre las bases sobre las que seasienta Rails voy a hablar de las bases de datos y el papel que juegan en el desarrollo de una aplicación con Rails.
 
@@ -95,4 +95,3 @@ Mi experiencia personal me demuestra que el uso de Active Record de forma eficie
 Sin embargo una vez que nuestra aplicación está funcionando conviene analizarla y detectar posibles cuellos de botella y procesos que serían mucho más eficientes ejecutados en forma de trigger o procedimiento almacenado.
 
 He trabajado en bastantes proyectos que gastaban más tiempo en optimizar una aplicación para que soporte 1.000 usuarios concurrentes que en conseguir, antes de nada, esos 1.000 usuarios concurrentes.
-

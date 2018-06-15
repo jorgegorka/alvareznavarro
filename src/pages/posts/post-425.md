@@ -3,10 +3,10 @@ title: "HTML 5 - Elementos obsoletos"
 date: '2011-01-17T06:41:00+00:00'
 slug: '/desarrollo-web/2011/01/html-5-elementos-obsoletos'
 tags: []
-category: 'Desarrollo Web'
+category: 'web-development'
 excerpt: "Inicio hoy una serie de posts sobre HTML5 tomando como base [la charla]( dí en [Aspgems]("
 draft: false
-headerImage: 
+headerImage:
 ---
 Inicio hoy una serie de posts sobre HTML5 tomando como base [la charla](http://www.slideshare.net/jorgegorka/presentacin-en-aspgems-html5)que dí en [Aspgems](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf35e4b0400995a88b0c/1392758581676/?format=original) el día 12/1/11 y en los que intentaré profundizar en los principales aspectos de la especificación HTML 5.
 
@@ -26,17 +26,17 @@ Cuando hablamos de accesibilidad tendemos a pensar que esto solo afecta a los us
 
 Las webs que mezclan el contenido y la presentación son mas caras de crear y de mantener. Si queremos cambiar el color de un texto, el tamaño de letra de un menú, etc... debemos repasar y modificar todas las páginas del sitio web mientras que hacer lo mismo en una web bien hecha requiere modificar un único fichero CSS.
 
- 
+
 
 **Mayor tamaño de página**
 
 Al incluir la presentación en el contenido nos vemos obligados a escribir código redundante que detalle la apariencia de los elementos en cada una de las páginas donde aparecen.
 
- 
+
 
 La gran mayoría de elementos empleados para la presentación se han eliminado de HTML 5, excepto el elemento style y el atributo style. Otros han cambiado su significado y ya no denotan la apariencia sino que definen el tipo de contenido que incluyen. Estos son los elementos obsoletos:
 
- 
+
 
 Listado de elementos obsoletos
 
@@ -89,4 +89,3 @@ HTML 5 define unas bases muy acertadas para la creación y desarrollo de webs, o
 El uso de elementos que HTML 5 define como obsoletos es un síntoma de que nuestro proceso de desarrollo debe mejorar. Incluso con el soporte incompleto de HTML 5 por parte de los navegadores actuales, la mayoría de elementos marcados como obsoletos son fácilmente reemplazables por estilos incluidos en hojas CSS y por elementos que aportan un mayor valor semántico a nuestras webs.
 
 En un próximo post hablaremos de semántica y veremos las nuevas etiquetas y elementos definidos por la especificación.
-

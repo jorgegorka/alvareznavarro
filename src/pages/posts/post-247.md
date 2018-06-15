@@ -3,10 +3,10 @@ title: "Eventos no interactivos en Google Analytics"
 date: '2011-11-03T19:57:45+00:00'
 slug: '/blog/2011/11/eventos-no-interactivos-en-google-analytics'
 tags: ["eventos", "google analytics", "trackEvent"]
-category: 'Analítica'
+category: 'marketing'
 excerpt: "**[![eventos no interactivos en Google Analytics]("
 draft: false
-headerImage: 
+headerImage:
 ---
 **[![eventos no interactivos en Google Analytics](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf4ee4b0400995a88c2c/1392758606015/bounce-rate-300x199.jpg?format=original "bounce-rate")](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf4de4b0400995a88c29/1392758605816/bounce-rate.jpg?format=original)Hasta ahora cuando lanzábamos un evento en Google Analytics contaba como una interacción del usuario en nuestra web y anulaba el rebote. Es decir aunque el usuario hubiera visto una sola página si había ocurrido algún evento, no existía rebote. Desde hoy ya podemos decidir nosotros si queremos que un evento sea interactivo o no interactivo.**<!--more-->
 
@@ -27,4 +27,3 @@ Desde ahora ya podemos decidir si queremos que esto sea así o no. Por defecto, 
 ## Resumen
 
 No todos los eventos tienen la misma importancia ni afectan por igual al comportamiento de los visitantes en nuestra web. Desde ahora es responsabilidad del analista web configurar correctamente los eventos para que afecten o no afecten a la tasa de rebote. Personalmente **creo que existe mucho miedo a tener una tasa de rebote alta** , cuando no siempre es un síntoma malo. Debemos [analizar cada web en su contexto](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf41e4b0400995a88b86/1392758593884/?format=original "Auditoría y análisis web Jorge Alvarez") y decidir lo más adecuado según sus circunstancias particulares.
-

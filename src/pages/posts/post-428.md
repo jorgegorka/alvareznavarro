@@ -3,10 +3,10 @@ title: "El SEO es para los mediocres"
 date: '2011-02-28T07:57:54+00:00'
 slug: '/desarrollo-web/2011/02/el-seo-es-para-los-mediocres'
 tags: ["seo"]
-category: 'Marketing'
+category: 'marketing'
 excerpt: "Hace aproximadamente un año y medio escribí un artículo titulado [Porqué no debes hacer SEO]("
 draft: false
-headerImage: 
+headerImage:
 ---
 Hace aproximadamente un año y medio escribí un artículo titulado [Porqué no debes hacer SEO](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf39e4b0400995a88b39/1392758585697/porque-no-debes-hacer-seo?format=original)Todo lo que dije allí sigue siendo válido y esta plenamente vigente. Hoy intentaré profundizar un poco más en el tema.
 
@@ -46,7 +46,7 @@ Para saber si tenemos visitas de calidad lo mejor es analizar el comportamiento 
 
 Resumen
 
-**Piensa siempre en tus visitantes**. Tu web esta ahí para y por ellos. Escribe pensando en ellos, enlaza pensando en ellos, modifica pensando en ellos. 
+**Piensa siempre en tus visitantes**. Tu web esta ahí para y por ellos. Escribe pensando en ellos, enlaza pensando en ellos, modifica pensando en ellos.
 
 **Genera contenidos de calidad** , bien explicados y conseguirás visitantes de calidad.
 

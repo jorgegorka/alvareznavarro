@@ -3,10 +3,10 @@ title: "frameworks de desarrollo web en javascript"
 date: '2013-12-23T19:33:00+00:00'
 slug: '/desarrollo-web/2013/12/frameworks-desarrollo-web-javascript'
 tags: ["meteor", "node.js", "mongodb"]
-category: 'javascript'
+category: 'web-development'
 excerpt: "Durante el último año he estado probando diversos frameworks de desarrollo web. Todos ellos tenían en común que estaban desarrollados en Javascript.Javascript va a ser a partir de ahora mi lenguaje p..."
 draft: false
-headerImage: 
+headerImage:
 ---
 Durante el último año he estado probando diversos frameworks de desarrollo web. Todos ellos tenían en común que estaban desarrollados en Javascript.
 
@@ -23,6 +23,3 @@ Meteor trae por defecto [MongoDB](https://www.mongodb.org/) como gestor de base 
 Te recomiendo que visites la web de [Meteor](https://www.meteor.com/) y veas los [vídeos de ejemplo](https://www.meteor.com/screencast), seguro que te sorprenden.
 
 Según vaya familiarizandome más con Meteor iré publicando artículos con todo lo que voy aprendiendo.
-
-
-

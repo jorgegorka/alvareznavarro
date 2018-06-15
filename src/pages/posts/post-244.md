@@ -3,10 +3,10 @@ title: "Comercio electrónico - No todo vale"
 date: '2011-11-24T00:20:52+00:00'
 slug: '/blog/2011/11/comercio-electronico-no-todo-vale'
 tags: []
-category: 'Comercio electrónico'
+category: 'marketing'
 excerpt: "[![capsulas nespresso]( capsulas\_n..."
 draft: false
-headerImage: 
+headerImage:
 ---
 [![capsulas nespresso](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf4ce4b0400995a88c1a/1392758604499/capsulas_nespresso.jpeg?format=original "capsulas\_nespresso")](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf4ce4b0400995a88c1a/1392758604499/capsulas_nespresso.jpeg?format=original) **LLevo bastante tiempo comprando en Internet. Mi primer pedido online, que fueron unos libros a Amazon, es del año 2002. Desde entonces he comprado una gran variedad tanto de artículos como de servicios. Estoy acostumbrado a utilizar tiendas online y por mi trabajo a analizarlas y optimizarlas.**
 
@@ -42,4 +42,3 @@ Por lo tanto la web de Nespresso no me aporta ninguna de las dos ventajas princi
 ## Resumen
 
 Que conste que el modelo de Nespresso me parece muy inteligente. Es trasladar el modelo de Apple a la alimentación. Me vendes un Hardware (cafetera) a la espera de que yo compre tu software (cápsulas). El problema radica en que **los usuarios no tragamos con todo** , algo que incluso Apple ha podido comprobar, si quieres que te compre dame buen precio o aporta valor. Tienes que poner al cliente y no tu modelo de negocio, como centro del proceso. Dame motivos por los que comprar tus cápsulas y seré el primero en la fila pero si me lo pones complicado: _"Heaven must wait for its capsules, George"_
-

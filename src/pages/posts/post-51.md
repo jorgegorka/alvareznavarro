@@ -3,10 +3,10 @@ title: "La importancia de la primera impresión"
 date: '2006-02-21T16:34:00+00:00'
 slug: '/blog/2006/02/la-importancia-de-la-primera-impresin'
 tags: ["accesibilidad", "saas"]
-category: 'Marketing'
+category: 'marketing'
 excerpt: " ![mac osx dock]( mac osx dock)Cuando alguien accede a nuestros productos (web, software) por primera vez, esa primera impresión que recibe puede marc..."
 draft: false
-headerImage: 
+headerImage:
 ---
  ![mac osx dock](http://jorgegorka.files.wordpress.com/docks.jpg "mac osx dock")
 
@@ -19,4 +19,3 @@ Os recomiendo leer una [interesante y amena entrevista](http://www.guidebookgall
 En ella cuenta del empeño personal de Steve Jobs en que la primera impresión que se tenga de sus productos sea lo más atractiva posible.
 
 También cuenta que es el propio Steve Jobs el que decide que iconos y en que orden aparecerán en el Dock ( la barra de botones ).
-

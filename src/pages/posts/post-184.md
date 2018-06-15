@@ -3,10 +3,10 @@ title: "Necesita mi empresa tener presencia en las redes sociales?"
 date: '2010-05-31T14:15:00+00:00'
 slug: '/blog/2010/05/necesita-mi-empresa-tener-presencia-en-las-redes-sociales'
 tags: ["redes sociales", "social media"]
-category: 'Marketing'
+category: 'marketing'
 excerpt: "Hace unas semanas explicaba porqué creo que [una empresa no necesita de la figura de un Community Manager]("
 draft: false
-headerImage: 
+headerImage:
 ---
 Hace unas semanas explicaba porqué creo que [una empresa no necesita de la figura de un Community Manager](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf33e4b0400995a88af0/1392758579464/tu-empresa-no-necesita-un-community-manager?format=original "Tu empresa NO necesita un community manager").
 
@@ -32,7 +32,7 @@ Porque este razonamiento implica desconocer como funcionan las redes sociales. L
 
 
 
-Por lo tanto las empresas no tiene cabida en las redes sociales, por definición (y por pura lógica). 
+Por lo tanto las empresas no tiene cabida en las redes sociales, por definición (y por pura lógica).
 
 
 

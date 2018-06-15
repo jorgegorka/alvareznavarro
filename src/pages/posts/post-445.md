@@ -3,10 +3,10 @@ title: "Meteor Docker container restarting every 30 seconds"
 date: '2017-03-29T21:13:50+00:00'
 slug: '/desarrollo-web/2017/3/meteor-docker-container-restarting-every-30-seconds'
 tags: ["meteor", "node.js"]
-category: 'Desarrollo Web'
+category: 'web-development'
 excerpt: "I had a really weird problem today deploying to production using mup. After deployment the docker container was reseting itself every 30 seconds or so. Alarm! Achtung!After inspecting the container w..."
 draft: false
-headerImage: 
+headerImage:
 ---
 I had a really weird problem today deploying to production using mup. After deployment the docker container was reseting itself every 30 seconds or so. Alarm! Achtung!
 
@@ -23,4 +23,3 @@ It looked like the package couldn't get the unicode data from unicode.org. I was
 What I did to solve it was to log in to the docker machine and install the unicode data using the package manager:_apt-get install unicode-data_ and that solved the issue since npm is smart enough to not request that data if it's already present in the system.
 
 I know both solutions are actually hacks but I have my client's website working again and now I have time to think about those errors more carefully and try to find the root of the problem. I will probably add the apt-get command to my docker image but I am not sure why all of a sudden bcrypt has stopped working (I have not updated the bcrypt recently).
-

@@ -3,10 +3,10 @@ title: "How to hire a good web developer"
 date: '2018-05-16T10:16:57+00:00'
 slug: '/blog/2018/5/how-to-hire-a-good-web-developer'
 tags: ["human resources", "hiring", "remote"]
-category: 'management'
+category: 'marketing'
 excerpt: "If you work in Human Resources department of a company and have been involved in the process of hiring a candidate for a technical position you know that it's not an easy process.Two types of web dev..."
-draft: false
-headerImage: 
+draft: true
+headerImage:
 ---
 If you work in Human Resources department of a company and have been involved in the process of hiring a candidate for a technical position you know that it's not an easy process.
 
@@ -45,4 +45,3 @@ Always paying attention to new technologies that could help solving the business
 Good enough is fine. They only refactor code to improve the user experience.
 
 These are
-

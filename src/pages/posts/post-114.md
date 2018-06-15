@@ -3,10 +3,10 @@ title: "Oficinainmobiliaria: 50 días después"
 date: '2007-06-12T21:39:00+00:00'
 slug: '/blog/2007/06/oficinainmobiliaria-50-das-despus'
 tags: ["inmobiliarias", "Internet"]
-category: 'Empresa'
+category: 'marketing'
 excerpt: "Hace 50 días del lanzamiento de Oficinainmobiliaria: El servicio que permite a las [agencias inmobiliarias crear su propia web y publicar sus propios inmuebles, todo gratis]("
 draft: false
-headerImage: 
+headerImage:
 ---
 Hace 50 días del lanzamiento de Oficinainmobiliaria: El servicio que permite a las [agencias inmobiliarias crear su propia web y publicar sus propios inmuebles, todo gratis](http://www.oficinainmobiliaria.es).
 
@@ -21,4 +21,3 @@ En la versión inicial de oficinainmobiliaria.es existía una zona destinada a m
 Otra vez recibimos emails en los que nos comentaban la doble labor que implica mantener actualizados los inmuebles en la web y en la propia oficina. Es evidente que cuando el número de inmuebles a publicar es elevado hay un doble trabajo bastante incomodo ya que todos los cambios y/o correciones que se hacen en la oficina se han de trasladar a la web. La solución para eso fue rápida y efectiva. A los usuarios registrados de oficinainmobiliaria.es les ofrecemos la posibilidad de [descargar y utilizar nuestro programa de gestión inmobiliaria: Gestioninmuebles.es completamente gratis](http://www.oficinainmobiliaria.es/index.php). Con el programa pueden gestionar su oficina, su cartera de inmuebles, clientes, demandas, obra nueva, informes, etc... y con un simple click de ratón actualizar la web.
 
 De momento los inicios son prometedores ya hay más de 70 inmobiliarias y más de 12.000 inmuebles publicados. Si se mantiene este ritmo de 50/60 altas al mes podemos considerarnos más que satisfechos. Y eso que, como todo lanzamiento, la web todavía no posiciona muy bien en Google.
-

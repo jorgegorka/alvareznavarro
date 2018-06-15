@@ -3,10 +3,10 @@ title: "Medir las páginas de error con Google Analytics"
 date: '2011-03-16T07:27:13+00:00'
 slug: '/blog/2011/03/medir-las-paginas-de-error-con-google-analytics'
 tags: ["google analytics"]
-category: 'Analítica'
+category: 'marketing'
 excerpt: "Me he inscrito al [Master de Analítica Web]( que imparte [Secuoyas]("
 draft: false
-headerImage: 
+headerImage:
 ---
 Me he inscrito al [Master de Analítica Web](http://www.secuoyasacademy.com/master-analitica-web.html) que imparte [Secuoyas](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf35e4b0400995a88b0c/1392758581676/?format=original). Creo que tiene unos contenidos muy interesantes y unos profesores de primer nivel así que doy por seguro que será un tiempo muy bien aprovechado.
 

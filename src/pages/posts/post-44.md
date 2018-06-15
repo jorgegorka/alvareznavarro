@@ -3,10 +3,10 @@ title: "Programa de estadísticas web Mint vs. Google Analytics"
 date: '2006-01-17T20:44:00+00:00'
 slug: '/blog/2006/01/programa-de-estadsticas-web-mint-vs-google-analytics'
 tags: ["mint", "google analytics"]
-category: 'Analítica'
+category: 'marketing'
 excerpt: "Hasta ahora he controlado las estadísticas a los sitios web quegestiono: informática32 y Gestioninmuebles.com mediante Urchin.Creo que la información que proporciona es más que aceptable.El caso es..."
 draft: false
-headerImage: 
+headerImage:
 ---
 Hasta ahora he controlado las estadísticas a los sitios web quegestiono: informática32 y Gestioninmuebles.com mediante Urchin.
 
@@ -21,4 +21,3 @@ Pensando en un posible cambio contemplo dos posibles escenarios:
 Este último me da muy buena impresión (mejor que Google) aunque parece muy simple y no tengo referencias de nadie que lo esté empleando.
 
 Si tú empleas [Mint](http://www.haveamint.com/) te estaré muy agradecido si me comentas tus impresiones sobre él.
-

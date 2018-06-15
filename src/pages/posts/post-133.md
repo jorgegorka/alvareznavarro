@@ -3,10 +3,10 @@ title: "Contra la piratería: imaginación"
 date: '2008-12-09T20:43:00+00:00'
 slug: '/blog/2008/12/contra-la-pirateroa-imaginacion'
 tags: ["Internet", "okupas", "pirateria"]
-category: 'Empresa'
+category: 'marketing'
 excerpt: "Aunque el ¿ministerio de cultura? nos quiere imponer una definición de piratería bastante interesada, todos sabemos quienes son los piratas.En el siglo XXI podemos definir como piratas a aquellos int..."
 draft: false
-headerImage: 
+headerImage:
 ---
 Aunque el ¿ministerio de cultura? nos quiere imponer una definición de piratería bastante interesada, todos sabemos quienes son los piratas.
 
@@ -29,6 +29,3 @@ Es imposible registrar todas las posibles combinaciones de palabras para cualqui
 Añadiendo preposiciones, artículos, juegos de palabras.. es relativamente sencillo encontrar un dominio libre y pagar por él un precio justo.
 
 Lo importante es no comprar NUNCA dominios en webs de subastas de dominios ni comprar aquellos dominios sin usar que solo han sido registrados con el propósito de revenderlos. De esta manera conseguiremos acabar con esta otra lacra social que cada vez más nos invade.
-
-
-

@@ -3,10 +3,10 @@ title: "Panel de control SEO con Google Analytics"
 date: '2011-09-07T09:03:58+00:00'
 slug: '/blog/2011/09/panel-de-control-seo-con-google-analytics'
 tags: ["dashboards", "google analytics"]
-category: 'SEO'
+category: 'marketing'
 excerpt: "Poder posicionar una web en los primeros puestos de los buscadores es un trabajo de constancia, de perseverancia que requiere tiempo y recursos. Por eso es muy importante medir y evaluar el funcionamie..."
 draft: false
-headerImage: 
+headerImage:
 ---
 Poder posicionar una web en los primeros puestos de los buscadores es un trabajo de constancia, de perseverancia que requiere tiempo y recursos. Por eso es muy importante medir y evaluar el funcionamiento de nuestra web a nivel de SEO. Vamos a crear un panel de control (dashboard) con los datos y métricas más importantes que nos proporciona Google Analytics y que nos permitirán de un solo vistazo evaluar y controlar como va evolucionando nuestra web a nivel de SEO.
 
@@ -72,4 +72,3 @@ Por último las palabras clave con las que los usuarios han buscado en Google pa
 **Resumen**
 
 El tráfico SEO o tráfico de buscadores es una parte muy importante del tráfico de cualquier sitio web. Gracias a la personalización que nos permiten los paneles de control de Google Analytics podemos conocer de forma cómoda como evoluciona este tráfico y detectar anomalías para enfocar nuestros esfuerzos de posicionamiento allí donde sea necesario.
-

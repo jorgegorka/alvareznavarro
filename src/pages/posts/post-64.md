@@ -3,10 +3,10 @@ title: "Diles con tu firma NO AL CANON"
 date: '2006-04-28T10:27:00+00:00'
 slug: '/blog/2006/04/diles-con-tu-firma-no-al-canon'
 tags: ["injusticias", "Internet"]
-category: 'Personal'
+category: 'other'
 excerpt: "Asociaciones, Empresas, Ciudadanos y, en particular, el mundo digital se han unido para defenderse del CANON ( en los CDs, DVDs, ADSL, Impresoras, Discos Duros, Reproductores MP3..) que los políticos y..."
 draft: false
-headerImage: 
+headerImage:
 ---
 Asociaciones, Empresas, Ciudadanos y, en particular, el mundo digital se han unido para defenderse del CANON ( en los CDs, DVDs, ADSL, Impresoras, Discos Duros, Reproductores MP3..) que los políticos y las Sociedades de Gestion de Derechos de Autor del canon quieren imponernos con la nueva Ley de Propiedad Intelectual que se esta tramitando actualmente en el Senado y para pedir RESPETO ante las campañas de criminalización de Internet que estamos sufriendo en los últimos tiempos.
 
@@ -17,4 +17,3 @@ La plataforma [TODOSCONTRAELCANON](http://www.todoscontraelcanon.es) ha elaborad
 No te quedes parado. Distribuye este mensaje entre todos tus contactos. Entre todos tus vecinos, compañeros, amigos, enemigos, conocidos y desconocidos… en foros, listas de correo, páginas web… Qué nadie diga que no firmó contra el CANON porque nadie se lo dijo. ¡!Haz que se enteren!!.
 
 [Enlace al articulo](http://www.internautas.org/html/3631.html)
-

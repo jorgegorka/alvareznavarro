@@ -3,10 +3,10 @@ title: "El (sobrevalorado) análisis en tiempo real"
 date: '2013-04-26T17:42:01+00:00'
 slug: '/blog/2013/04/el-sobrevalorado-analisis-en-tiempo-real'
 tags: ["real-time"]
-category: 'Optimización'
+category: 'marketing'
 excerpt: "Existe cierta obsesión por conocer lo que ocurre en nuestra web en tiempo real. Parece que si no sabemos lo que está pasando en nuestra web a cada momento nos estamos perdiendo algo. En la mayoría de w..."
 draft: false
-headerImage: 
+headerImage:
 ---
 Existe cierta obsesión por conocer lo que ocurre en nuestra web en tiempo real. Parece que si no sabemos lo que está pasando en nuestra web a cada momento nos estamos perdiendo algo. En la mayoría de webs, saber lo que está ocurriendo en tiempo real no solamente es innecesario sino que a veces nos puede llevar a tomar decisiones precipitadas.<!--more-->
 
@@ -43,4 +43,3 @@ Si queremos ser proactivos, esto es, anticiparnos a las necesidades de nuestros 
 ## Resumen
 
 No conviene obsesionarse con saber lo que está pasando en nuestra web en cada minuto. Y mucho menos cuando nuestra capacidad de modificar nuestra web se mide en días, semanas o incluso meses. Centrémonos en analizar la información de forma sosegada, tranquila y reposada. Las decisiones que tomemos seguro que son mucho más acertadas.
-

@@ -3,12 +3,12 @@ title: "Seguimiento de enlaces externos con Google Analytics"
 date: '2011-10-20T08:05:00+00:00'
 slug: '/blog/2011/10/seguimiento-de-enlaces-externos-con-google-analytics'
 tags: ["google analytics", "javascript"]
-category: 'Analítica'
+category: 'marketing'
 excerpt: "[![enlaces salientes con google analytics]("
 draft: false
-headerImage: 
+headerImage:
 ---
-[![enlaces salientes con google analytics](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf4be4b0400995a88c13/1392758603793/enlaces-salientes.png?format=original "enlaces-salientes")](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf4be4b0400995a88c10/1392758603595/?format=original) **Enlazar a nuestras fuentes de datos, contenido adicional, sitios relacionados, etc.. aporta valor a quienes visitan nuestro sitio web. Aquí tienes un fichero javascript que te permitirá contabilizar automáticamente en Google Analytics cuando alguien pulse un enlace de tu web que lleva a otras webs.** 
+[![enlaces salientes con google analytics](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf4be4b0400995a88c13/1392758603793/enlaces-salientes.png?format=original "enlaces-salientes")](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf4be4b0400995a88c10/1392758603595/?format=original) **Enlazar a nuestras fuentes de datos, contenido adicional, sitios relacionados, etc.. aporta valor a quienes visitan nuestro sitio web. Aquí tienes un fichero javascript que te permitirá contabilizar automáticamente en Google Analytics cuando alguien pulse un enlace de tu web que lleva a otras webs.**
 
 
 
@@ -71,4 +71,3 @@ Si tienes dudas o consultas sobre el script te invito a usar los comentarios par
 He incluido el host por defecto, como bien apuntaba @trasgu en su comentario, para que no sea necesario editar el script. Puedes copiarlo directamente sin tener que modificarlo, a no ser que quieras cambiar los nombres de categoría, acción, etiqueta y valor que vienen por defecto.
 
 También he añadido la detección en función de si estamos empleando la versión síncrona o asíncrona de analytics y ahora funciona en ambos casos.
-

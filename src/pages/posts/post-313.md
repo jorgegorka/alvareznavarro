@@ -3,10 +3,10 @@ title: "peer-to-peer rewards as a way of recognition at work"
 date: '2016-06-21T11:39:00+00:00'
 slug: '/blog/2016/6/peer-to-peer-rewards-as-a-way-of-recognition-atwork'
 tags: ["employee engagement", "feedback", "digital nomads", "peer-to-peer rewards"]
-category: 'management'
+category: 'marketing'
 excerpt: "In most companies recognition usually comes “from above” but when you receive recognition from one of your co-workers then things change, you feel proud and happy. Your self-esteem increases as do your sense of belonging to the team."
 draft: false
-headerImage: 
+headerImage:
 ---
 [Peer-to-peer rewards](https://www.happymoodscore.com/?utm_source=medium&utm_medium=blog&utm_campaign=p2p) are the best form of recognition at work. Well, maybe not the best but one of the best. It is in the top 3, that’s for sure.
 
@@ -29,4 +29,3 @@ The reason is very simple. From my experience implementing reward systems on com
 That is not a good use of a peer-to-peer system and must be avoided. If you don’t know who send a High 5 to you, you can’t, obviously, give another in return. This measure will increase the efficiency of the system in the long term.
 
 If you are a team manager, work for the human resources department or you are thinking about implementing a [peer-to-peer reward system](https://www.happymoodscore.com/?utm_source=medium&utm_medium=blog&utm_campaign=p2p) at your company there is no better tool than [Happy Mood Score](https://www.happymoodscore.com/?utm_source=medium&utm_medium=blog&utm_campaign=p2p).
-

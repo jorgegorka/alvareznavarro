@@ -3,10 +3,10 @@ title: "Acabaremos todos programando en Javascript?"
 date: '2010-12-17T09:58:00+00:00'
 slug: '/desarrollo-web/2010/12/acabaremos-todos-programando-en-javascript'
 tags: ["javascript"]
-category: 'Desarrollo Web'
+category: 'web-development'
 excerpt: "[caption id= align=alignnone width=] ![Javascript]("
 draft: false
-headerImage: 
+headerImage:
 ---
 [caption id="" align="alignnone" width=""] ![Javascript](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/53385c63e4b080dbf7df7441/5303cf38e4b0400995a88b2d/1392758584268/javascript-scaled600.jpg) Javascript[/caption]
 
@@ -65,4 +65,3 @@ que es un lenguaje que permite una sintaxis más amigable y que luego se compila
 Otras como JavascriptMVC nos permiten utilizar paradigmas aceptados y empleados en el desarrollo web.
 
 La tendencia es aumentar la lógica en el lado cliente para poder permitir el uso de las aplicaciones web en entornos en los que no hay conectividad. Por lo tanto no parece descabellado pensar que si toda la lógica de una aplicación web en el lado del cliente está programada en javascript, también pueda estarlo la del lado servidor.
-

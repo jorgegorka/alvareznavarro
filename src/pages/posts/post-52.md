@@ -3,10 +3,10 @@ title: "Los cambios: Inconveniente o ventaja"
 date: '2006-02-28T15:29:00+00:00'
 slug: '/blog/2006/02/los-cambios-inconveniente-o-ventaja'
 tags: ["rails", "ruby"]
-category: 'Personal'
+category: 'other'
 excerpt: "En el mundo de la informática todo cambia a velocidad de vértigo. Las tecnologías nacen, crecen, maduran y nacen otras nuevas, que crecen y maduran y…..Estar siempre a la última en este mundo es impo..."
 draft: false
-headerImage: 
+headerImage:
 ---
 En el mundo de la informática todo cambia a velocidad de vértigo. Las tecnologías nacen, crecen, maduran y nacen otras nuevas, que crecen y maduran y…..
 
@@ -36,4 +36,3 @@ Telefónica compró Olé por una millonada y lo dejó morir de pena. Olé era to
 Seguro que en el desarrollo de Noxtrum han gastado mucho más que si hubieran ido mejorando y adaptando Olé a las necesiadades que el mercado demandaba.
 
 Ahora con Google con un 80% del mercado español ponte a competir con él.
-

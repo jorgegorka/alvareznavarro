@@ -3,10 +3,10 @@ title: "El visitante como centro del análisis web"
 date: '2011-11-15T01:55:43+00:00'
 slug: '/blog/2011/11/el-visitante-como-centro-del-analisis-web'
 tags: ["kpi", "objetivos"]
-category: 'Analítica'
+category: 'marketing'
 excerpt: "[![el usuario como centro del análisis web]("
 draft: false
-headerImage: 
+headerImage:
 ---
 [![el usuario como centro del análisis web](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf4de4b0400995a88c23/1392758605217/user-centered-300x188.jpg?format=original "user-centered")](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf4de4b0400995a88c20/1392758605016/user-centered.jpg?format=original) **Cuando nos enfrentamos al análisis de una web lo primero que debemos tener muy claro son los objetivos y los indicadores que nos servirán para cumplir dichos objetivos. Este es el primer paso que todo buen analista web debe realizar. De una buena definición de objetivos y de sus indicadores, dependerá que todo el esfuerzo que realicemos después tenga éxito o no. Si nuestros indicadores están mal elegidos o no son los correctos, las conclusiones a las que nos lleven serán erroneas y no servirán para mejorar la web analizada.** <!--more-->
 
@@ -50,4 +50,3 @@ Realizar un análisis serio, riguroso y que aporte valor al cliente es un trabaj
 - [The Elements of User Experience](http://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0321683684/ref=sr_1_1?s=books&ie=UTF8&qid=1321314510&sr=1-1 "The Elements of User Experience")
 
 [box] Si deseas un análisis que te permita conocer con detalle lo que pasa en tu página web, [contacta conmigo](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf44e4b0400995a88ba5/1392758596086/?format=original "Contactar").[/box]
-

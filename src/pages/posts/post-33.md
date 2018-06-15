@@ -3,10 +3,10 @@ title: "El amor es ciego... y los usuarios también"
 date: '2005-11-15T10:37:00+00:00'
 slug: '/blog/2005/11/el-amor-es-ciego-y-los-usuarios-tambin'
 tags: ["metodologias", "negocios", "usuarios"]
-category: 'Marketing'
+category: 'marketing'
 excerpt: "![]( interesante el comentario que [Kathy Sierra hace en su web]( sobre la diferente form..."
 draft: false
-headerImage: 
+headerImage:
 ---
 ![](http://jorgegorka.files.wordpress.com/blindspot.jpg)
 
@@ -19,4 +19,3 @@ Yo, no soy usuario de Mac, pero la misma percepción la tengo con Linux frente a
 Este tipo de comportamientos nos muestran las ventajas de
 
 [desarrollar pensando en tus usuarios](http://es.wikipedia.org/wiki/Dise%C3%B1o_universal) y no en tus accionistas. Una empresa que tiene como norma hacer las cosas bien y pensando en sus usuarios obtiene a cambio usuarios entregados y fieles y que están predispuestos a perdonarle en caso de error. Mientras que aquellas empresas que no situan a los usuarios como objetivo principal de sus productos se convierten en el blanco de todos los problemas, sean o no debidos a ellos.
-

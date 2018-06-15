@@ -3,14 +3,14 @@ title: "Estadísticas de uso del blog - Resumen 2013 - Fidelización"
 date: '2013-12-31T22:48:00+00:00'
 slug: '/blog/6998'
 tags: ["estadisticas", "fidelización"]
-category: 'Personal'
+category: 'other'
 excerpt: "Una vez que hemos captado visitantes y hemos conseguido que hagan alguno de los objetivos para los que creamos la web el tercer paso es la fidelización.  Conseguir que nos recuerden y que quieran volver a visitarnos."
 draft: false
-headerImage: 
+headerImage:
 ---
 Una vez que hemos captado visitantes y hemos conseguido que hagan alguno de los objetivos para los que creamos la web el tercer paso es la fidelización. Conseguir que nos recuerden y que quieran volver a visitarnos.
 
- [caption id="" align="alignnone" width="650.0"][![Visitantes recurrentes - directo](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf5be4b0400995a88cd7/1392758855184/returning_direct-650x170.png)](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf5ae4b0400995a88cd4/1392758618909/returning_direct.png?format=original) Visitantes recurrentes - directo[/caption] 
+ [caption id="" align="alignnone" width="650.0"][![Visitantes recurrentes - directo](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf5be4b0400995a88cd7/1392758855184/returning_direct-650x170.png)](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf5ae4b0400995a88cd4/1392758618909/returning_direct.png?format=original) Visitantes recurrentes - directo[/caption]
 
 _Visitantes recurrentes con acceso directo_
 
@@ -39,4 +39,3 @@ El año 2013 ha supuesto un incremento del 27.49% en el número de visitas prove
 ## Resumen
 
 A pesar de la baja producción de artículos he mejorado la fidelización de visitantes. Hay más suscriptores al RSS hay más visitantes recurrentes y más visitantes recurrentes que acceden de forma directa al blog. Mi objetivo principal es ofrecer más formas de suscripción a los visitantes para que puedan estar al tanto de las novedades del blog.
-

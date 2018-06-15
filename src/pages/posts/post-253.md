@@ -3,10 +3,10 @@ title: "Comercio Electrónico: Cuando Saber Español Penaliza"
 date: '2012-12-08T23:35:42+00:00'
 slug: '/blog/2012/12/comercio-electronico-cuando-saber-espanol-penaliza'
 tags: ["precio", "valor"]
-category: 'Comercio electrónico'
+category: 'marketing'
 excerpt: "El comercio electrónico está despegando. Las ventas online crecen sin parar. Los consumidores cada vez tenemos más sitios web donde comprar, más competencia y mejores precios… excepto para los que solo hablan español."
 draft: false
-headerImage: 
+headerImage:
 ---
 ## Leer en español tiene un sobrecoste económico
 
@@ -127,4 +127,3 @@ Que los libros son cultura es algo que nadie puede poner en duda, pero que acced
 Ahora que el comercio electrónico está despegando no podemos establecer barreras artificiales sobre las tiendas online. En las versiones electrónicas de los libros no tenemos muchas de las restricciones que encarecen las versiones físicas de papel. Sin embargo los precios no reflejan esta ausencia de restricciones.
 
 Si acostumbramos a la gente a que o bien no disponen de versiones electrónicas de sus libros favoritos, o bien deben comprarlas en otros idiomas para obtener buenos precios estamos creando unos hábitos que a la larga pasarán factura sobre las tiendas online españolas.
-

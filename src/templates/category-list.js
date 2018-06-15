@@ -51,7 +51,7 @@ export const categoriesListQuery = graphql`
     allMarkdownRemark(
       limit: 2000
       sort: { fields: [frontmatter___date], order: DESC }
-      filter: { frontmatter: { category: { eq: $category } } }
+      filter: { frontmatter: { draft: { eq: false }, category: { eq: $category } } }
     ) {
       totalCount
       edges {

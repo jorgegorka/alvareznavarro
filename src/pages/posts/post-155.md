@@ -3,10 +3,10 @@ title: "La prensa tradicional online: De culo y contra el viento"
 date: '2010-02-22T08:18:58+00:00'
 slug: '/blog/2010/02/el-ocaso-de-la-prensa-tradicional-online'
 tags: ["publicidad online"]
-category: 'Marketing'
+category: 'marketing'
 excerpt: "Los grandes medios [se quejan de que la prensa online no es rentable]( Paradójicamente, incluso con crisis, Inter..."
 draft: false
-headerImage: 
+headerImage:
 ---
 Los grandes medios [se quejan de que la prensa online no es rentable](http://www.publico.es/especiales/libre/242891/murdoch/avanza/cobrara/periodicos/online). Paradójicamente, incluso con crisis, Internet es el único sector donde[aumenta año tras año la inversión publicitaria](http://marketingyconsumo.com/tag/prevision-de-la-publicidad-online). ¿Cual es entonces el problema? Pues como casi siempre el modelo de negocio y la poca capacidad de innovar y adaptarse de las grandes corporaciones.
 
@@ -32,4 +32,3 @@ Para venderme la publicidad aquí te doy algunas ideas:
 4. **No quiero pagar por que me vendas publicidad.** [Algunos directivos](http://www.233grados.com/blog/2009/08/murdoch-pago-.html), a los que sin duda Internet les viene grande, hablan de la necesidad de **cerrar los contenidos y hacerlos de pago**.  En mi opinión **es un error garrafal** , pero si lo haces tienes que cumplir dos premisas. Primero dame valor añadido, si quieres mi dinero gánatelo y segundo fuera publicidad. Si te pago es para evitar anuncios, no quiero pagar por ver publicidad sino por ver contenidos.
 
 En resumen Internet es una plataforma mucho más poderosa que el papel. Para cualquier medio de comunicación debería ser su El Dorado. Sin embargo la mayoría miran a Internet con preocupación, recelo y lo ven como un enemigo más que como el aliado que les ayudará a sobrevivir en el futuro próximo. El problema siempre es el mismo hay que reconocer y aceptar que **en Internet mandan los usuarios**.
-

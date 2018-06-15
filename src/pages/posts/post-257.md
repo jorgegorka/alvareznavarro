@@ -3,10 +3,10 @@ title: "Métricas para la gestión de proyectos web: Desarrollo"
 date: '2013-05-03T08:28:59+00:00'
 slug: '/blog/2013/05/metricas-para-la-gestion-de-proyectos-web-desarrollo'
 tags: ["gestion-proyectos-web"]
-category: 'Desarrollo Web'
+category: 'web-development'
 excerpt: "Medir el rendimiento de nuestro desarrollo no es una tarea fácil.  Utilizar metodologías ágiles como Scrum nos ayuda y disponemos de indicadores como la velocidad o el burndown rate pero son valores cuantitativos que por si solos dicen muy poco acerca de la calidad del código generado.  Necesitamos un indicador cualitativo.  Yo utilizo uno de mi invención que denomino Quality Score."
 draft: false
-headerImage: 
+headerImage:
 ---
 Medir el rendimiento de nuestro desarrollo no es una tarea fácil. Utilizar metodologías ágiles como Scrum nos ayuda y disponemos de indicadores como la velocidad o el burndown rate pero son valores cuantitativos que por si solos dicen muy poco acerca de la calidad del código generado. Necesitamos un indicador cualitativo. Yo utilizo uno de mi invención que denomino Quality Score.<!--more-->
 
@@ -62,4 +62,3 @@ Cuales son en tu opinión las métricas y/o los K.P.I.s mejores para medir un pr
 Cómo podríamos mejorar este K.P.I. para hacerlo más fiable?
 
 Espero tus comentarios.
-

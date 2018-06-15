@@ -3,10 +3,10 @@ title: "Estadísticas de uso de navegadores Octubre - Noviembre 2013"
 date: '2013-11-07T10:13:22+00:00'
 slug: '/desarrollo-web/2013/11/estadisticas-de-uso-de-navegadores-octubre-noviembre-2013'
 tags: ["browsers", "firefox", "google chrome", "navegadores"]
-category: 'Desarrollo Web'
+category: 'web-development'
 excerpt: "Google Chrome confirma y aumenta su hegemonía como el navegador preferido por la mayoría de los internautas.Esto significa una cosa:Mayor seguridad para los usuarios y mejor soporte de los estándares web y HTML 5."
 draft: false
-headerImage: 
+headerImage:
 ---
 [caption id="" align="alignnone" width=""] ![estadisticas de uso de navegadores web octubre noviembre 2013](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/53385c63e4b080dbf7df7441/5303cf55e4b0400995a88c82/1392758613026/StatCounter-browser_version-ww-monthly-201310-201311-bar-300x193.jpg) estadisticas de uso de navegadores web octubre noviembre 2013[/caption]
 
@@ -77,4 +77,3 @@ Con la excepción de Alemania, donde el navegador más utilizado es Firefox, el 
 Como usuarios de Internet utilizar un navegador u otro no es una decisión que deba tomarse a la ligera. Todos accedemos a webs que manejan información sensible (bancos, comercio electrónico, administraciones...) y la primera medida de seguridad es utilizar un navegador moderno y actualizado y hoy por hoy esa garantía solo nos la puede ofrecer Chrome y Firefox.
 
 Creo que la estrategia de Microsoft de lanzar una versión de Explorer cada año responde a que sigue siendo una compañía que vive del desktop y que Internet todavía no es un canal por el que hayan apostado de forma decidida. Sin embargo los usuarios están dando la espalda a Explorer y esto hace que la percepción de Microsoft como empresa puntera en Internet se vea perjudicada lo que a la larga seguro que acaba pasandoles factura.
-

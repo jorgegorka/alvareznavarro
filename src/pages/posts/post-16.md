@@ -3,12 +3,12 @@ title: "Information Architecture : Blueprints for the web"
 date: '2004-03-03T16:03:00+00:00'
 slug: '/blog/2004/03/information-architecture-blueprints-for-the-web'
 tags: ["usabilidad"]
-category: 'usabilidad'
+category: 'web-development'
 excerpt: "[![information architecture portada]("
 draft: false
-headerImage: 
+headerImage:
 ---
-[![information architecture portada](http://jorgegorka.files.wordpress.com/information_architecture.jpg)](http://www.amazon.com/Information-Architecture-Blueprints-Christina-Wodtke/dp/0735712506/sr=1-1/qid=1163860685/ref=sr_1_1/102-4838740-6826568?ie=UTF8&s=books)**[Título: Information Architecture : Blueprints for the web](http://www.amazon.com/Information-Architecture-Blueprints-Christina-Wodtke/dp/0735712506/sr=1-1/qid=1163860685/ref=sr_1_1/102-4838740-6826568?ie=UTF8&s=books)**  
+[![information architecture portada](http://jorgegorka.files.wordpress.com/information_architecture.jpg)](http://www.amazon.com/Information-Architecture-Blueprints-Christina-Wodtke/dp/0735712506/sr=1-1/qid=1163860685/ref=sr_1_1/102-4838740-6826568?ie=UTF8&s=books)**[Título: Information Architecture : Blueprints for the web](http://www.amazon.com/Information-Architecture-Blueprints-Christina-Wodtke/dp/0735712506/sr=1-1/qid=1163860685/ref=sr_1_1/102-4838740-6826568?ie=UTF8&s=books)**
 **Autor: Christina Wodtke**
 
 Reconozco que antes de leer este libro mi idea de lo que debía ser un arquitecto de la información estaba bastante alejada de la realidad.
@@ -20,4 +20,3 @@ En el libro se explican las diferentes facetas a tener en cuenta cuando tenemos 
 A mi juicio un libro imprescindible, bien explicado con ejemplos claros y muy didáctico.
 
 Recomendable al 100%
-

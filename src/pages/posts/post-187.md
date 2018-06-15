@@ -3,10 +3,10 @@ title: "Las críticas a las empresas en un mundo 2.0 (gestión de la reputación
 date: '2010-07-14T14:57:00+00:00'
 slug: '/blog/2010/07/las-criticas-a-las-empresas-en-un-mundo-2-0-gestion-de-la-reputacion'
 tags: ["redes sociales", "social media"]
-category: 'Marketing'
+category: 'marketing'
 excerpt: "[caption id= align=alignnone width=] ![Criticas]("
 draft: false
-headerImage: 
+headerImage:
 ---
 [caption id="" align="alignnone" width=""] ![Criticas](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf34e4b0400995a88afa/1392758580268/criticas-scaled600.jpg) Criticas[/caption]
 
@@ -49,4 +49,3 @@ Haciendo las cosas así nos aproximamos a nuestros clientes. Dejan de vernos com
 , porque al final no quedas bien con nadie.
 
 _(c) Imagenhttp://www.flickr.com/photos/jeremymates/2827193488/_
-

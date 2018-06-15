@@ -3,10 +3,10 @@ title: "Posicionamiento en buscadores tráfico SEO y tráfico de marca"
 date: '2011-08-31T11:17:25+00:00'
 slug: '/blog/2011/08/posicionamiento-en-buscadores-trafico-seo-y-trafico-de-marca'
 tags: ["google analytics", "posicionamiento en buscadores", "tráfico de marca", "tráfico seo"]
-category: 'SEO'
+category: 'marketing'
 excerpt: "Una parte muy importante del tráfico que recibe nuestra web llega a través de los buscadores, Google principalmente. Es muy importante conocer de forma real y precisa como está posicionada nuestra web ..."
 draft: false
-headerImage: 
+headerImage:
 ---
 Una parte muy importante del tráfico que recibe nuestra web llega a través de los buscadores, Google principalmente. Es muy importante conocer de forma real y precisa como está posicionada nuestra web y en que términos aparecemos para enfocar nuestros esfuerzos de posicionamiento en aquellos términos que mejor rendimiento nos dan. No queremos muchas visitas, queremos muchas visitas de calidad. Para poder evaluar de forma precisa el tráfico que recibimos de los buscadores es necesario dividir este tráfico en dos tipos: Tráfico SEO y Tráfico de Marca, veamos en que consisten estos dos tipos de tráfico.
 
@@ -62,4 +62,3 @@ Por lo tanto, la suma de tráfico directo más el tráfico orgánico de marca no
 Distinguir entre el tráfico de marca y el tráfico SEO es muy importante para conocer dos cosas: Como funciona nuestra [estrategia de posicionamiento en buscadores](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf3ee4b0400995a88b62/1392758590989/?format=original "Logroño Posicionamiento en buscadores SEO ") y saber el peso que nuestra marca comercial tiene en los visitantes.
 
 Además, una vez que hemos definido el conjunto de palabras que nos permiten segmentar entre diferentes tipos de tráfico podemos aprovechar toda la potencia de los informes personalizados y los segmentos avanzados para [extraer información muy valiosa](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf3fe4b0400995a88b6b/1392758591597/?format=original "Informes a medida de su empresa y su sector") sobre la calidad de los visitantes que llegan a nuestra web y donde centrar nuestros esfuerzos de SEO.
-

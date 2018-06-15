@@ -3,10 +3,10 @@ title: "Windows vs. Mac vs. Internet"
 date: '2006-01-23T20:24:00+00:00'
 slug: '/blog/2006/01/windows-vs-mac-vs-internet'
 tags: []
-category: 'Personal'
+category: 'other'
 excerpt: "En un [artículo anterior]( decía que, en mi opinión, el cambio deApple a Intel debía ser motivo de preocupación pa..."
 draft: false
-headerImage: 
+headerImage:
 ---
 En un [artículo anterior](http://www.riojasoft.com/articles/2006/01/18/mac-mini-visteme-despacio-que-tengo-prisa) decía que, en mi opinión, el cambio deApple a Intel debía ser motivo de preocupación para Microsoft. Expondré mis razones de porqué creo esto.
 
@@ -19,4 +19,3 @@ Ahora estamos en la era de Internet. Las grandes empresas del campo de las nueva
 Además resulta que hoy en día disponemos en el mercado de sistemas operativos gratuítos (sí, estoy pensando en Linux) que superan en prestaciones y seguridad al de Microsoft. Esto nos lleva a que cuando la principal herramienta de trabajo de la gente sea el navegador, el sistema operativo que lo ejecute será algo intrascendente. Creo que aquí esta la base del cambio de Apple a Intel: Acceder a un mercado de millones de personas que no dependerán de un sistema operativo concreto para trabajar.
 
 Microsoft (al menos el gigante que conocemos) está muerto sin la venta de licencias de Windows y Office mientras que Apple no depende en absoluto de su OS X, es más, en un hipotético mundo con ordenadores Linux + [Openoffice](http://www.openoffice.org/)+[Firefox](http://www.mozilla.com) Apple se sentiría como pez en el agua.
-

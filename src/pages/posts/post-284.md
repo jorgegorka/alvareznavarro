@@ -3,14 +3,14 @@ title: "Estadísticas de uso del blog - Resumen 2013 - Captación"
 date: '2013-12-29T22:48:00+00:00'
 slug: '/blog/6974'
 tags: ["estadisticas"]
-category: 'Analítica'
+category: 'marketing'
 excerpt: "En esta serie de tres artículos analizo lo sucedido en mi blog desde el punto de vista de los tres principales comportamientos de los visitantes: Captación, Conversión y Fidelización."
 draft: false
-headerImage: 
+headerImage:
 ---
 En esta serie de tres artículos analizo lo sucedido en mi blog desde el punto de vista de los tres principales comportamientos de los visitantes: Captación, Conversión y Fidelización.
 
- [caption id="" align="alignnone" width="650.0"][![visitas al blog 2013 vs 2012](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf59e4b0400995a88cc3/1392758856513/visits_2013-650x156.png)](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf59e4b0400995a88cc0/1392758617514/visits_2013.png?format=original) visitas al blog 2013 vs 2012[/caption] 
+ [caption id="" align="alignnone" width="650.0"][![visitas al blog 2013 vs 2012](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf59e4b0400995a88cc3/1392758856513/visits_2013-650x156.png)](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf59e4b0400995a88cc0/1392758617514/visits_2013.png?format=original) visitas al blog 2013 vs 2012[/caption]
 ## Captación
 
 ### Estoy atrayendo visitantes interesados en el contenido que publico?
@@ -28,7 +28,7 @@ A la vista de estos datos me surgen las siguientes preguntas:
 Me toca investigar más a fondo si quiero saber realmente si los nuevos visitantes están interesados en el blog.
 
 ### Desde donde llegan los visitantes a mi blog?
- [caption id="" align="alignnone" width="300.0"][![Origen de las visitas 2013](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf5ae4b0400995a88cc9/1392758856352/traffic_source-300x232.png)](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf59e4b0400995a88cc6/1392758617918/traffic_source.png?format=original) Origen de las visitas 2013[/caption] 
+ [caption id="" align="alignnone" width="300.0"][![Origen de las visitas 2013](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf5ae4b0400995a88cc9/1392758856352/traffic_source-300x232.png)](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf59e4b0400995a88cc6/1392758617918/traffic_source.png?format=original) Origen de las visitas 2013[/caption]
 
 Aquí he sufrido un retroceso no en cantidad sino en calidad. En mi opinión un blog cuanto más interesante es más enlaces tendrá de otras webs y más accesos tendrá directamente. En ambos casos 2013 ha supuesto un retroceso frente a 2012. Y aunque el retroceso es pequeño creo que supone un toque de atención y una tendencia a vigilar durante 2014.
 
@@ -71,4 +71,3 @@ El principal motivo por el que escribo este blog, no es otro que plasmar mis con
 Las sucesivas actualizaciones del algoritmo de Google parecen haberme beneficiado y he notado un incremento en la cantidad de visitas que recibo desde Google.
 
 El primer paso está conseguido. He mejorado la captación de visitas al blog, ahora toca analizar los otros dos pasos: la conversión y la fidelización.
-

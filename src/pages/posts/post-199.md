@@ -3,10 +3,10 @@ title: "La importancia de la solidaridad"
 date: '2011-01-20T09:25:53+00:00'
 slug: '/blog/2011/01/la-importancia-de-la-solidaridad'
 tags: ["Uncategorized"]
-category: 'Personal'
+category: 'other'
 excerpt: "Siempre he pensado que los que somos ateos debemos ser doblemente solidarios. Nosotros no esperamos que ningún dios ayude a nadie ni haga milagros. Si las personas no nos ayudamos entre nosotros nadie ..."
 draft: false
-headerImage: 
+headerImage:
 ---
 Siempre he pensado que los que somos ateos debemos ser doblemente solidarios. Nosotros no esperamos que ningún dios ayude a nadie ni haga milagros. Si las personas no nos ayudamos entre nosotros nadie nos ayudará.
 

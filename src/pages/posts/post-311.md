@@ -3,10 +3,10 @@ title: "How to manage remote workers. Learning from the experts."
 date: '2016-04-04T11:35:00+00:00'
 slug: '/blog/2016/4/how-to-manage-remote-workers-learning-from-theexperts'
 tags: ["feedback", "remote", "digital nomads", "employee engagement"]
-category: 'management'
+category: 'marketing'
 excerpt: "Hiring people is not an easy process. Hiring remote workers makes things even harder. For many companies “Seeing is believing” and they find disturbing the fact that some of their workers will never set foot in the office."
 draft: false
-headerImage: 
+headerImage:
 ---
 Hiring people is not an easy process. Hiring remote workers makes things even harder. For many companies _“Seeing is believing”_ and they find disturbing the fact that some of their workers will never set foot in the office.
 
@@ -39,4 +39,3 @@ This is why we have put a massive amount of effort making sure Happy Mood Score 
 With the number of Digital Nomads growing every month many startups are now facing the same needs as sales departments had long time ago.
 
 We have learned from the experts and now we are ready to help others. Give Happy Mood Score a try and [Create your account](https://happymoodscore.com/signup).
-

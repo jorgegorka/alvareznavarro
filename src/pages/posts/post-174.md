@@ -3,10 +3,10 @@ title: "La empresa 2.0 es la empresa que dialoga"
 date: '2010-03-15T06:33:25+00:00'
 slug: '/blog/2010/03/la-empresa-2-0-es-la-empresa-que-dialoga'
 tags: ["redes sociales", "social media"]
-category: 'Marketing'
+category: 'marketing'
 excerpt: "[caption id= align=alignnone width=500.0][![conversation]("
 draft: false
-headerImage: 
+headerImage:
 ---
 [caption id="" align="alignnone" width="500.0"][![conversation](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf31e4b0400995a88adb/1392758834959/conversation.jpg)](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf31e4b0400995a88ad8/1392758577266/conversation.jpg?format=original) conversation[/caption]
 
@@ -49,4 +49,3 @@ Ser abiertos y dialogantes es imprescindible. Nuestra empresa debe promover e in
 [Agustín Cuenca](http://agustin.aspgems.com/), CEO de [ASPgems](http://aspgems.com/), ha lanzado una iniciativa en su blog por la que ofrece a quienes le visitan la posibilidad de pedir temas de los que hablar (que tengan que ver sobre el desarrollo web).
 
 Teniendo en cuenta que el "core" de ASPgems es el desarrollo web ¿A cuantos CEOs conoces que estén dispuestos a dialogar y compartir su conocimiento en Internet?
-

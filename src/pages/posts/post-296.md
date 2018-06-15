@@ -3,10 +3,10 @@ title: "Developing a web application with Meteor and React"
 date: '2015-06-14T16:26:07+00:00'
 slug: '/blog/2015/6/developing-an-application-with-meteor-and-react'
 tags: ["meteor", "react", "javascript", "coffeescript", "mongodb"]
-category: 'web development'
+category: 'web-development'
 excerpt: "Learn how to use meteor and react to develop a modern web application.  This is part 1 of the series. We will use coffeescript instead of plain javascript and the dabase will be mongodb."
 draft: false
-headerImage: 
+headerImage:
 ---
 This is the first part of a series of posts explaining how to create a web application using [Meteor](https://meteor.com) and [React](https://facebook.github.io/react/index.html).
 
@@ -36,7 +36,7 @@ Start the meteor server:
 
 We have done two things in just one line. We are saying meteor that our database name is jachat (you can change the name if you don't like it) and we are also starting the web server. Go to your favorite browser open it and write: http://localhost:3000 You should see something like this:
 
- [caption id="" align="alignnone" width="596.0"] ![And we haven't open our text editor yet...](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/557cc0b4e4b0cd2823c8151a/1434239157069//img.png) And we haven't open our text editor yet... [/caption] 
+ [caption id="" align="alignnone" width="596.0"] ![And we haven't open our text editor yet...](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/557cc0b4e4b0cd2823c8151a/1434239157069//img.png) And we haven't open our text editor yet... [/caption]
 
 Let's see what we have here. Our web server is working and accepting requests at port 3000. We are also displaying some static text with a very basic format. It says "List of messages" but there are no messages displayed which is fine because we didn't have added a single message yet, time to solve that.
 
@@ -46,7 +46,7 @@ Open the Developer Console of your browser. If you use Chrome as your developer 
 
 After you press intro you should see the message under the "List of messages" title. Like this:
 
- [caption id="" align="alignnone" width="619.0"] ![Text editor: who needs one?](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/557cc794e4b00a745428de03/1434240917775//img.png) Text editor: who needs one? [/caption] 
+ [caption id="" align="alignnone" width="619.0"] ![Text editor: who needs one?](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/557cc794e4b00a745428de03/1434240917775//img.png) Text editor: who needs one? [/caption]
 
 Awesome!! isn't it? Try adding more messages changing the description. They will appear automatically. You can even stop the web server and start it again and the messages will still be there. They have been saved in the database for you and you didn't event open your text editor yet (I think I already mentioned that).
 
@@ -116,7 +116,7 @@ Let's open the React file. Open [client/templates/dashboard/index.cjsx](https://
 
 React encourage usto divide the page we want to display into small atomic pieces of functionality and create a component for each of this parts. This is how I divided the page:
 
- [caption id="" align="alignnone" width="736.0"] ![React components](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/557d9096e4b0d260ca985dd1/1434292375449//img.jpg) React components [/caption] 
+ [caption id="" align="alignnone" width="736.0"] ![React components](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/557d9096e4b0d260ca985dd1/1434292375449//img.jpg) React components [/caption]
 
 The content inside the red box corresponds to the component called DashboardIndex that will render the page title and the list of messages. The blue box is the MessageList that will render the list title and every message. Finally, the green box with the message content will be rendered by the MessageContent component.
 
@@ -143,6 +143,3 @@ We have seen quite a few things in this first post of the series. We have now an
 I am looking forward to your comments and suggestions.
 
 **P.D. June 15th** - Thanks to Joshua Owens for [asking me about a naming hack](https://crater.io/posts/c7ftu5drAs8fpat9J) I did before. I realize [it was unnecessary](https://github.com/jorgegorka/jachat/commit/71297a65c92776cc4cf1945648d951761e36b08d).
-
-
-

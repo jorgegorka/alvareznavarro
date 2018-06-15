@@ -3,10 +3,10 @@ title: "Microsoft anuncia un nuevo buscador mejor que Google"
 date: '2006-03-08T10:09:00+00:00'
 slug: '/blog/2006/03/microsoft-anuncia-un-nuevo-buscador-mejor-que-google'
 tags: ["google", "Internet", "microsoft"]
-category: 'Empresa'
+category: 'marketing'
 excerpt: "Neil Holloway, presidente de [Microsoft]( para Europa, Oriente Medio y Africa anunció que [en seis meses serán más relevantes]("
 draft: false
-headerImage: 
+headerImage:
 ---
 Neil Holloway, presidente de [Microsoft](http://www.microsoft.com) para Europa, Oriente Medio y Africa anunció que [en seis meses serán más relevantes](http://today.reuters.com/news/newsarticle.aspx?type=technologyNews&storyid=2006-03-01T211748Z_01_L01660811_RTRUKOC_0_US-SUMMIT-MICROSFT-GOOGLE.xml&rpc=22) en el mercado Estadounidense que [Google](http://www.google.com).
 
@@ -35,4 +35,3 @@ Creo que en los próximos meses conoceremos importantes decisiones que pueden ca
 A modo de epílogo cito textualmente a Neil Hollway:
 
 > Should we add a Google-like search engine but twice as good hard-core into Windows? Guess what. If we did that, I don’t think a company called Google would be very happy.
-

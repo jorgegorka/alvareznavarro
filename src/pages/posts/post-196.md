@@ -3,10 +3,10 @@ title: "Lanzamiento de Buxmi.com - Nuevo proyecto"
 date: '2010-12-01T14:03:00+00:00'
 slug: '/blog/2010/12/lanzamiento-de-buxmi-com-nuevo-proyecto'
 tags: ["Uncategorized"]
-category: 'Personal'
+category: 'other'
 excerpt: "Hoy pongo en marcha un proyecto web nuevo llamado [Buxmi.com]("
 draft: false
-headerImage: 
+headerImage:
 ---
 Hoy pongo en marcha un proyecto web nuevo llamado [Buxmi.com](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf35e4b0400995a88b0c/1392758581676/?format=original "Buscamos lo que necesitas").
 

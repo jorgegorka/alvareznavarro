@@ -3,10 +3,10 @@ title: "Developing a web application with Meteor and React - Part II"
 date: '2015-06-28T10:23:48+00:00'
 slug: '/blog/2015/6/developing-a-web-application-with-meteor-and-react-part-ii'
 tags: ["meteor", "react", "javascript", "coffeescript"]
-category: 'Desarrollo Web'
+category: 'web-development'
 excerpt: "Second post of Developing a web application with Meteor and React. In this second post we will see how to add a form with React, Meteor Allow/Deny security and how React can protect us against XSS attacks."
 draft: false
-headerImage: 
+headerImage:
 ---
 In the first post of the series, we create a basic application using Meteor, React and some nice packages. We can add messages to our chat room although we need to use the browser's console.
 
@@ -102,7 +102,7 @@ Anyone can visit our application write something on the input box and send it. W
 
 Luckily for us nothing bad happens. The message is displayed as text and not interpreted as a script.
 
- [caption id="" align="alignnone" width="437.0"] ![React sanitize the output.](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/55835072e4b0fb931027766c/1434669171930//img.png) React sanitize the output. [/caption] 
+ [caption id="" align="alignnone" width="437.0"] ![React sanitize the output.](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/55835072e4b0fb931027766c/1434669171930//img.png) React sanitize the output. [/caption]
 
 React does a good job, sanitizes the content of the message and displays it as plain text. Here we have one first level of protection against XSS attacks and it is active by default.
 
@@ -115,6 +115,3 @@ Our application has a functional chat. Visitors can post messages and thanks to 
 The application still has very basic functionality, though. In the next post we will integrate user management and only registered users will be able to post content.
 
 _Image source:_[_freenaturestock_](http://freenaturestock.com/post/121792456685)
-
-
-

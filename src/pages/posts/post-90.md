@@ -3,10 +3,10 @@ title: "Forma de imprimir páginas web"
 date: '2006-12-13T11:50:00+00:00'
 slug: '/blog/2006/12/forma-de-imprimir-pginas-web'
 tags: ["css", "Internet", "trucos"]
-category: 'Empresa'
+category: 'marketing'
 excerpt: "Jesus Encinar ha publicado un artículo donde comenta [como debe estar formateada una página para que se pueda imprimir correctamente]( Dice:>..."
 draft: false
-headerImage: 
+headerImage:
 ---
 Jesus Encinar ha publicado un artículo donde comenta [como debe estar formateada una página para que se pueda imprimir correctamente](http://www.jesusencinar.com/2006/12/disea_tu_web_pa.html). Dice:
 
@@ -18,7 +18,7 @@ Voy a explicar porqué creo que está equivocado y que el uso de css **mejora y 
 
 ![portada de inmobiliaria argomat](http://jorgegorka.files.wordpress.com/Argomat_screen.jpg)
 
-Esta es una captura de pantalla de la web de uno de nuestros clientes una [inmobiliaria de Logroño llamada Argomat](http://www.argomat.com) como se puede ver la estructura de la página es un título superior con el logotipo de la empresa después el menú principal alineado a la parte izquierda y a continuación los datos del inmueble.   
+Esta es una captura de pantalla de la web de uno de nuestros clientes una [inmobiliaria de Logroño llamada Argomat](http://www.argomat.com) como se puede ver la estructura de la página es un título superior con el logotipo de la empresa después el menú principal alineado a la parte izquierda y a continuación los datos del inmueble.
 Gracias a la posibilidad que nos brinda el uso de css para generar un conjunto de estilos aplicados a la impresión y sin tener que tocar o remaquetar el codigo xhtml conseguimos que:
 
 - Aparezca en la parte superior el nombre de la inmobiliaria y un eslogan.
@@ -82,4 +82,3 @@ font-size: 10pt;
 En resumen: La separación entre la presentación y el contenido facilita enormemente el desarrollo de sitios web ya que nos permite presentar los contenidos de la mejor forma posible en función del dispositivo empleado para verlos (monitor, impresora, pda, lector de voz...etc...) lo que lleva aparejada una **reducción de los costes** de creación del sitio web.
 
 Recomiendo la [lectura del artículo de Jesus Encinar](http://www.jesusencinar.com/2006/12/disea_tu_web_pa.html) ya que los comentarios que se hacen son muy interesantes e instructivos.
-

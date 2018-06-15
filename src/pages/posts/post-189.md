@@ -3,12 +3,12 @@ title: "Mejora la privacidad en tu navegación"
 date: '2010-07-07T01:37:00+00:00'
 slug: '/blog/2010/07/mejora-la-privacidad-en-tu-navegacion'
 tags: ["Uncategorized"]
-category: 'Optimización'
+category: 'marketing'
 excerpt: "Cada vez que visitas un sitio web dejas un rastro. Un pequeño archivo de texto llamado cookie se instala en tu ordenador guardando información sobre tu visita y permitiendo identificarte con posteriori..."
 draft: false
-headerImage: 
+headerImage:
 ---
-Cada vez que visitas un sitio web dejas un rastro. Un pequeño archivo de texto llamado cookie se instala en tu ordenador guardando información sobre tu visita y permitiendo identificarte con posterioridad. 
+Cada vez que visitas un sitio web dejas un rastro. Un pequeño archivo de texto llamado cookie se instala en tu ordenador guardando información sobre tu visita y permitiendo identificarte con posterioridad.
 
 Estos pequeños ficheros fueron creados inicialmente con la idea de facilitarte el acceso a los sitios que visitas frecuentemente recordándote y permitiéndote acceder sin poner otra vez el usuario y la contraseña. Gracias a la utilidad de recordar contraseña que tienen la mayoría de navegadores esto ya no es necesario y el propio navegador te rellena dichos campos si tu así lo deseas.
 

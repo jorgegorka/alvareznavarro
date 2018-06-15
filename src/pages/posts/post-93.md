@@ -3,10 +3,10 @@ title: "Páginas de inicio de las webs de los operadores de telefonía móvil"
 date: '2006-12-20T12:55:00+00:00'
 slug: '/blog/2006/12/pginas-de-inicio-de-las-webs-de-los-operadores-de-telefona-mvil'
 tags: ["comparativas"]
-category: 'Marketing'
+category: 'marketing'
 excerpt: "A raíz de un interesante debate en la lista de Cadius (que luego ha derivado en una guerra maquetación tablas vs maquetación css ) me entra la curiosidad de ver como los cuatro operadores de telefonía ..."
 draft: false
-headerImage: 
+headerImage:
 ---
 A raíz de un interesante debate en la lista de Cadius (que luego ha derivado en una guerra maquetación tablas vs maquetación css ) me entra la curiosidad de ver como los cuatro operadores de telefonía móvil tienen hecha la página de inicio de sus webs.
 
@@ -21,4 +21,3 @@ Vodafone y Yoigo apuestan por la sencillez y van directos al grano. Sus seccione
 Cuando desarrollo una web mi principal prioridad no es **la empresa** a quien le voy a realizar la web, sino en **los clientes** de esa empresa. Busco que, sobre todo, la web sea útil a quienes la usan.
 
 Viendo estas webs podemos preguntarnos: ¿Cuales se han hecho pensando en la empresa y cuales en los clientes de la empresa?
-

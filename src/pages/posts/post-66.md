@@ -3,10 +3,10 @@ title: "Habitos de búsqueda"
 date: '2006-04-11T20:36:00+00:00'
 slug: '/blog/2006/04/habitos-de-bsqueda'
 tags: ["buscadores", "Internet"]
-category: 'Marketing'
+category: 'marketing'
 excerpt: "[iProspect]( acaba de publicar un informe sobre el [comportamiento de los usuarios al utilizar buscadores]("
 draft: false
-headerImage: 
+headerImage:
 ---
 [iProspect](http://www.iprospect.com) acaba de publicar un informe sobre el [comportamiento de los usuarios al utilizar buscadores](http://www.iprospect.com/premiumPDFs/WhitePaper_2006_SearchEngineUserBehavior.pdf) (pdf).
 
@@ -25,4 +25,3 @@ Primero: que la gente cada vez tiene mayor dominio de los buscadores y de la for
 Segundo: Somos perezosos, nos cuesta cambiar de buscador (un 13% realiza la búsqueda en otro buscador).
 
 Lanzo una idea de proyecto: el buscador de buscadores que realice nuestras busquedas en los buscadores más importantes y nos devuelva los resultados. Además debería eliminar los duplicados y la importacia de los resultados sería la media de entre todos los buscadores.
-

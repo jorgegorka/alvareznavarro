@@ -3,10 +3,10 @@ title: "Congreso Internacional de Accesibilidad Web SIDAR 2010"
 date: '2010-09-28T07:49:22+00:00'
 slug: '/blog/2010/09/congreso-internacional-de-accesibilidad-web-sidar-2010'
 tags: ["Uncategorized"]
-category: 'usabilidad'
+category: 'web-development'
 excerpt: " ![Ponentes]( accesibilidad en e..."
 draft: false
-headerImage: 
+headerImage:
 ---
  ![Ponentes](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf36e4b0400995a88b19/1392758582874/ponentes-scaled600.jpg?format=original)
 

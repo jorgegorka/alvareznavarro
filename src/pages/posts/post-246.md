@@ -3,10 +3,10 @@ title: "Entrevista con Alejandro Doncel"
 date: '2011-11-16T14:35:47+00:00'
 slug: '/blog/2011/11/entrevista-con-alejandro-doncell'
 tags: ["entrevista", "marketing online"]
-category: 'Marketing'
+category: 'marketing'
 excerpt: "[![Alejandro Doncel director de Kschool]("
 draft: false
-headerImage: 
+headerImage:
 ---
 [![Alejandro Doncel director de Kschool](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf4de4b0400995a88c26/1392758605518/alejandrodoncel.png?format=original "alejandrodoncel")](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf4de4b0400995a88c26/1392758605518/alejandrodoncel.png?format=original) **Inicio hoy una serie en la que iré entrevistando a personalidades relevantes del marketing online. No busco entrevistar a gurús mediáticos sino a gente que está en el día a día del marketing online, que experimenta, que se equivoca, que aprende... gente que nos pueda aportar su visión y su perspectiva sobre esta disciplina que cambia día a día. Inauguramos la sección con todo un referente del marketing online en España: Alejandro Doncel.**
 
@@ -67,4 +67,3 @@ Estos son algunos de los cursos que ofrece Kschool:
 [Social Media para Pymes](http://kschool.com/social-media/cursos/social-media-para-pymes/)
 
 [Master en Usabilidad y Experiencia de Usuario](http://kschool.com/usabilidad-ux/cursos/master-en-usabilidad-y-experiencia-de-usuario/)
-

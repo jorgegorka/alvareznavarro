@@ -3,10 +3,10 @@ title: "Cuanto tiempo permanecen los visitantes en mi web?"
 date: '2011-09-15T08:46:14+00:00'
 slug: '/blog/2011/09/cuanto-tiempo-permanecen-los-visitantes-en-mi-web'
 tags: ["duracion visita web", "landing page", "pagina de aterrizaje", "tiempo medio en página", "usabilidad"]
-category: 'usabilidad'
+category: 'web-development'
 excerpt: "[![Cuanto tiempo estan los visitantes en mi website]("
 draft: false
-headerImage: 
+headerImage:
 ---
 [![Cuanto tiempo estan los visitantes en mi website](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf40e4b0400995a88b74/1392758592389/time_flies2.jpg?format=original "time\_flies")](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf40e4b0400995a88b74/1392758592389/time_flies2.jpg?format=original)Hace unos días [Jacob Nielsen](http://www.useit.com/alertbox/page-abandonment-time.html)se ha hecho eco de un [estudio realizado por Chao Liu](http://dx.doi.org/10.1145/1835449.1835513) de Microsoft Research donde analizan con detalle el comportamiento de los usuarios a la hora de abandonar una página web. Las conclusiones de este estudio vienen a reforzar lo que ya se sabía. **Tenemos poca paciencia** cuando navegamos y dedicamos muy poco tiempo a comprobar si la página a la que acabamos de llegar tiene lo que buscamos.
 
@@ -31,4 +31,3 @@ Como regla general pensar que los visitantes tardarán entre 10 y 20 segundos en
 Además cada herramienta mide el tiempo en página de forma distinta. Si utilizas Google Analytics, aquí tienes [un vídeo donde se explica como medirlo](http://services.google.com/analytics/breeze/en/interpreting_reports_time/index.html "medir el tiempo en página de las visitas").
 
 <small>Photo by <a title="Werner Kunz" href="http://www.flickr.com/photos/werkunz/5160818883/">Werner Kunz</a></small>
-

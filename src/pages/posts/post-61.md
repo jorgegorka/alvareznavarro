@@ -3,10 +3,10 @@ title: "Jornadas sobre web 2.0"
 date: '2006-03-07T15:31:00+00:00'
 slug: '/blog/2006/03/jornadas-sobre-web-2-0'
 tags: ["2-0", "Internet", "web"]
-category: 'formacion'
+category: 'other'
 excerpt: "![]( jueves 6 de Abril de 2006 se celebrarán unas [jornadas sobre web 2.0]( en la Universidad de Deusto (en Bilbao).Los..."
 draft: false
-headerImage: 
+headerImage:
 ---
 ![](http://jorgegorka.files.wordpress.com/logo-web.gif.png)El jueves 6 de Abril de 2006 se celebrarán unas [jornadas sobre web 2.0](http://www.blogak.org/) en la Universidad de Deusto (en Bilbao).
 
@@ -20,4 +20,3 @@ Los objetivos de las jornadas son los siguientes:
 Habrá que hacer un sitio en la agenda para el día 6 de Abril.
 
 A mi personalmente hay dos cosas que me interesan mucho: las APIs y los feeds. Creo que los feeds tienen mucho que decir en las webs que se avecinan.
-

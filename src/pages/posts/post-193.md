@@ -3,10 +3,10 @@ title: "Que historia cuenta tu web?"
 date: '2010-08-16T05:04:00+00:00'
 slug: '/blog/2010/08/que-historia-cuenta-tu-web'
 tags: ["contenido web"]
-category: 'Marketing'
+category: 'marketing'
 excerpt: "[caption id= align=alignnone width=] ![All_equal]("
 draft: false
-headerImage: 
+headerImage:
 ---
 [caption id="" align="alignnone" width=""] ![All_equal](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf36e4b0400995a88b16/1392758582567/all_equal-scaled600.jpg) All\_equal[/caption]
 
@@ -39,4 +39,3 @@ A quien quieres atraer con ese discurso? Un discurso que la gente ha leído mile
 En un mercado tan competitivo debes llamar la atención, desmarcarte del resto, hacer cosas diferentes a los demás. Debes hacer que vea que tú tiene lo que anda buscando, convertir su visita a tu web en una experiencia agradable y que te recuerde para volver en un futuro.
 
 [(Photo byodreiuqzide)](http://www.flickr.com/photos/odreiuqzide)
-

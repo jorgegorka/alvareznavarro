@@ -3,10 +3,10 @@ title: "Medir el tiempo de carga de tu página con Google Analytics"
 date: '2011-05-06T06:52:00+00:00'
 slug: '/blog/2011/05/medir-el-tiempo-de-carga-de-tu-pagina-con-google-analytics'
 tags: ["google analytics"]
-category: 'Analítica'
+category: 'marketing'
 excerpt: "[caption id= align=alignnone width=300.0][![Test-Page-Load-Time]("
 draft: false
-headerImage: 
+headerImage:
 ---
 [caption id="" align="alignnone" width="300.0"][![Test-Page-Load-Time](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf3ce4b0400995a88b4d/1392758824328/Test-Page-Load-Time.jpg)](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf3ce4b0400995a88b4d/1392758588288/Test-Page-Load-Time.jpg?format=original) Test-Page-Load-Time[/caption]
 
@@ -50,7 +50,7 @@ Por supuesto este cambio deberá realizarse en todas las páginas que queramos m
 
 Una vez añadido, Analytics empezará a contar [el tiempo de carga de nuestras páginas](http://www.google.com/support/analyticshelp/bin/answer.py?hl=en&answer=1205784&topic=1120718&utm_source=gablog&utm_medium=blog&utm_campaign=newga-blog&utm_content=sitespeed) y tendremos acceso a informes como el siguiente:
 
- [caption id="" align="alignnone" width=""] ![Ga_page_speed](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf3ce4b0400995a88b50/1392758588516/ga_page_speed-scaled600.png) Ga\_page\_speed[/caption] 
+ [caption id="" align="alignnone" width=""] ![Ga_page_speed](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf3ce4b0400995a88b50/1392758588516/ga_page_speed-scaled600.png) Ga\_page\_speed[/caption]
 
 **Resumen**
 
@@ -59,4 +59,3 @@ Una vez añadido, Analytics empezará a contar [el tiempo de carga de nuestras p
 ## Actualización 19-11-2011
 
 **Google Analytics ha actualizado su script y ya no es necesario añadir ningún código a las páginas. El tiempo de carga se mide de forma automática.**
-

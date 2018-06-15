@@ -3,10 +3,10 @@ title: "Base para construir webs de calidad"
 date: '2006-03-07T00:24:00+00:00'
 slug: '/blog/2006/03/base-para-construir-webs-de-calidad'
 tags: ["Internet", "web"]
-category: 'formacion'
+category: 'other'
 excerpt: "Muchas veces me preguntan por academias, centros, etc.. donde conseguir formación para llegar a ser un buen profesional de la creación y mantenimiento de webs.Os adjunto información sobre un [curso o..."
 draft: false
-headerImage: 
+headerImage:
 ---
 Muchas veces me preguntan por academias, centros, etc.. donde conseguir formación para llegar a ser un buen profesional de la creación y mantenimiento de webs.
 
@@ -16,13 +16,13 @@ El hecho de que sea on-line unido a su bajo precio (100) lo convierten todaví
 
 El temario es el siguiente:
 
-1. **Diseño de sitios web (XHTML + CSS)** 
+1. **Diseño de sitios web (XHTML + CSS)**
   1. Diseñar con estándares desde cero
   2. XHTML (tipo de documento, head, Reglas para escribir XHTML, atributos genéricos, tablas, formularios y javascript)
   3. CSS. Hojas de estilo (árbol del documento, selectores, unidades de medida, color y fondos, margen, espaciado y borde, texto, menús, disposición en página).
-  4. Diseños para todos (escribir código accesible, problemas con algunos navegadores). 
-2. **Arquitectura de la información** 
-  1. El arquitecto de la información 
+  4. Diseños para todos (escribir código accesible, problemas con algunos navegadores).
+2. **Arquitectura de la información**
+  1. El arquitecto de la información
   2. Organización de la información (tipos de sistemas de navegación)
   3. Diseño de sistemas de navegación
   4. Sistemas de rotulación (rótulos como sistemas de navegación, términos de indización, vínculos, encabezados...)
@@ -34,7 +34,7 @@ El temario es el siguiente:
   4. Pautas de Accesibilidad
   5. Validación de la accesibilidad (herramientas para la revisión, revisión manual y automática)
   6. Ejercicios prácticos (heurística de usabilidad, revisión de pautas de accesibilidad)
-4. **Sistemas hipermedia** 
+4. **Sistemas hipermedia**
   1. El concepto de hipermedia
   2. Orígenes y evolución
   3. Modelo lector, modelo escritor

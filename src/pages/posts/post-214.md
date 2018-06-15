@@ -3,10 +3,10 @@ title: "Master de Analítica Web - Semana 7"
 date: '2011-05-17T09:15:33+00:00'
 slug: '/blog/2011/05/master-de-analitica-web-semana-7'
 tags: []
-category: 'Analítica'
+category: 'marketing'
 excerpt: "Una semana más y cada vez tengo más claro que ha sido una gran decisión el haber realizado este [Master de Analítica Web]( que organiza [Secuoya..."
 draft: false
-headerImage: 
+headerImage:
 ---
 Una semana más y cada vez tengo más claro que ha sido una gran decisión el haber realizado este [Master de Analítica Web](http://www.secuoyasacademy.com/master-analitica-web.html) que organiza [Secuoyas (Kschool)](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf35e4b0400995a88b0c/1392758581676/?format=original).  Cuando [Gema, su directora](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf35e4b0400995a88b0c/1392758581676/?format=original), nos presentó el master nos dijo que este es el master al que a ella le hubiera gustado asistir cuando empezó. Creo que ha acertado totalmente en los contenidos ofrecidos y sobre todo en quien los imparte. Pero **basta de peloteo** que sino alguien podrá pensar que me llevo algo o tengo algún interés "especial" en promocionar este master.
 
@@ -24,8 +24,7 @@ Y para terminar la intensa jornada recibimos a [Andrés Pérez](http://static.sq
 
 Una frase que me encantó:  **Dejarías que una persona de 17 años planifique tu carrera?**  Pues eso es lo que nos ha pasado a todos ya que cuando tomamos la decisión de estudiar algo o convertirnos en algo tenemos esa edad. Y esto nos lleva a que hay que evolucionar, mejorar, cambiar. Quizás lo que antes querías ser ahora ya no es suficiente o el mercado demanda otra cosa. Invierte en tí mismo.
 
-Creo que invertir en nosotros ha sido lo que hemos hecho quienes acudimos al Master. 
+Creo que invertir en nosotros ha sido lo que hemos hecho quienes acudimos al Master.
 
---  
+--
 Jorge Alvarez
-

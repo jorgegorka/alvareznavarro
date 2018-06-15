@@ -3,10 +3,10 @@ title: "La usabilidad no solo está en la web"
 date: '2008-01-25T12:12:00+00:00'
 slug: '/blog/2008/01/la-usuabilidad-no-solo-est-en-la-web'
 tags: ["usabilidad"]
-category: 'Personal'
+category: 'other'
 excerpt: "Aunque, al menos en este blog, siempre que hablo de usabilidad la enmarco en el ámbito de la web, es evidente que existen muchas areas cotidianas donde una adecuada usabilidad de los objetos, productos..."
 draft: false
-headerImage: 
+headerImage:
 ---
 Aunque, al menos en este blog, siempre que hablo de usabilidad la enmarco en el ámbito de la web, es evidente que existen muchas areas cotidianas donde una adecuada usabilidad de los objetos, productos, servicios, nos haría la vida mucho más fácil a todos.
 
@@ -31,4 +31,3 @@ Evidentemente el proceso de cálculo de la dosis es innecesariamente complicado 
 Al fin y al cabo **una mala usabilidad en una web provoca usuarios descontentos pero una mala usabilidad en un medicamento puede provocar usuarios acudiendo a urgencias**.
 
 En el píe de página del prospecto pone: "Texto revisado: Junio 2001", aunque creo que ya le va haciendo falta una nueva revisión ¿no os parece?
-

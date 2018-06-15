@@ -3,10 +3,10 @@ title: "React native with Apollo Graphql works on iOS but not on Android"
 date: '2018-02-24T11:37:35+00:00'
 slug: '/desarrollo-web/2018/2/react-native-with-apollo-graphql-works-on-ios-but-not-on-android'
 tags: ["react-native", "apollo", "graphql"]
-category: 'javascript'
+category: 'web-development'
 excerpt: "My React Native app was working without problems on iOS but when I started expo to run the app on my android phone I had this weird graphql error: Unhandled (in react-apollo:Apollo )"
 draft: false
-headerImage: 
+headerImage:
 ---
 I am developing a React Native application that uses [Graphql](http://graphql.org) to communicate to a Ruby on Rails server. I'm using the amazing [Apollo](https://www.apollographql.com) library for this purpose.
 
@@ -21,4 +21,3 @@ iOS simulator uses the same IP as the host whereas android doesn't so [the solut
     const httpLink = new HttpLink({ uri: 'http://10.5.48.159/graphql'});
 
 You probably have _localhost_ or your local IP on the uri field. If you change it to the IP that is being used by react native then it will work. Tip: You can see your own IP address checking the errors in the log:_ApolloError@http://10.5.48.159:19001/_
-

@@ -3,10 +3,10 @@ title: "Resumen del Tweet Trip"
 date: '2011-09-29T08:59:43+00:00'
 slug: '/blog/2011/09/resumen-del-tweet-trip'
 tags: ["redes sociales", "turismo", "twitter"]
-category: 'Marketing'
+category: 'marketing'
 excerpt: "[![la tierra con nombre de vino]( tweet..."
 draft: false
-headerImage: 
+headerImage:
 ---
 [![la tierra con nombre de vino](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf43e4b0400995a88b95/1392758595089/tweet_trip_logo.png?format=original "tweet\_trip\_logo")](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf43e4b0400995a88b95/1392758595089/tweet_trip_logo.png?format=original)El pasado martes 27 se celebró en Logroño el primer [Tweet Trip](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf35e4b0400995a88b0c/1392758581676/?format=original "Tweet Trip") organizado por La Rioja Turismo. El evento se compuso de tres mesas redondas donde se trataron diversos temas relacionados con el turismo y Twitter principalmente aunque sin olvidar otras redes sociales.
 
@@ -74,4 +74,3 @@ Una pregunta que se me quedó en la recamara era saber si algunos de los present
 Como sugerencia para posteriores ediciones quizás convendría evitar que cada invitado se presente, ya que a veces las presentaciones se alargaban y quedaba luego poco tiempo para el debate.
 
 Agradecer a [La Rioja Turismo](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf35e4b0400995a88b0c/1392758581676/?format=original "la tierra con nombre de vino") su amabilidad al facilitarme una invitación y felicitar a [Puy Trigueros](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf35e4b0400995a88b0c/1392758581676/?format=original "experta en marketing y turismo") que ejerció de excelente moderadora y anfitriona.
-

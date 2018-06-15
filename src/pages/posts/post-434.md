@@ -3,10 +3,10 @@ title: "Como instalar angularjs desde cero"
 date: '2013-07-01T17:35:15+00:00'
 slug: '/desarrollo-web/2013/07/como-instalar-angularjs-desde-cero'
 tags: ["angularjs", "javascript"]
-category: 'Desarrollo Web'
+category: 'web-development'
 excerpt: "Esqueleto básico de un proyecto AngularJS Instalado y creado desde cero con Yeoman y haciendo TDD con test unitarios y de integración. Explicado paso a paso."
 draft: false
-headerImage: 
+headerImage:
 ---
 Crear un proyecto AngularJS desde cero no es una tarea sencilla pero tampoco tiene una dificultad excesiva. Os cuento paso a paso lo que he tenido que hacer para tener el esqueleto básico de un proyecto AngularJS instalado y funcionando. El proceso va a constar de tres fases:
 
@@ -425,4 +425,3 @@ Gracias a Yeoman crear un proyecto AngularJS desde cero es fácil y rápido, as�
 Adjunto algunos de los post y enlaces que me han servido como ayuda para tener todo en marcha y funcionando:
 
 [http://newtriks.com/2013/06/11/automating-angularjs-with-yeoman-grunt-and-bower/](http://newtriks.com/2013/06/11/automating-angularjs-with-yeoman-grunt-and-bower/)[http://www.yearofmoo.com/2013/01/full-spectrum-testing-with-angularjs-and-karma.html](http://www.yearofmoo.com/2013/01/full-spectrum-testing-with-angularjs-and-karma.html)[http://kylehodgson.com/2013/03/15/testing-with-angulars-e2e-testing-framework/](http://kylehodgson.com/2013/03/15/testing-with-angulars-e2e-testing-framework/)[http://docs.angularjs.org/guide/dev\_guide.e2e-testing](http://docs.angularjs.org/guide/dev_guide.e2e-testing)[http://yeoman.io/](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf35e4b0400995a88b0c/1392758581676/?format=original "Yeoman")
-

@@ -3,10 +3,10 @@ title: "Deja que tus visitantes organicen tu web"
 date: '2011-10-04T13:02:00+00:00'
 slug: '/blog/2011/10/deja-que-tus-visitantes-organicen-tu-web'
 tags: ["generación de contenidos", "medición", "posicionamiento en buscadores"]
-category: 'Optimización'
+category: 'marketing'
 excerpt: "[![]( network\_people)]("
 draft: false
-headerImage: 
+headerImage:
 ---
 [![](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf48e4b0400995a88be0/1392758600200/network_people-300x225.jpg?format=original "network\_people")](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf35e4b0400995a88b0c/1392758581676/?format=original)Tu web no te pertenece a tí sino a tus visitantes. Ellos son el único motivo por el que haces todo el esfuerzo de tiempo y dinero que requiere mantener una web de calidad. Y tus visitantes esperan de tu web algo claro y concreto: que les informes, que les vendas algo, que les des soporte, tus datos de contacto, conversar, etc.<!--more-->
 
@@ -61,4 +61,3 @@ Saber lo que buscan nuestros usuarios en nuestra web, que contenido es el que m�
 Webs aparentemente similares como las de prensa online organizan sus contenidos de forma totalmente distinta e incluso los llaman de distinta manera.
 
 **La clave es entender a tus usuarios y darles lo que buscan de la forma en que ellos esperan encontrarlo.**
-

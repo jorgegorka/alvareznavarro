@@ -3,10 +3,10 @@ title: "A vueltas con el dichoso flash: O por que la web de Rammstein es de lo m
 date: '2005-07-22T19:12:00+00:00'
 slug: '/blog/2005/07/a-vueltas-con-el-dichoso-flash-o-por-que-la-web-de-rammstein-es-de-lo-mejor-que-hay'
 tags: ["estandares", "web"]
-category: 'Personal'
+category: 'other'
 excerpt: "Se que no debería alterarme, que no merece la pena hacer malasangre por la [estulticia]( de quienes no tienen ni idea ..."
 draft: false
-headerImage: 
+headerImage:
 ---
 Se que no debería alterarme, que no merece la pena hacer malasangre por la [estulticia](http://buscon.rae.es/draeI/SrvltGUIBusUsual?TIPO_HTML=2&TIPO_BUS=3&LEMA=estulticia) de quienes no tienen ni idea de hacer webs, pero no puedo evitarlo.
 
@@ -25,4 +25,3 @@ Eso es una web hecha con cabeza, de diseño agradable, se ve bien en todo tipo d
 ¿Y si quieres publicar videos o contenido multimedia?... Pues entonces si, ha llegado la hora de emplear Flash, que para eso fue creado, para reproducir contenido multimedia. Ahora bien, una cosa es que no puedas ver un video por no tener un plug-in y otra cosa es que no puedas ver nada.
 
 En fin que la conclusión es que la tecnología no es ni buena ni mala. Lo malo es tener que aguantar que gente no profesional y sin los debidos conocimientos sean los encargdos de crear webs.
-

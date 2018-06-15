@@ -3,10 +3,10 @@ title: "3 Consejos para crear un Dashboard"
 date: '2012-04-19T00:07:24+00:00'
 slug: '/blog/2012/04/3-consejos-para-crear-un-dashboard-de-analitica'
 tags: []
-category: 'Analítica'
+category: 'marketing'
 excerpt: "![Como crear un dashboard tras un analisis web]("
 draft: false
-headerImage: 
+headerImage:
 ---
 ![Como crear un dashboard tras un analisis web](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf4ee4b0400995a88c32/1392758606518/dashboard1-300x234.png?format=original "3 consejos para crear un dashboard")Un dashboard condensa en un único cuadro/gráfico/página el saber hacer de un buen analista web. Puede que suene un poco melodramático pero es la realidad. Eres tan bueno como lo son tus dashboards. La misión de un analista es generar buenos informes, ayudar a que la empresa que lo ha contratado mejore.<!--more-->
 
@@ -27,4 +27,3 @@ Has invertido mucho tiempo realizando tu análisis. No lo tires por la borda com
 Un libro que realmente me ha ayudado y al que suelo recurrir de forma frecuente es: [The Big Book of KPIs](http://www.webanalyticsdemystified.com/content/books.asp "The Big Book of KPI") de Eric T. Peterson y que te recomiendo que lo tengas siempre a mano como referencia.
 
 Cual es tu experiencia creando dashboards e informes para tus jefes? Hay algún otro consejo que quieras añadir? Tus comentarios son siempre bienvenidos.
-

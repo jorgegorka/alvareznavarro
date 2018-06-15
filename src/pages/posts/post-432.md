@@ -3,10 +3,10 @@ title: "Utiliza el API de Google Analytics de forma sencilla"
 date: '2012-05-01T07:35:43+00:00'
 slug: '/desarrollo-web/2012/05/utiliza-el-api-de-google-analytics-de-forma-sencill'
 tags: ["api", "gems", "google analytics", "ruby"]
-category: 'Desarrollo Web'
+category: 'web-development'
 excerpt: "![Ariadna Google Analytica API for developers]("
 draft: false
-headerImage: 
+headerImage:
 ---
 ![Ariadna Google Analytica API for developers](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf4ee4b0400995a88c35/1392758606819/developers-300x168.jpg?format=original "developers")El API de Google Analytics nos permite utilizar directamente toda la información que Google Analytics almacena sobre nuestra página web. Al tener acceso de forma directa a los datos, podemos cruzarlos, agruparlos y segmentarlos de formas que la herramienta web de Google Analytics no permite.<!--more-->
 
@@ -41,4 +41,3 @@ Además de consultar datos, también podemos conocer toda la información de cue
     profiles = properties.first.profiles.all
 
 Cualquier duda o comentario sobre la gema es bienvenido y por supuesto [contribuciones y mejoras](https://github.com/jorgegorka/ariadna/wiki/Contributing "Contribuir a Ariadna Google Analytics").
-

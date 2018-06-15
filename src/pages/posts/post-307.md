@@ -3,10 +3,10 @@ title: "Team management for startups and distributed teams"
 date: '2015-12-08T22:57:04+00:00'
 slug: '/blog/2015/12/team-management-for-startups-and-distributed-teams'
 tags: ["team management", "employee engagement", "gamification"]
-category: 'management'
+category: 'marketing'
 excerpt: "Managing a team with remote workers or managing distributed teams requires that communication should be fluid. It is very easy (and dangerous) to lose contact when people are not one desk/room/floor away."
 draft: false
-headerImage: 
+headerImage:
 ---
 If you are a team manager like me, chances are at least one member of your team works remotely.
 
@@ -33,4 +33,3 @@ I've put a lot of effort in making Happy Mood Score. It is the tool I've always 
 And I almost forgot to mention the best part: You can [create your account](https://happymoodscore.com/signup) for free.
 
 Give it a try.
-

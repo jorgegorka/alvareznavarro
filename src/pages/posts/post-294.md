@@ -3,10 +3,10 @@ title: "Meteor tools: Shell - server console"
 date: '2015-07-18T11:25:19+00:00'
 slug: '/blog/meteor-shell-server-side-console'
 tags: ["meteor", "tools"]
-category: 'Desarrollo Web'
+category: 'web-development'
 excerpt: "Debugging Meteor is easier since Meteor 1.0.2 Now we can use a console similar to the one we have available on the client. You just need to write meteor shell and all the power of a server-side console is available to you."
 draft: false
-headerImage: 
+headerImage:
 ---
 ## What is the Meteor shell
 
@@ -43,4 +43,3 @@ _ **save** _ This is another useful feature. After debugging your application ju
 and all the commands of the current session are saved into a file.
 
 The **meteor shell is a powerful utility** that will save you a lot of time when you are optimising, debugging or checking your application. Unfortunately, at the time of writing this post it is not yet documented in the [official Meteor documentation](http://docs.meteor.com/#/full/meteorhelp).
-

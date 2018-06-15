@@ -3,10 +3,10 @@ title: "Estadísticas de uso del blog - Resumen 2012"
 date: '2012-12-31T15:03:51+00:00'
 slug: '/blog/2012/12/estadisticas-de-uso-del-blog-resumen-2012'
 tags: []
-category: 'Analítica'
+category: 'marketing'
 excerpt: "Los sucesos más relevantes que han afectado al blog durante el año 2012 son tres:  Una baja tasa de publicación de artículos, el cierre de mi empresa oficinainmobiliaria.es y el inicio de una nueva etapa en la multinacional del software Sage."
 draft: false
-headerImage: 
+headerImage:
 ---
 Los sucesos más relevantes que han afectado al blog durante el año 2012 son tres: Una baja tasa de publicación de artículos, el cierre de mi empresa oficinainmobiliaria.es y el inicio de una nueva etapa en la multinacional líder en software de gestión Sage.<!--more-->
 
@@ -76,4 +76,3 @@ A pesar de haber sido un año de poca creación de contenidos el blog ha tenido 
 Los temas de analítica, marketing y SEO son los que despiertan más interés entre quienes visitan el blog y son temas sobre los que sin duda seguiré hablando durante el 2013 aunque incorporando otros que complementen la temática de SaaS que es sobre la que este blog debe girar y sobre la que puedo hablar ya que he dedicado los últimos 8 años de mi vida a mi propia aplicación SaaS en modo StartUp y ahora toca gestionar aplicaciones SaaS desde el punto de vista de una multinacional como Sage.
 
 Sin duda son tiempos interesantes, seguiré escribiendo para contarlos.
-

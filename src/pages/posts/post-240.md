@@ -3,10 +3,10 @@ title: "Como vincular tu cuenta de Google Analytics con Webmaster Tools"
 date: '2011-10-10T09:03:28+00:00'
 slug: '/blog/2011/10/como-vincular-tu-cuenta-de-google-analytics-con-webmaster-tools'
 tags: ["google analytics", "webmaster tools"]
-category: 'SEO'
+category: 'marketing'
 excerpt: "[![Herramienta para webmasters]( ..."
 draft: false
-headerImage: 
+headerImage:
 ---
 [![Herramienta para webmasters](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf45e4b0400995a88bb7/1392758597490/google-webmaster-toos.gif?format=original "google-webmaster-toos")](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf45e4b0400995a88bb4/1392758597313/?format=original)**Por fin Google Analytics puede vincularse con Webmaster Tools. Al igual que es necesario vincular tu cuenta de AdWords con tu cuenta de Analytics, vincular la cuenta de Webmaster Tools nos proporcionará información que nos ayudará a detectar que optimizar de nuestra web para mejorar su posicionamiento en buscadores (SEO).**<!--more-->
 
@@ -71,4 +71,3 @@ Este tercer y último informe nos muestra la procedencia de quienes realizan las
 Con unos sencillos pasos tendremos vinculada la cuenta de Google Analytics y Google Webmaster Tools. Una vez que ambas estén enlazadas tendremos acceso a **información relevante para mejorar el posicionamiento en buscadores de nuestra web**. Como casi siempre, la verdadera potencia de esta información se obtiene cuando realizamos informes personalizados donde combinamos la información que más nos interesa en función de nuestra web, hemos hablado de segmentar el tráfico SEO del tráfico de marca como personalización más evidente, pero hay muchas más opciones.
 
 [box] Si necesitas ayuda configurando Google Analytics o deseas obtener información avanzada y precisa de lo que ocurre en tu web [contacta conmigo](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf44e4b0400995a88ba5/1392758596086/?format=original "Contactar con Jorge Alvarez - Consultor web Logroño").[/box]
-

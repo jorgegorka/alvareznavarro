@@ -3,10 +3,10 @@ title: "Reescribe tus urls en Google Analytics con _trackPageView"
 date: '2011-06-20T10:21:51+00:00'
 slug: '/blog/2011/06/reescribe-tus-urls-en-google-analytics-con-_trackpageview'
 tags: ["google analytics"]
-category: 'Analítica'
+category: 'marketing'
 excerpt: "Cuando escribimos la url de una página lo hacemos pensando en que sea legible, si es posible fácil de recordar por los usuarios y que además de un solo vistazo nos pueda decir de que va el contenido, e..."
 draft: false
-headerImage: 
+headerImage:
 ---
 Cuando escribimos la url de una página lo hacemos pensando en que sea legible, si es posible fácil de recordar por los usuarios y que además de un solo vistazo nos pueda decir de que va el contenido, es decir que sea autoexplicativa. Sin embargo estas urls, que son totalmente válidas y correctas, no aportan toda la información que nos puede interesar a la hora de realizar un análisis del contenido.
 
@@ -51,4 +51,3 @@ De esta forma obtenemos información más precisa y además podemos definir embu
 Una de las tareas que un buen analísta debe hacer es [obtener información de calidad](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf3de4b0400995a88b56/1392758589187/?format=original "Implantación de herramientas de medición") que nos aporte conocimiento y nos ayude a proponer soluciones que se conviertan en beneficio real y medible.
 
 Un uso inteligente de \_trackPageView nos ayudará a obtener la información que necesitamos para poder aportar valor.
-

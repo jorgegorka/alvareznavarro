@@ -3,10 +3,10 @@ title: "La correcta presencia de las empresas en las redes sociales"
 date: '2010-07-05T08:17:00+00:00'
 slug: '/blog/2010/07/la-correcta-presencia-de-las-empresas-en-las-redes-sociales'
 tags: ["redes sociales", "social media"]
-category: 'Marketing'
+category: 'marketing'
 excerpt: "[caption id= align=alignnone width=] ![Flower]("
 draft: false
-headerImage: 
+headerImage:
 ---
 [caption id="" align="alignnone" width=""] ![Flower](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf33e4b0400995a88af3/1392758579769/flower-scaled600.jpg) Flower[/caption]
 
@@ -26,7 +26,7 @@ explicaba que las redes sociales son redes de persona a persona en las que las e
 
 Hoy hablaré de la forma correcta en que una empresa debe verse representada en Internet.
 
-La fórmula es muy sencilla: 
+La fórmula es muy sencilla:
 
 **Aportando valor**
 
@@ -40,9 +40,9 @@ Tienes que
 
 Por ello los mejores representantes de tu empresa son tus empleados, los que la conocen, conocen tu sector, los problemas, las necesidades, los usuarios, las tendencias....
 
-Para aportar valor, demuestra lo que sabes y haz algo útil por los usuarios de la red social. 
+Para aportar valor, demuestra lo que sabes y haz algo útil por los usuarios de la red social.
 
-Si tienes una fábrica de bicicletas crea un grupo llamado "Aprovecha tu bici" y da consejos de rutas, escapadas, mantenimiento, solución de problemas, usos de la bici en invierno, donde guardarla, como transportarla en vacaciones, seguridad, cuidados, etc.... 
+Si tienes una fábrica de bicicletas crea un grupo llamado "Aprovecha tu bici" y da consejos de rutas, escapadas, mantenimiento, solución de problemas, usos de la bici en invierno, donde guardarla, como transportarla en vacaciones, seguridad, cuidados, etc....
 
 Todo el personal de tu empresa puede ayudar en esta tarea, hablando cada uno de lo que más les gusta, explicando en primera persona como usan ellos las bicicletas, subiendo fotos, etc...
 
@@ -55,4 +55,3 @@ Lo que
 **nunca**
 
 debe ser una red social es un lugar para transmitir que haces, a que te dedicas y hablar sobre tus productos y servicios. Para eso ya está tú página web, que es el lugar correcto y adecuado para transmitir este mensaje.
-

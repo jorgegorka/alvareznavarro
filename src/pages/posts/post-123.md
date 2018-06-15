@@ -3,10 +3,10 @@ title: "El arte de la improvisación"
 date: '2008-10-28T09:59:00+00:00'
 slug: '/blog/2008/10/el-arte-de-la-improvisacion-2'
 tags: ["econom&#237;a"]
-category: 'Empresa'
+category: 'marketing'
 excerpt: "Tal y como está el patio últimamente y sobre todo los mercados financieros creo que el factor clave que diferencia a quienes triunfan de quienres fracasan no es su conocimiento sino su capacidad de imp..."
 draft: false
-headerImage: 
+headerImage:
 ---
 Tal y como está el patio últimamente y sobre todo los mercados financieros creo que el factor clave que diferencia a quienes triunfan de quienres fracasan no es su conocimiento sino su capacidad de improvisación.
 
@@ -18,8 +18,5 @@ Actualización: 11/11/08 Añado un video donde se puede ver a un experto explica
 
 
 
-**[The Last Laugh - George Parr - Subprime - subtitulos](http://www.dailymotion.com/swf/k6RTGW9iMlE4qGHSpY)**  
+**[The Last Laugh - George Parr - Subprime - subtitulos](http://www.dailymotion.com/swf/k6RTGW9iMlE4qGHSpY)**
 _by [erioluk](http://www.dailymotion.com/erioluk)_
-
-
-

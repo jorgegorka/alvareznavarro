@@ -3,10 +3,10 @@ title: "Certificación en Google Analytics aprobada"
 date: '2011-05-20T09:16:00+00:00'
 slug: '/blog/2011/05/certificacion-en-google-analytics-aprobada'
 tags: ["google analytics", "formación"]
-category: 'Analítica'
+category: 'marketing'
 excerpt: "[caption id= align=alignnone width=] ![Google-analytics-qualified-individual-logo]("
 draft: false
-headerImage: 
+headerImage:
 ---
 [caption id="" align="alignnone" width=""] ![Google-analytics-qualified-individual-logo](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf3be4b0400995a88b43/1392758587095/google-analytics-qualified-individual-logo-scaled600.jpg) Google-analytics-qualified-individual-logo[/caption]
 

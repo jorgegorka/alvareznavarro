@@ -3,10 +3,10 @@ title: "When hiring developers don't be rude and don't request a test code."
 date: '2018-04-27T13:16:00+00:00'
 slug: '/blog/2018/5/when-hiring-developers-dont-be-rude-and-dont-request-a-test-code'
 tags: ["hiring", "test code"]
-category: 'web development'
+category: 'web-development'
 excerpt: "Requesting developers to do a test code is a common practice. But it's rude and it makes you look like an amateur recruiter."
-draft: false
-headerImage: 
+draft: true
+headerImage:
 ---
 If you are a developer you've probably done a test code at least once in your life. A lot of companies request this as a mandatory step in the hiring process. Those tests involve spending 4/5 hours, sometimes even more, writing code that solves a useless problem.
 
@@ -37,6 +37,3 @@ You will have your test and the world will be a better place because an open sou
 **For companies** : Please make the hiring process as smooth as possible. It says a lot about how skilled you are and how you care about developers.
 
 **For developers** : Go on and contribute to open source projects, solve a bug, help to develop a new feature or just create a pet project in order to have some code ready to be shown if you are requested to.
-
-
-

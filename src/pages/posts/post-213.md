@@ -3,10 +3,10 @@ title: "Master de Analítica Web - Semana 6"
 date: '2011-05-10T08:07:00+00:00'
 slug: '/blog/2011/05/master-de-analitica-web-semana-6'
 tags: ["Uncategorized"]
-category: 'Analítica'
+category: 'marketing'
 excerpt: "Esta semana ha estado particularmente interesante. Comenzó [Ana Soplón]( Ana Soplón Experta en analítica web) contandonos su experiencia como analista web en empre..."
 draft: false
-headerImage: 
+headerImage:
 ---
 Esta semana ha estado particularmente interesante. Comenzó [Ana Soplón](http://www.linkedin.com/in/anasoplon "Ana Soplón Experta en analítica web") contandonos su experiencia como analista web en empresas de la talla de [Linea Directa](https://www.lineadirecta.com/LDAWeb/home.init.faces "seguros") y ahora en [Sanitas](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf35e4b0400995a88b0c/1392758581676/?format=original "Seguros de salud"). Al ser empresas que tienen necesidades distintas y también distintas estrategias para el uso de Internet, la información que requieren unas y otras es distinta y el enfoque que hay que hacer también. Ana conoce muy bien como realizar campañas online tanto de cpc, cpm como de display y afiliados y nos ha transmitido información muy interesante.
 

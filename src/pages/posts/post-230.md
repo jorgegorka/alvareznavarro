@@ -3,10 +3,10 @@ title: "Como mejorar el Nivel de calidad en tus campañas de Google AdWords"
 date: '2011-09-13T09:07:12+00:00'
 slug: '/blog/2011/09/como-mejorar-el-nivel-de-calidad-en-tus-campanas-de-google-adwords'
 tags: ["adwords", "campañas", "landing page", "paginas aterrizaje"]
-category: 'SEM'
+category: 'marketing'
 excerpt: "[![Optimizar campañas de Google AdWords]("
 draft: false
-headerImage: 
+headerImage:
 ---
 [![Optimizar campañas de Google AdWords](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf3fe4b0400995a88b6e/1392758591888/google-adwords.gif?format=original "google-adwords")](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf3fe4b0400995a88b6e/1392758591888/google-adwords.gif?format=original)Crear una campaña de publicidad en Google AdWords es una forma económica, fiable y rápida de atraer tráfico de calidad hacia nuestra web. Uno de los grandes factores del éxito de AdWords es que muestra publicidad que es relevante e interesa al visitante. Para mantener ese nivel de calidad de la publicidad AdWords no solo muestra los anuncios en base al precio de subasta de las palabras clave sino que tiene en cuenta otros aspectos que AdWords denomina **Nivel de Calidad**.
 
@@ -56,4 +56,3 @@ Otro punto importante es la realización de test tanto a/b como multivariante de
 **Resumen**
 
 La piedra angular de una buena campaña de AdWords es una página de aterrizaje eficiente, que ofrece a quien la visita justo aquello que buscaba. Medir y analizar el comportamiento de estas visitas nos servirá para detectar posibles problemas y mejorar la experiencia de nuestros visitantes, lo que redundará en campañas más eficaces y más baratas.
-

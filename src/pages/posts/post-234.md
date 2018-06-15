@@ -3,10 +3,10 @@ title: "Medir el éxito de una web inmobiliaria - Indicadores de rendimiento"
 date: '2011-09-22T08:59:48+00:00'
 slug: '/blog/2011/09/medir-el-exito-de-una-web-inmobiliaria-indicadores-de-rendimiento'
 tags: ["inmobiliarias", "kpi", "metricas"]
-category: 'Analítica'
+category: 'marketing'
 excerpt: "[![kpi webs agencias inmobiliarias]( casa\_v..."
 draft: false
-headerImage: 
+headerImage:
 ---
 [![kpi webs agencias inmobiliarias](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf41e4b0400995a88b80/1392758593504/casa_venta.jpg?format=original "casa\_venta")](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf41e4b0400995a88b80/1392758593504/casa_venta.jpg?format=original)Las agencias inmobiliarias deben ser especialmente cuidadosas con sus páginas web. Internet es el primer lugar al que la gran mayoría de personas accede cuando está buscando un inmueble en venta o en alquiler. Disponer de una web que muestre nuestra cartera de inmuebles de forma sencilla y cómoda será vital para generar contactos y convertir a quienes llegan a nuestra web de visitantes a clientes. Para poder evaluar el éxito de nuestra web inmobiliaria debemos poder medir lo que sucede en en ella. Una vez que tengamos detectados los puntos fuertes y débiles podremos [llevar a cabo acciones que nos permitan mejorar](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf41e4b0400995a88b83/1392758593691/?format=original "Optimización web") lo que no funciona bien y potenciar aquello que si que está funcionando.
 

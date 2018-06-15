@@ -3,10 +3,10 @@ title: "Master Analítica Web semana 13 - Dashboards"
 date: '2011-07-14T00:28:44+00:00'
 slug: '/blog/2011/07/master-analitica-web-semana-13-dashboards'
 tags: ["dashboards", "master analítica web"]
-category: 'Analítica'
+category: 'marketing'
 excerpt: "El curso va avanzando. Vamos conociendo como definir objetivos, recolectar datos, interpretarlos y generar propuestas de mejora. LLega el momento de presentar toda esta información a los diferentes dep..."
 draft: false
-headerImage: 
+headerImage:
 ---
 El curso va avanzando. Vamos conociendo como definir objetivos, recolectar datos, interpretarlos y generar propuestas de mejora. LLega el momento de presentar toda esta información a los diferentes departamentos y atender sus distintas necesidades. Debemos ser capaces de transmitir la información que poseemos de forma entendible para todo el mundo.
 
@@ -38,4 +38,3 @@ Noemí nos habló de como utiliza la analítica web en cada uno de los diferente
 Destaco la frase final de su presentación que me parece muy inteligente:
 
 > Equivócate.... es la única manera de aprender.
-

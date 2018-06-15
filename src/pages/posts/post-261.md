@@ -3,12 +3,12 @@ title: "Crear eventos con Google Tag Manager"
 date: '2013-12-13T17:02:24+00:00'
 slug: '/blog/2013/12/crear-eventos-con-google-tag-manager'
 tags: ["eventos", "google tag manager", "javascript"]
-category: 'Analítica'
+category: 'marketing'
 excerpt: "Una de las grandes mejoras introducidas por Google este verano ha sido la posibilidad de poder medir eventos desde Google Tag Manager. Para ver un ejemplo de como utilizar Google Tag Manager voy a implementar la funcionalidad descrita en un post que escribí en Junio titulado: Medir el tiempo de lectura de una página web.  "
 draft: false
-headerImage: 
+headerImage:
 ---
-Una de las grandes mejoras introducidas por Google este verano ha sido la posibilidad de poder medir eventos desde Google Tag Manager. Para ver un ejemplo de como utilizar Google Tag Manager voy a implementar la funcionalidad descrita en un post que escribí en Junio titulado: [Medir el tiempo de lectura de una página web](https://jorge-alvarez-8tee.squarespace.com/jorge-alvarez-moreno-1/2013/06/medir-el-tiempo-de-lectura-de-una-pagina-web). 
+Una de las grandes mejoras introducidas por Google este verano ha sido la posibilidad de poder medir eventos desde Google Tag Manager. Para ver un ejemplo de como utilizar Google Tag Manager voy a implementar la funcionalidad descrita en un post que escribí en Junio titulado: [Medir el tiempo de lectura de una página web](https://jorge-alvarez-8tee.squarespace.com/jorge-alvarez-moreno-1/2013/06/medir-el-tiempo-de-lectura-de-una-pagina-web).
 
 Ahora mismo hay un código de javascript implementado en la web que lanza un evento a Google Analytics cada minuto que un usuario pasa en una página. De esta forma puedo saber con mayor exactitud el tiempo que cada visitante pasa leyendo los artículos y eso en un blog me parece una métrica fundamental.
 
@@ -30,15 +30,15 @@ Como veis es un proceso muy sencillo y que no tiene que llevar más de 10 minuto
 
 El propósito de esta primera etiqueta es lanzar un aviso cada vez que pasen 60 segundos. Para crear la etiqueta accede a tu cuenta de GTM y pulsa en el botón de crear etiqueta.
 
- [caption id="" align="alignnone" width="300.0"] ![nuevo tag de eventos](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf55e4b0400995a88c8b/1392758859754/new_tag_event-300x146.png) nuevo tag de eventos[/caption] 
+ [caption id="" align="alignnone" width="300.0"] ![nuevo tag de eventos](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf55e4b0400995a88c8b/1392758859754/new_tag_event-300x146.png) nuevo tag de eventos[/caption]
 
 Le ponemos un nombre identificativo a la etiqueta y seleccionamos el tipo de etiqueta que queremos
 
- [caption id="" align="alignnone" width="300.0"] ![seleccionar time interval](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf55e4b0400995a88c8e/1392758842487/Google_Tag_Manager-3-300x207.png) seleccionar time interval[/caption] 
+ [caption id="" align="alignnone" width="300.0"] ![seleccionar time interval](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf55e4b0400995a88c8e/1392758842487/Google_Tag_Manager-3-300x207.png) seleccionar time interval[/caption]
 
 Una vez seleccionado el tipo de tag que vamos a crear ya podemos añadir los datos de configuración. En nuestro caso solamente necesitamos dos: Darle un nombre al evento (en el ejemplo timer1minute) y una duracción. Como **tenemos que expresar la duración en milisegundos** si lo que queremos es que el evento ocurra cada 60 segundos hemos de escribir 60000.
 
- [caption id="" align="alignnone" width="300.0"] ![nombre y duracion](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf56e4b0400995a88c91/1392758848430/event_name_interval-2-300x281.png) nombre y duracion[/caption] 
+ [caption id="" align="alignnone" width="300.0"] ![nombre y duracion](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf56e4b0400995a88c91/1392758848430/event_name_interval-2-300x281.png) nombre y duracion[/caption]
 
 Guardamos los cambios y ya tenemos creada nuestra primera etiqueta. De momento no hemos escrito nada complicado ni difícil y ya tenemos la mitad del trabajo hecho. Vamos con la segunda y última parte.
 
@@ -46,11 +46,11 @@ Guardamos los cambios y ya tenemos creada nuestra primera etiqueta. De momento n
 
 Para añadir la información del evento vamos a crear una segunda etiqueta.
 
- [caption id="" align="alignnone" width=""] ![nuevo evento en google tag manager](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf56e4b0400995a88c94/1392758614326/new_tag_event-3-300x154.png) nuevo evento en google tag manager[/caption] 
+ [caption id="" align="alignnone" width=""] ![nuevo evento en google tag manager](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf56e4b0400995a88c94/1392758614326/new_tag_event-3-300x154.png) nuevo evento en google tag manager[/caption]
 
 Al igual que antes le asignamos un nombre y un tipo
 
- [caption id="" align="alignnone" width="300.0"] ![datos del evento](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf56e4b0400995a88c97/1392758848377/event_tag_edit-4-300x256.png) datos del evento[/caption] 
+ [caption id="" align="alignnone" width="300.0"] ![datos del evento](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf56e4b0400995a88c97/1392758848377/event_tag_edit-4-300x256.png) datos del evento[/caption]
 
 Para el tipo de etiqueta como yo estoy usando Universal Analytics selecciono esa opción. Si tu todavía utilizas la versión estándar debes seleccionar la opción Google Analytics.
 
@@ -72,11 +72,11 @@ Primero de todo empecemos diciendo que es una macro. Simplemente es un texto (po
 
 Por ejemplo, vamos a crear una macro para guardar nuestro código de analytics (UA-XXXXX-X).
 
- [caption id="" align="alignnone" width="300.0"] ![crear macros en google tag manager](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf56e4b0400995a88c9a/1392758845504/nueva_macro-5-300x67.png) crear macros en google tag manager[/caption] 
+ [caption id="" align="alignnone" width="300.0"] ![crear macros en google tag manager](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf56e4b0400995a88c9a/1392758845504/nueva_macro-5-300x67.png) crear macros en google tag manager[/caption]
 
 En GTM pulsamos el botón de crear macro (tiene forma de pieza de Lego).
 
- [caption id="" align="alignnone" width=""] ![modificar macro](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf56e4b0400995a88c9d/1392758614943/edit_macro-4-300x251.png) modificar macro[/caption] 
+ [caption id="" align="alignnone" width=""] ![modificar macro](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf56e4b0400995a88c9d/1392758614943/edit_macro-4-300x251.png) modificar macro[/caption]
 
 Le asignamos un nombre a la macro y en el campo valor escribimos nuestro código de Google Analytics. Guardamos los cambios y desde ahora en lugar de poner el código de Google Analytics en cada nueva tag que creamos solamente tenemos que poner el nombre de la macro {{Mi Codigo de Analytics}} es el nombre del ejemplo.
 
@@ -88,7 +88,7 @@ Nos habíamos quedado configurando el evento y más concretamente el campo etiqu
 
 Este es el contenido de la macro por si tu también la quieres crear (o puedes poner otra cosa en el campo etiqueta si lo prefieres).:
 
- [caption id="" align="alignnone" width="300.0"] ![macro con javascript](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf57e4b0400995a88ca1/1392758847711/Google_Tag_Manager-300x275.png) macro con javascript[/caption] 
+ [caption id="" align="alignnone" width="300.0"] ![macro con javascript](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf57e4b0400995a88ca1/1392758847711/Google_Tag_Manager-300x275.png) macro con javascript[/caption]
 
 Tras añadir todos estos valores ya solo nos queda un último paso, decidir cuando se va a lanzar este evento.
 
@@ -96,11 +96,11 @@ Has ahora solo hemos configurado la información que tendrá el evento, todavía
 
 En la zonas de reglas de nuestra tag seleccionados añadir nueva regla
 
- [caption id="" align="alignnone" width="300.0"] ![cuando_lanzar_evento](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf57e4b0400995a88ca4/1392758847837/cuando_lanzar_evento-300x90.png) cuando\_lanzar\_evento[/caption] 
+ [caption id="" align="alignnone" width="300.0"] ![cuando_lanzar_evento](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf57e4b0400995a88ca4/1392758847837/cuando_lanzar_evento-300x90.png) cuando\_lanzar\_evento[/caption]
 
 Y creamos la siguiente regla:
 
- [caption id="" align="alignnone" width="300.0"] ![reglas de disparo de google tag manager](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf57e4b0400995a88ca7/1392758848518/event_rules-2-300x102.png) reglas de disparo de google tag manager[/caption] 
+ [caption id="" align="alignnone" width="300.0"] ![reglas de disparo de google tag manager](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf57e4b0400995a88ca7/1392758848518/event_rules-2-300x102.png) reglas de disparo de google tag manager[/caption]
 
 Lo que estamos haciendo es decirle a GTM cada vez que "timer1minute" diga que han pasado 60 segundos mandame un evento.
 
@@ -111,4 +111,3 @@ Como has podido comprobar no es un proceso complicado y simplemente se trata de 
 Ahora que ya la tenemos en marcha y funcionando es un proceso trivial poder modificarla o implementarla en otras webs que gestionemos. Y lo mejor de todo, no tenemos que cambiar la web ni tocar su código, podemos hacerlo todo desde el propio GTM.
 
 Se te ocurre como mejorar esta implementación? Tienes dudas, sugerencias...? Los comentarios está a tu disposición.
-

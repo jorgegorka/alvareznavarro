@@ -3,10 +3,10 @@ title: "La inteligencia colectiva"
 date: '2010-08-02T16:09:00+00:00'
 slug: '/blog/2010/08/la-inteligencia-colectiva'
 tags: ["inteligencia colectiva", "Uncategorized"]
-category: 'Personal'
+category: 'other'
 excerpt: " ![Crowd]( enero de 1986 el transbo..."
 draft: false
-headerImage: 
+headerImage:
 ---
  ![Crowd](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf35e4b0400995a88b10/1392758581968/crowd-scaled600.jpg?format=original)
 
@@ -22,7 +22,7 @@ Sólo unas horas después de que se produjese la explosión, un grupo de analist
 
 **La inteligencia colectiva**
 
-Existen multitud de ejemplos y estudios que demuestran que un grupo heterogéneo de gente demuestra un conocimiento superior o como mínimo igual que el de sus indivíduos más inteligentes. 
+Existen multitud de ejemplos y estudios que demuestran que un grupo heterogéneo de gente demuestra un conocimiento superior o como mínimo igual que el de sus indivíduos más inteligentes.
 
 Tomar decisiones o incluso predecir el futuro es algo que hacemos mejor de forma colectiva que individualmente. Factores que nos condicionan a la hora de tomar decisiones (emocionales, históricos, educación...) de forma individual, quedan anulados cuando sumamos nuestra decisión a la decisión del grupo.
 
@@ -41,4 +41,3 @@ En campos como el de la política esta inteligencia colectiva tomaría [decision
 La web 2.0 se ha definido como la web colaborativa, participativa, donde el internauta ya no es un mero receptor de información sino que conversa y aporta su propia visión.  **Tiene voz.**
 
 Esperemos que la web 3.0 sea una web donde el internauta no solo habla, sino que decide.  **Tiene voto.**
-

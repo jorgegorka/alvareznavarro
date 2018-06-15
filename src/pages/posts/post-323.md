@@ -3,10 +3,10 @@ title: "How the size of a company affects developers"
 date: '2018-04-05T12:36:39+00:00'
 slug: '/blog/2018/4/how-size-of-company-affects-developers'
 tags: ["agile", "development", "team management"]
-category: 'management'
+category: 'marketing'
 excerpt: "I've been working in companies of different sizes both as a freelancer, employee and founder and although logic dictates that the size of the company will affect the way you work, I've seen developers that always try to work in the same way. You should adapt to the constrains and advantages that the company's size imposes on you."
 draft: false
-headerImage: 
+headerImage:
 ---
 I've been working in companies of different sizes both as a freelancer, employee and founder and although logic dictates that the size of the company will affect the way you work, I've seen developers that always try to work in the same way.You should adapt to the constrains and advantages that the company's size imposes on you.
 
@@ -57,8 +57,3 @@ You can pivot and change strategy in a big company but you need a lot of plannin
 As developers we need to be aware of the constrains and advantages of the different sizes of companies.
 
 I've worked with some developers that try to work the same way whether they are working for a big or a small company. I think that is a big mistake that can lead to frustration both for the developer and the company. You need to be flexible and agile and adapt the way you work and the way you code to the needs of the company you are working for.
-
-
-
-
-

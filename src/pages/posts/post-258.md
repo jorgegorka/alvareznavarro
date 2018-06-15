@@ -3,10 +3,10 @@ title: "Medir el tiempo de lectura de una página web"
 date: '2013-06-25T14:57:34+00:00'
 slug: '/blog/2013/06/medir-el-tiempo-de-lectura-de-una-pagina-web'
 tags: ["audiencias", "blogs", "medición"]
-category: 'Analítica'
+category: 'marketing'
 excerpt: "Para poder optimizar al máximo el contenido que producimos una de los factores que nos interesa conocer es el tiempo que los visitantes dedican a leer nuestros post.Por la propia naturaleza de las páginas web esto no es posible hacerlo con total fiabilidad y de hecho Google Analytics nos proporciona unos datos que por defecto son bastante pobres y confusos.Veamos como podemos mejorar un poco esto."
 draft: false
-headerImage: 
+headerImage:
 ---
 Para poder optimizar al máximo el contenido que producimos una de los factores que nos interesa conocer es el tiempo que los visitantes dedican a leer nuestros post. Por la propia naturaleza de las páginas web esto no es posible hacerlo con total fiabilidad y de hecho Google Analytics nos proporciona unos datos que por defecto son bastante pobres y confusos. Veamos como podemos mejorar un poco esto.
 
@@ -19,14 +19,14 @@ Te recomiendo que antes de continuar leas su post.
 ### Como mide Google Analytics el tiempo que el visitante pasa en una página web
 
 > **ga:timeOnPage**
-> 
+>
 > How long a visitor spent on a particular page in seconds. Calculated by subtracting the initial view time for a particular page from the initial view time for a subsequent page. Thus, this metric does not apply to exit pages for your property.
 
 Es decir el tiempo que Google asigna a cada página se calcula de restar el momento en el que una visita llega a una página y el momento en el que se vá. Vamos a verlo con un ejemplo:
 
 Imaginemos que alguien visita nuestra web y consulta tres páginas como muestra el siguiente gráfico.
 
- [caption id="" align="alignnone" width="300.0"] ![Tiempo en pagina](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf54e4b0400995a88c7b/1392758855983/time_on_page-300x187.jpg) Tiempo en pagina[/caption] 
+ [caption id="" align="alignnone" width="300.0"] ![Tiempo en pagina](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf54e4b0400995a88c7b/1392758855983/time_on_page-300x187.jpg) Tiempo en pagina[/caption]
 
 El visitante entra en la página 1 a las 10:00 en punto de la mañana, a las 10:05 visita en la página 2 y a las 10:13 visita la página 3, cuando ha visto la página 3 se va a otra web.
 
@@ -73,4 +73,3 @@ Si alguien quiere instalar esta utilidad en su web tan solo tiene que[descargar 
 Lo he instalado tanto en esta web como en mi blog personal:[alvareznavarro.es](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf35e4b0400995a88b0c/1392758581676/?format=original) Voy a dejarlo durante unas semanas funcionando y prometo escribir otro post comentado los resultados obtenidos.
 
 Este es el código:
-

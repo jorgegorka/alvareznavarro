@@ -3,10 +3,10 @@ title: "La publicidad en la era de los smartphones"
 date: '2012-06-28T15:22:47+00:00'
 slug: '/blog/2012/06/la-publicidad-en-la-era-de-los-smartphones'
 tags: []
-category: 'Personal'
+category: 'other'
 excerpt: "![publicidad en la era de los smartphones]("
 draft: false
-headerImage: 
+headerImage:
 ---
 ![publicidad en la era de los smartphones](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf4fe4b0400995a88c38/1392758607118/publicidad-300x258.jpeg?format=original "publicidad")Cuando estoy viendo una serie o una película por televisión y empiezan los anuncios lo primero que hago es coger mi iPad y si no lo tengo a mano me levanto y lo busco. Esto es así. Incluso a veces me "disgusta" que las pausas sean tan cortas que no puedo terminar de leer alguna noticia o terminar de responder un email.<!--more-->
 
@@ -35,4 +35,3 @@ En lugar de quejarse del declive de la publicidad tradicional los medios deberí
 Cuanto antes entiendan que en la personalización está el futuro de los contenidos, antes nos beneficiaremos todos.
 
 Y la publicidad en la televisión? me preguntareis algunos... En un futuro no muy lejano, la televisión no será más que un navegador. Todos los contenidos vendrán a través de la red y por lo tanto también existirá la posibilidad de personalización.
-

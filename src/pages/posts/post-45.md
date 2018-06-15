@@ -3,10 +3,10 @@ title: "Revista sobre creación web (diseño, programación, empresas)"
 date: '2006-01-13T20:52:00+00:00'
 slug: '/blog/2006/01/revista-sobre-creacin-web-diseo-programacin-empresas'
 tags: ["empresas", "Internet", "programacion", "web2-0"]
-category: 'Personal'
+category: 'other'
 excerpt: "![](files/Tree_House_Logo.png)Diariamente tenemos que visitar webs diseñadas, estructuradas y programadas de una manera pésima. Es muy normal, en pleno año 2006 encontrarse webs que no son más que una ..."
 draft: false
-headerImage: 
+headerImage:
 ---
 ![](files/Tree_House_Logo.png)Diariamente tenemos que visitar webs diseñadas, estructuradas y programadas de una manera pésima. Es muy normal, en pleno año 2006 encontrarse webs que no son más que una mera conversión del catálogo de productos de una compañia en html.
 
@@ -23,4 +23,3 @@ Por eso encuentro [TreeHouse interesante](http://treehousemagazine.com) por 3 mo
 ![](files/6thumb.jpg)
 
 Aunque la mayoría de sus contenidos los podemos encontrar on-line visitando otras muchas webs, aquí los tenemos todos[a nuestra disposición agrupados](http://treehousemagazine.com/catalog/treehouse-jan-2006/), lo que nos ahorra mucho tiempo y con una presentación exquisita.
-

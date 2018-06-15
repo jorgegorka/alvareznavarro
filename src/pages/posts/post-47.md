@@ -3,10 +3,10 @@ title: "Si tienes un blog y algo de ego... sigue leyendo"
 date: '2006-01-12T10:24:00+00:00'
 slug: '/blog/2006/01/si-tienes-un-blog-y-algo-de-ego-sigue-leyendo'
 tags: ["blog", "ego"]
-category: 'Personal'
+category: 'other'
 excerpt: "Si tienes un blog y un poco de curiosidad tienes que visitar[EgoSurf]( Escribes tu nombre y el nombre de tu blog y EgoSurf busca acerca de tu blog en [Google]("
 draft: false
-headerImage: 
+headerImage:
 ---
 Si tienes un blog y un poco de curiosidad tienes que visitar[EgoSurf](http://www.egosurf.org/). Escribes tu nombre y el nombre de tu blog y EgoSurf busca acerca de tu blog en [Google](http://www.google.com) y a cada enlace le asigna puntos de ego.
 
@@ -21,4 +21,3 @@ Como EgoSurf dice:
 ![](files/thumb-happy.jpg)
 
 P.D. Mi ego no ha salido muy favorecido... no todo iba a ser perfecto.
-

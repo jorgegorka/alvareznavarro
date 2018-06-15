@@ -3,10 +3,10 @@ title: "Master de Analítica Web Secuoyas - Día 1"
 date: '2011-03-25T21:48:50+00:00'
 slug: '/blog/2011/03/master-de-analitica-web-secuoyas-dia-1'
 tags: ["formación"]
-category: 'Analítica'
+category: 'marketing'
 excerpt: " Acaba de terminar hace un rato la primera clase del [Master de Analítica Web]( que organiza [Secuoyas Academy (Kschool)]("
 draft: false
-headerImage: 
+headerImage:
 ---
  Acaba de terminar hace un rato la primera clase del [Master de Analítica Web](http://www.secuoyasacademy.com/master-analitica-web.html) que organiza [Secuoyas Academy (Kschool)](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf35e4b0400995a88b0c/1392758581676/?format=original) y la primera impresión no puede ser más positiva.
 

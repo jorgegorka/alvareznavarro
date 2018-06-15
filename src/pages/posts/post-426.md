@@ -3,14 +3,14 @@ title: "HTML 5 - Marcado semántico"
 date: '2011-01-24T07:17:58+00:00'
 slug: '/desarrollo-web/2011/01/html-5-marcado-semantico'
 tags: ["html5"]
-category: 'Desarrollo Web'
+category: 'web-development'
 excerpt: " **Marcado semántico**Una de las grandes mejoras que incorpora HTML5 es un mejor y más completo marcado semántico. Gracias al marcado semántico cuando creamos una página web no solo estamos poniend..."
 draft: false
-headerImage: 
+headerImage:
 ---
  **Marcado semántico**
 
-Una de las grandes mejoras que incorpora HTML5 es un mejor y más completo marcado semántico. 
+Una de las grandes mejoras que incorpora HTML5 es un mejor y más completo marcado semántico.
 
 Gracias al marcado semántico cuando creamos una página web no solo estamos poniendo un contenido (mediante html) y dotandolo de una apariencia (mediante css) sino que además estamos ayudando a los robots de búsqueda (si, estoy pensando en Google, el resto hoy por hoy son irrelevantes) a entender mejor de que va nuestra web, como está organizada, que contenido es importante y cual secundario, cual es el menú de navegación, el pié de página, etc.....
 
@@ -18,7 +18,7 @@ Gracias al marcado semántico cuando creamos una página web no solo estamos pon
 
 La respuesta larga es NO y la respuesta muy larga es PUEDE, veamos porqué.
 
-Google hace muy bien una cosa: Analizar páginas web, determinar su contenido y devolvernos páginas lo suficientemente relevantes para la pregunta que nosotros le hemos hecho. La calidad de tu contenido no va a verse afectada por usar un marcado semántico, los post de tu blog, los artículos de la web de tu empresa, sus productos, etc... no van a ser mejores ni más relevantes solo por usar marcado semántico. 
+Google hace muy bien una cosa: Analizar páginas web, determinar su contenido y devolvernos páginas lo suficientemente relevantes para la pregunta que nosotros le hemos hecho. La calidad de tu contenido no va a verse afectada por usar un marcado semántico, los post de tu blog, los artículos de la web de tu empresa, sus productos, etc... no van a ser mejores ni más relevantes solo por usar marcado semántico.
 
 Por otro lado, el marcado semántico va a ayudar a los robots a determinar con mayor precisión que parte es contenido, que parte es navegación, que secciones son más importantes que otras, etc... es decir, a entender mejor tu web y lo que contiene. Quizás, fruto de esa mejora en entender mejor tu web, detecte contenido relevante que antes no había indexado correctamente y tus páginas se muestren en consultas en las que antes no aparecían.
 

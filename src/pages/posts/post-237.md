@@ -3,10 +3,10 @@ title: "Utilizar guión medio o guión bajo en las url"
 date: '2011-09-09T09:04:38+00:00'
 slug: '/blog/2011/09/utilizar-guion-medio-o-guion-bajo-en-las-url'
 tags: ["posicionamiento en buscadores", "url amigable"]
-category: 'SEO'
+category: 'marketing'
 excerpt: "Aunque no es un tema nuevo y se ha hablado bastante todavía hay veces que surgen dudas cuando creamos un nuevo sitio web y queremos que las url's de las páginas sean fáciles de recordar por quienes nos..."
 draft: false
-headerImage: 
+headerImage:
 ---
 Aunque no es un tema nuevo y se ha hablado bastante todavía hay veces que surgen dudas cuando creamos un nuevo sitio web y queremos que las url's de las páginas sean fáciles de recordar por quienes nos visitan. A la hora de crear una estructura de url's amigable y fácil de entender se suele emplear como separador de palabras el guión medio:
 
@@ -33,4 +33,3 @@ De todas formas si tienes que empezar una web desde cero, elegir un software de 
 Aquí tenéis el vídeo con la explicación en inglés:
 
 <iframe src="http://www.youtube.com/embed/AQcSFsQyct8" frameborder="0" width="560" height="345"></iframe>
-

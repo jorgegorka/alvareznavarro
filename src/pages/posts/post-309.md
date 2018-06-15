@@ -3,10 +3,10 @@ title: "How to give feedback to your project manager"
 date: '2016-03-07T12:27:00+00:00'
 slug: '/blog/2016/3/how-to-give-feedback-to-your-projectmanager'
 tags: ["project management", "feedback", "startups", "remote"]
-category: 'management'
+category: 'marketing'
 excerpt: "Status reports are a very good source of information for project managers, as long as they are frequent (ideally every week). For employees, this is a good opportunity to indicate what can be improved and what is working fine. Once you get into the routine writing a status report should take no more than 5 minutes."
 draft: false
-headerImage: 
+headerImage:
 ---
 Writing a good status report is not easy. As with pretty much everything in life, it requires practice.
 
@@ -84,4 +84,3 @@ Once we get used to it, it should take no more than 5 minutes to complete it.
 -----
 
 Jorge Alvarez is an experienced Web Project Manager, mostly in the SaaS industry. He is the founder of [Happy Mood Score](https://blog.happymoodscore.com/how-to-write-a-status-report-to-your-project-manager-d1188b8cc2fe?utm_source=medium&utm_medium=footer&utm_campaign=status-report#.bax331cji) a team management and employee engagement application for startups and agile companies.
-

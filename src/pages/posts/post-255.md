@@ -3,10 +3,10 @@ title: "El Dichoso Sistema Educativo"
 date: '2013-02-17T23:45:20+00:00'
 slug: '/blog/2013/02/el-dichoso-sistema-educativo'
 tags: ["educacion", "formación"]
-category: 'Personal'
+category: 'other'
 excerpt: "El sistema educativo español está anticuado y desfasado. Ni es la primera vez que hablo de este tema ni será la última. Me preocupa mucho como estamos preparando a las nuevas generaciones."
 draft: false
-headerImage: 
+headerImage:
 ---
 ## Los libros son el pasado
 
@@ -35,4 +35,3 @@ En España hablar de nuevas tecnologías en la educación es, como mucho, hablar
 Enseñamos a los niños del siglo XXI con sistemas del siglo XIX Necesitamos un cambio en la manera de enseñar. El profesor ya no es la fuente del saber y todo el conocimiento emana de él. Los profesores deben convertirse en catalizadores en ayudantes necesarios para que nuestros hijos aprendan a buscar soluciones, a ser creativos, a que no existe una sola respuesta correcta, en definitiva a aceptar que vivirán en un mundo en constante cambio que les obligará a estar en contínua formación.
 
 Ya hay gente que se ha dado cuenta y están formado a sus hijos así. Si nosotros no lo hacemos serán ellos los que lideren el mañana.
-

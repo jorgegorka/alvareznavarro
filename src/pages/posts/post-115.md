@@ -3,17 +3,17 @@ title: "Estadísticas web"
 date: '2007-07-25T02:21:00+00:00'
 slug: '/blog/2007/07/estadsticas-web'
 tags: ["estadisticas", "metricas"]
-category: 'Analítica'
+category: 'marketing'
 excerpt: "Se habla últimamente bastante sobre el tema de las estadísticas web. Si las páginas vistas ya no es una medida fiable, si el tiempo de permanencia de los usuarios en nuestro sitio es mejor, y se discut..."
 draft: false
-headerImage: 
+headerImage:
 ---
 Se habla últimamente bastante sobre el tema de las estadísticas web. Si las páginas vistas ya no es una medida fiable, si el tiempo de permanencia de los usuarios en nuestro sitio es mejor, y se discute sobre los pros y contras de cada uno.
 
-_Primero:_ ambas medidas, por si solas no son un indicativo fiable. Las páginas vistas no sirven si empleas ajax. El tiempo de permanencia es imposible de calcular ya que se sabe cuando entras a una web pero no cuando sales. Y mucho menos saber si a pesar de haber cargado una página realmente la has llegado a ver, que también ocurre.  
+_Primero:_ ambas medidas, por si solas no son un indicativo fiable. Las páginas vistas no sirven si empleas ajax. El tiempo de permanencia es imposible de calcular ya que se sabe cuando entras a una web pero no cuando sales. Y mucho menos saber si a pesar de haber cargado una página realmente la has llegado a ver, que también ocurre.
 _Segundo:_ En mi opinión este tipo de medidas son perfectas para el departamento de marketing, pero poco más. Queda muy bonito decir que tienes 3 millones de usuarios únicos o que sirves 15 millones de páginas web. Muy chulo pero poco útil.
 
-En mi opinión las preguntas que debemos hacernos sobre nuestra web son dos: ¿de donde vienen mis visitantes? ¿que hacen en mi web?.  
+En mi opinión las preguntas que debemos hacernos sobre nuestra web son dos: ¿de donde vienen mis visitantes? ¿que hacen en mi web?.
 Tenemos además la ventaja de que ambos datos son extremadamente fiables ya que es muy fácil conocer esa información.
 
 ### ¿De donde vienen mis visitantes?
@@ -33,4 +33,3 @@ Un error muy común es pensar que los visitantes comienzan su navegación en nue
 ### Resumen
 
 Debemos revisar las estadísticas de funcionamiento de nuestra web al menos una vez al mens. No hacerlo le supone perder clientes y dinero.
-

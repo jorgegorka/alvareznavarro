@@ -3,10 +3,10 @@ title: "The Design Of Everyday Things"
 date: '2005-06-22T19:26:00+00:00'
 slug: '/blog/2005/06/the-design-of-everyday-things'
 tags: []
-category: 'Libros'
+category: 'other'
 excerpt: "Acabo de comenzar la lectura del [libro que da título alpost]( Estoy leyendo la re-edición de 2002 ya que [el libro]("
 draft: false
-headerImage: 
+headerImage:
 ---
 Acabo de comenzar la lectura del [libro que da título alpost](http://www.jnd.org/books.html#426). Estoy leyendo la re-edición de 2002 ya que [el libro](http://www.amazon.com/exec/obidos/tg/detail/-/0385267746/ref=pd_sxp_f/102-9009447-4880133?v=glance&s=books) se publicó originalmente en 1990.
 
@@ -17,4 +17,3 @@ Acabo de empezar con el primer capítulo y he de decir que la primera toma de co
 De momento, primera sorpresa. No tenía ni idea de que el autor[Donald A. Norman](http://www.jnd.org/index.html) es el socio de Jackob Nielsen en [Nielsen Norman Group](http://www.nngroup.com/).
 
 De Nielsen leí hace más o menos un año su libro [Homepage Usability: 50 Websites Deconstructed](http://www.amazon.com/exec/obidos/tg/detail/-/073571102X/qid=1121645985/sr=8-1/ref=sr_8_xs_ap_i1_xgl14/102-9009447-4880133?v=glance&s=books&n=507846). Me pareció muy útil (un poco tajante el amigo Jackob) y todavía suelo echar mano de él de vez en cuando.
-

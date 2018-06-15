@@ -3,10 +3,10 @@ title: "Son felices tus empleados?"
 date: '2015-01-21T19:44:00+00:00'
 slug: '/blog/2015/1/son-felices-tus-empleados'
 tags: ["recursos humanos", "empleados", "felicidad"]
-category: 'Empresa'
+category: 'marketing'
 excerpt: "Es una pregunta que en las últimas semanas me he hecho unas cuantas veces. Una de las responsabilidades de mi nuevo trabajo en [Conferize]( es la de gestionar un equipo de per..."
 draft: false
-headerImage: 
+headerImage:
 ---
 Es una pregunta que en las últimas semanas me he hecho unas cuantas veces. Una de las responsabilidades de mi nuevo trabajo en [Conferize](https://www.conferize.com) es la de gestionar un equipo de personas y creo que **la misión principal de un gestor de equipos es mantener al equipo motivado y feliz**.
 
@@ -19,4 +19,3 @@ Cualquier empresa responsable invierte tiempo y dinero en formar a sus empleados
 El resultado de todo este proceso de análisis es [Happy Mood Score](http://happymoodscore.com), un proyecto personal que estoy desarrollando y que tiene una única finalidad:  **Que las empresas puedan conocer el estado de ánimo de sus empleados de forma sencilla y fiable**.
 
 Espero lanzar una beta privada para principios de la primavera. Si tienes una empresa o trabajas en el departamento de recursos humanos creo que te va a interesar [Happy Mood Score](http://happymoodscore.com). Deja tu email en la web y te enviaré una invitación para que seas el primero en probarlo.
-

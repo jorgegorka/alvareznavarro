@@ -3,10 +3,10 @@ title: "ruby on rails firebird y problemas con insert"
 date: '2008-01-26T22:29:00+00:00'
 slug: '/blog/2008/01/ruby-on-rails-firebird-y-problemas-con-insert'
 tags: ["firebird", "rails", "ruby"]
-category: 'Desarrollo Web'
+category: 'web-development'
 excerpt: "He descargado la última versión del firebird-adapter desde gems.rubyonrails.org y cuando voy a insertar un registro me da un error diciendo que insert is an abstract method.Trasteando he visto que ..."
 draft: false
-headerImage: 
+headerImage:
 ---
 He descargado la última versión del firebird-adapter desde gems.rubyonrails.org y cuando voy a insertar un registro me da un error diciendo que "insert is an abstract method".
 
@@ -25,4 +25,3 @@ Desde entonces los insert funcionan correctamente.
 No estoy seguro al 100% de que esta forma sea la correcta y además me parece muy sospechoso que se hayan olvidado del método insert.. pero lo que es seguro es que haciendo esto todo funciona.
 
 Si alguien tiene una explicación mejor que me la diga.
-

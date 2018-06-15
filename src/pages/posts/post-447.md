@@ -3,10 +3,10 @@ title: "Apollo Graphql PromiseRejectionHandledWarning: Promise rejection was han
 date: '2018-02-25T12:10:46+00:00'
 slug: '/desarrollo-web/2018/2/apollo-graphql-promiserejectionhandledwarning-promise-rejection-was-handled-asynchronously'
 tags: ["react-native", "graphql", "apollo"]
-category: 'Desarrollo Web'
+category: 'web-development'
 excerpt: "This weird error that took me a while to debug and in the end it had a very simple solution.TL;DRError message: PromiseRejectionHandledWarning: Promise rejection was handled asynchronouslySolution: I was sending an integer when a param of type string was expected."
 draft: false
-headerImage: 
+headerImage:
 ---
 Apollo Graphql and React Native are two great tools that combine really well together but every now and then there are some nasty errors with confusing error message. Apollo should really improve the way errors are handled and presented to developers. I know it's not easy but it's very frustrating spending hours debugging and trying things that in the end were trivial to fix should the appropriate error being raised.
 
@@ -31,4 +31,3 @@ This is the code inside LandmarksList that takes the prop maximumLandmarks and p
     const AllLandmarksQuery = gql`query allLandmarksQuery($distance: String) {landmarks(distance: $distance) {idnamecategorieslistImage}}`;export default graphql(AllLandmarksQuery, { name: 'allLandmarksQuery', options: ({ maximumLandmarks }) =\> ({ variables: { distance: maximumLandmarks } }) })(LandmarksList);
 
 All was working fine until by mistake I defaulted maximumLandmarks to 10 instead of '10' and then I started to receive that confusing and unrelated error message. Luckily when I noticed the problem everything started to work again.
-

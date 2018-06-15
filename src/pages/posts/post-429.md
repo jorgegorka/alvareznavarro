@@ -3,16 +3,16 @@ title: "HTML 5 - Nuevos elementos: Header y Footer"
 date: '2011-02-07T09:25:52+00:00'
 slug: '/desarrollo-web/2011/02/html-5-nuevos-elementos-header-y-footer'
 tags: ["html5"]
-category: 'Desarrollo Web'
+category: 'web-development'
 excerpt: " **Nuevos elementos: Header y Footer****HEADER**El elemento header permite definir contenido que servirá como introducción al contenido principal.  Header puede aparecer más de una vez pero nunca d..."
 draft: false
-headerImage: 
+headerImage:
 ---
  **Nuevos elementos: Header y Footer**
 
 **HEADER**
 
-El elemento header permite definir contenido que servirá como introducción al contenido principal.  Header puede aparecer más de una vez pero nunca dentro del mismo elemento "padre". 
+El elemento header permite definir contenido que servirá como introducción al contenido principal.  Header puede aparecer más de una vez pero nunca dentro del mismo elemento "padre".
 
 Contenido susceptible de aparecer como header son: Títulos identificativos, logotipos, menús de navegación, índices o formularios de búsqueda
 
@@ -60,7 +60,7 @@ Ejemplo:
 
 El elemento footer permite vincular información del tipo enlaces adicionales, información de copyright, autoría del documento y similares, al contenido principal.
 
-Footer puede aparecer más de una vez pero nunca dentro del mismo elemento "padre". 
+Footer puede aparecer más de una vez pero nunca dentro del mismo elemento "padre".
 
 \<body\>
 
@@ -93,4 +93,3 @@ Footer puede aparecer más de una vez pero nunca dentro del mismo elemento "padr
 \</footer\>
 
 \</body\>
-

@@ -3,12 +3,12 @@ title: "50 websites deconstructed"
 date: '2004-04-18T15:42:00+00:00'
 slug: '/blog/2004/04/50-websites-deconstructed'
 tags: ["usabilidad"]
-category: 'usabilidad'
+category: 'web-development'
 excerpt: "[![]("
 draft: false
-headerImage: 
+headerImage:
 ---
-[![](http://jorgegorka.files.wordpress.com/50_websites.jpg)](http://www.amazon.com/Homepage-Usability-50-Websites-Deconstructed/dp/073571102X/sr=1-1/qid=1163860741/ref=sr_1_1/102-4838740-6826568?ie=UTF8&s=books)**[Título: 50 websites deconstructed](http://www.amazon.com/Homepage-Usability-50-Websites-Deconstructed/dp/073571102X/sr=1-1/qid=1163860741/ref=sr_1_1/102-4838740-6826568?ie=UTF8&s=books)**  
+[![](http://jorgegorka.files.wordpress.com/50_websites.jpg)](http://www.amazon.com/Homepage-Usability-50-Websites-Deconstructed/dp/073571102X/sr=1-1/qid=1163860741/ref=sr_1_1/102-4838740-6826568?ie=UTF8&s=books)**[Título: 50 websites deconstructed](http://www.amazon.com/Homepage-Usability-50-Websites-Deconstructed/dp/073571102X/sr=1-1/qid=1163860741/ref=sr_1_1/102-4838740-6826568?ie=UTF8&s=books)**
 **Autor: Jackob Nielsen y Marie Tahir**
 
 A pesar de ser un libro escrito en el año 2001 creo que se puede calificar de atemporal. Incluso hoy lo que se dice tiene total validez.
@@ -20,4 +20,3 @@ A través de la disección de 50 páginas de inicio nos muestra una serie de pri
 Los principios a cumplir tocan temas tan variados como la estructura de la web, la navegación, las búsquedas, los textos, las tipografías, etc...
 
 Si te dedicas a la creación y/o diseño de páginas web es de obligada lectura, que su fecha de edición no te asuste.
-

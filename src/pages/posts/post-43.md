@@ -3,10 +3,10 @@ title: "Nuevo proyecto : Buscador inmobiliario"
 date: '2006-01-20T20:32:00+00:00'
 slug: '/blog/2006/01/nuevo-proyecto-buscador-inmobiliario'
 tags: ["inmobiliarias", "Internet", "web2-0"]
-category: 'Empresa'
+category: 'marketing'
 excerpt: "Esto se pone interesante.Como parte del proceso de mejora contínua que seguimos en[nuestra empresa]( se encuentra el lanzamiento (el día 1 de Abril) de[Buscador Inmobilia..."
 draft: false
-headerImage: 
+headerImage:
 ---
 Esto se pone interesante.
 
@@ -23,4 +23,3 @@ Algunas de las características más interesantes serán:
 **Publicación de inmuebles gratuíta.**
 
 Si alguien quiere más información sobre la web puede entrar a[buscador inmobiliario](http://www.buscadorinmobiliario.es) y dejar su email (no emplearemos ese email más que para informar sobre las novedades y lanzamiento del portal, tampoco cederemos el email a terceros).
-

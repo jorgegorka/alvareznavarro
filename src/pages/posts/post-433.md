@@ -3,10 +3,10 @@ title: "AngularJS y el futuro del desarrollo web"
 date: '2012-10-17T20:24:12+00:00'
 slug: '/desarrollo-web/2012/10/angularjs-y-el-futuro-del-desarrollo-web'
 tags: ["angularjs", "javascript"]
-category: 'Desarrollo Web'
+category: 'web-development'
 excerpt: "El desarrollo web pasa por aplicaciones corriendo en el navegador del cliente capaces de trabajar con y sin conexión y en cualquier dispositivo. AngularJS es el futuro del desarrollo web."
 draft: false
-headerImage: 
+headerImage:
 ---
 ![javascript framework](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf50e4b0400995a88c4a/1392758608721/AngularJS-300x84.png?format=original "AngularJS framework")Estamos desarrollando aplicaciones web con arquitecturas concebidas hace más de 10 años. En el mudo actual con todo tipo de dispositivos, tamaños de pantallas, formas de uso (táctil, no táctil, offline, online...) quizás no sea la forma más adecuada.<!--more-->
 
@@ -45,6 +45,3 @@ AngularJS pone a nuestro alcance la posibilidad de desarrollar aplicaciones web 
 **Actualización: 1 julio 2013**
 
 He escrito un post sobre [como crear una aplicación AngularJS desde cero](/jorge-alvarez-moreno-1/2013/07/como-instalar-angularjs-desde-cero "instalar angularjs paso a paso").
-
-
-

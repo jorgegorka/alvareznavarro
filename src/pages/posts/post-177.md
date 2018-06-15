@@ -3,14 +3,14 @@ title: "Redes Sociales ó Comunidades Parte II"
 date: '2010-04-21T08:59:45+00:00'
 slug: '/blog/2010/04/redes-sociales-o-comunidades-parte-ii'
 tags: ["redes sociales", "social media"]
-category: 'Marketing'
+category: 'marketing'
 excerpt: "[caption id= align=alignnone width=450.0] ![Merry_go_round]("
 draft: false
-headerImage: 
+headerImage:
 ---
 [caption id="" align="alignnone" width="450.0"] ![Merry_go_round](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf32e4b0400995a88ae1/1392758828449/merry_go_round-scaled600.jpg) Merry\_go\_round[/caption]
 
-El fenómeno de las redes sociales es un fenómeno reciente. Hace 5 años muy pocos sabían que era eso y menos aún tenían una cuenta en alguna red social. 
+El fenómeno de las redes sociales es un fenómeno reciente. Hace 5 años muy pocos sabían que era eso y menos aún tenían una cuenta en alguna red social.
 
 El boom ha llegado en los últimos 2 años y la gente esta aprendiendo a utilizar este nuevo tipo de comunicación. Ahora vemos a delincuentes que son capturados gracias a su perfil, despidos a través de mensajes en tu muro, agencias de seguros que descubren falsas bajas, fotos indiscretas que dan la vuelta al mundo, etc...  En el fondo todo esto es bueno pues va formando a la gente y enseñándole que una red social también tiene sus reglas, sus límites y donde, como en la vida real, no vale todo.
 
@@ -39,4 +39,3 @@ actuarán como los
 de las redes sociales. Ambos serán el punto de inicio de los usuarios. Las nuevas redes sociales que se creen deberán ofrecer a los usuarios la posibilidad de acceder a ellas empleando su cuenta de Facebook o de Twitter e interrelacionarse muy bien.
 
 Por poner un símil Facebook y Twitter se convertirán en los bares en los que la gente se reúne antes de ir al teatro, a un concierto, a una librería.....  Hay momentos es los que quieres conversación distendida y vas al bar pero cuando quieres algo más concreto y específico acudes a sitios enfocados a ese tema.
-

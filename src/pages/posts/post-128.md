@@ -3,10 +3,10 @@ title: "Herramienta para la gestión de la normativa REACH"
 date: '2008-11-12T13:47:00+00:00'
 slug: '/blog/2008/11/herramienta-para-la-gestion-de-la-normativa-reach'
 tags: ["herramienta", "rails", "reach"]
-category: 'Empresa'
+category: 'marketing'
 excerpt: "Desde el lunes se encuentra operativo el nuevo proyecto en el que ha participado Informática 32: [eReach.es]( trata de una herramienta on-line para [facilitar y simplificar el..."
 draft: false
-headerImage: 
+headerImage:
 ---
 Desde el lunes se encuentra operativo el nuevo proyecto en el que ha participado Informática 32: [eReach.es](http://www.ereach.es/)
 
@@ -19,4 +19,3 @@ Gracias a [eReach.es](http://www.ereach.es) el proceso de control y comunicació
 Y lo mejor de todo: [Probarla es gratis](http://www.ereach.es/precios/precios.html)
 
 [![herramienta de gestión y seguimiento de REACH](http://www.ereach.es/files/captura015.jpg)](http://www.ereach.es/)
-

@@ -3,10 +3,10 @@ title: "Master Analítica Web semana 14 - Social Media"
 date: '2011-07-19T19:39:47+00:00'
 slug: '/blog/2011/07/master-analitica-web-semana-14-social-media'
 tags: ["master analítica web", "social media"]
-category: 'Analítica'
+category: 'marketing'
 excerpt: "El final del master se acerca, toca presentar nuestro proyecto de fin de master, los nervios empiezan a aflorar. Pero todavía tenemos cosas que aprender y además cosas muy interesantes. Le toca el turn..."
 draft: false
-headerImage: 
+headerImage:
 ---
 El final del master se acerca, toca presentar nuestro proyecto de fin de master, los nervios empiezan a aflorar. Pero todavía tenemos cosas que aprender y además cosas muy interesantes. Le toca el turno a Javier Godoy para hablarnos de la medición en Social Media.
 
@@ -31,4 +31,3 @@ Mi resumen es que hay una forma sencilla de saber si nuestra estrategia en socia
 6. Community
 7. Social CRM
 8. Social Intelligence
-

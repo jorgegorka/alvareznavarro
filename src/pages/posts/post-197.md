@@ -3,10 +3,10 @@ title: "Hay que trabajar menos"
 date: '2011-01-10T08:43:55+00:00'
 slug: '/blog/2011/01/hay-que-trabajar-menos'
 tags: ["Uncategorized"]
-category: 'Personal'
+category: 'other'
 excerpt: "Hoy comienza para mí, laboralmente hablando, el nuevo año. Después de unas vacaciones sorprendentemente entretenidas (hay que ver la de cosas que se pueden hacer que no sea trabajar) toca volver al cur..."
 draft: false
-headerImage: 
+headerImage:
 ---
 Hoy comienza para mí, laboralmente hablando, el nuevo año. Después de unas vacaciones sorprendentemente entretenidas (hay que ver la de cosas que se pueden hacer que no sea trabajar) toca volver al curro.
 

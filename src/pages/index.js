@@ -15,22 +15,26 @@ export default ({ data }) => {
 };
 
 export const query = graphql`
-         query IndexQuery {
-           allMarkdownRemark(limit: 20, sort: { fields: [frontmatter___date], order: DESC }) {
-             totalCount
-             edges {
-               node {
-                 id
-                 frontmatter {
-                   title
-                   slug
-                   date(formatString: "DD MMMM, YYYY")
-                   category
-                   tags
-                   excerpt
-                 }
-               }
-             }
-           }
-         }
-       `
+  query IndexQuery {
+    allMarkdownRemark(
+      limit: 20,
+      sort: { fields: [frontmatter___date], order: DESC }
+      filter: { frontmatter: { draft: { eq: false } } }
+    ) {
+      totalCount
+      edges {
+        node {
+          id
+          frontmatter {
+            title
+            slug
+            date(formatString: "DD MMMM, YYYY")
+            category
+            tags
+            excerpt
+          }
+        }
+      }
+    }
+  }
+`

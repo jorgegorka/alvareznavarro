@@ -3,10 +3,10 @@ title: "Master Analítica web Semana 3"
 date: '2011-04-12T08:57:00+00:00'
 slug: '/blog/2011/04/master-analitica-web-semana-3'
 tags: ["Uncategorized"]
-category: 'Analítica'
+category: 'marketing'
 excerpt: "Esta tercera semana ha empezado con mucha fuerza. Todos los alumnos nos dividimos en 4 grupos y tuvimos que realizar una presentación poniendo en práctica las enseñanzas de [René Dechamps]("
 draft: false
-headerImage: 
+headerImage:
 ---
 Esta tercera semana ha empezado con mucha fuerza. Todos los alumnos nos dividimos en 4 grupos y tuvimos que realizar una presentación poniendo en práctica las enseñanzas de [René Dechamps](http://www.linkedin.com/in/renedechampsotamendi) de la semana anterior sobre Objetivos de negocio, Business Questions y KPIs
 
@@ -37,4 +37,3 @@ Que tu negocio online dependa de Google **es un riesgo muy grande** que no deber
 Tras la charla de Gemma nos visitó [María Sañudo, directora de Marketing de Trucco](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf35e4b0400995a88b0c/1392758581676/?format=original) que nos comentó algunas cosas muy interesantes sobre como Trucco mide, evalúa y fideliza a sus clientes y como está integrando el canal online en su estrategia y como hacen para medir que los esfuerzos y campañas online en offline.
 
 Aprovecho para felicitar a la gente de [Secuoyas](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf35e4b0400995a88b0c/1392758581676/?format=original) por su esfuerzo y porque hasta el momento todo está funcionando perfectamente.
-

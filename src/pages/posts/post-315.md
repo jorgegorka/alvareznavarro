@@ -3,10 +3,10 @@ title: "Would you spend $1.5 million in a domain name?"
 date: '2017-02-12T23:31:58+00:00'
 slug: '/blog/2017/2/would-you-spend-15-million-in-a-domain-name'
 tags: ["domains", "seo"]
-category: 'Marketing'
+category: 'marketing'
 excerpt: "What leads someone to spend $1.5 million in a single domain? SumoMe has recently did that buying sumo.com They think big and they spend big."
 draft: false
-headerImage: 
+headerImage:
 ---
 I've been following sumome.com for the last year or so. I even use it on [Happy Mood Score](https://www.happymoodscore.com) to get subscribers to our monthly newsletter about employee management, feedback, engagement, remote employees and digital nomads.
 
@@ -25,4 +25,3 @@ I wonder how many visitors they will get that are looking for some information a
 Noah Kagan is a very smart guy. He did an amazing job at Mint so what I won't do is to criticise or underestimate him. I'm not saying that he's wrong only that I would have put my branding money in another place.
 
 Now let's wait and see what the ROI of this huge buy is. I'm sure he'll write a post about it in due time.
-

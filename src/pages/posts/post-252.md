@@ -3,10 +3,10 @@ title: "Eres tan bueno como tus usuarios dicen que eres"
 date: '2012-07-23T06:09:59+00:00'
 slug: '/blog/2012/07/eres-tan-bueno-como-tus-usuarios-dicen-que-eres'
 tags: []
-category: 'Personal'
+category: 'other'
 excerpt: "![Eres tan bueno como tus usuarios dicen que eres]("
 draft: false
-headerImage: 
+headerImage:
 ---
 ![Eres tan bueno como tus usuarios dicen que eres](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf50e4b0400995a88c47/1392758608416/users_first-300x199.jpeg?format=original "users\_first")En Internet hay una única medida de satisfacción válida: lo que dicen tus usuarios. Tu web vale tanto como quienes la usan dicen que vale. Ni más ni menos. Tener la mejor tecnología, la mejor estrategia de marketing o el mejor comité de dirección no te va a servir de nada si quienes usan tu web piensan que es mala. La verdad está ahí fuera, decía una famosa serie de televisión, y en el caso de las empresas de Internet no es solo un dicho, es un axioma. Una buena web se crea pensando en quien la va a utilizar. Desde el tamaño del logotipo hasta la terminología empleada. Todo debe estar pensado por y para quienes van a visitar esa web.
 
@@ -19,4 +19,3 @@ Sin embargo es muy fácil perder el foco y pensar primero en nuestras necesidade
 La solución para estos problemas pasa por escuchar activamente lo que pasa en tu web. Una forma inmediata, sencilla y de bajo coste es la analítica web, pero existen otras formas, desde la integración de encuestas hasta los estudios de usabilidad.  Lo que debemos hacer es establecer una política de escucha activa de lo que pasa en nuestra web. Es la única forma de conocer las necesidades de nuestros visitantes y poder solventarlas.
 
 Si no anteponemos a quienes visitan nuestra web sobre todo lo demás perderemos su confianza, si no cubrimos sus necesidades acabarán marchándose para no volver.
-

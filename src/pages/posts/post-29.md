@@ -3,10 +3,10 @@ title: "Si te gusta leer Blogs: te cuento como eres"
 date: '2005-08-10T19:01:00+00:00'
 slug: '/blog/2005/08/si-te-gusta-leer-blogs-te-cuento-como-eres'
 tags: ["blog", "Internet"]
-category: 'Personal'
+category: 'other'
 excerpt: "Uno de los temas de Internet que más me apasionan es el marketing.Internet proporciona a las empresas de publicidad algo que ni prensa, radio ni televisión les pueden dar. La posibilidad de **conocer..."
 draft: false
-headerImage: 
+headerImage:
 ---
 Uno de los temas de Internet que más me apasionan es el marketing.
 

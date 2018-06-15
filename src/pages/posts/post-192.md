@@ -3,12 +3,12 @@ title: "Nuestro lado social y nuestro lado empresarial"
 date: '2010-08-04T10:23:54+00:00'
 slug: '/blog/2010/08/nuestro-lado-social-y-nuestro-lado-empresarial'
 tags: ["contenido web"]
-category: 'Marketing'
+category: 'marketing'
 excerpt: "Todas las personas vemos el mundo que nos rodea desde dos ópticas distintas. Tenemos una visión empresarial de la realidad y una visión social. Además no nos gusta mezclar ambas formas de ver las cos..."
 draft: false
-headerImage: 
+headerImage:
 ---
-Todas las personas vemos el mundo que nos rodea desde dos ópticas distintas. Tenemos una visión empresarial de la realidad y una visión social. 
+Todas las personas vemos el mundo que nos rodea desde dos ópticas distintas. Tenemos una visión empresarial de la realidad y una visión social.
 
 Además no nos gusta mezclar ambas formas de ver las cosas y las separamos claramente. Cuando hay dinero de por medio automáticamente ponemos nuestro cerebro en modo empresarial lo que condiciona nuestra forma de reaccionar ante lo que nos propongan.
 
@@ -63,6 +63,3 @@ Sin embargo las personas que componen la empresa sí que pueden apelar a este ti
 
 
 Normalmente nuestra web corporativa será vista como la empresa y los visitantes estarán en modo "empresarial" mientras que si los visitantes interactúan con quienes componen la empresa desde una red social sí que podremos apelar a su lado "social". Pero para que esto sea posible [debemos evitar mostrarnos de forma marketiniana](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf33e4b0400995a88af0/1392758579464/tu-empresa-no-necesita-un-community-manager?format=original) y mostrar a la empresa como lo que es: [un grupo de personas que trabajan juntos](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf36e4b0400995a88b13/1392758582269/la-correcta-presencia-de-las-empresas-en-las?format=original).
-
-
-

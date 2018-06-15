@@ -3,10 +3,10 @@ title: "Alertas personalizadas en Google Analytics"
 date: '2011-10-27T14:34:21+00:00'
 slug: '/blog/2011/10/alertas-personalizadas-en-google-analytics'
 tags: ["google analytics", "intelligence events"]
-category: 'Analítica'
+category: 'marketing'
 excerpt: "**[![Google Analytics - Jorge Alvarez]("
 draft: false
-headerImage: 
+headerImage:
 ---
 **[![Google Analytics - Jorge Alvarez](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf44e4b0400995a88ba8/1392758596392/google-analytics.png?format=original "google-analytics")](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf44e4b0400995a88ba8/1392758596392/google-analytics.png?format=original)Una de las funciones que menos se utilizan de Google Analytics son sus alertas. Sin embargo es una de las herramientas más útiles que nos proporciona Google Analytics para controlar lo que sucede en nuestra web. Veamos para que sirven y como se utilizan las alertas.**<!--more-->Las alertas es una funcionalidad que está englobada dentro de "Eventos de Inteligencia".
 
@@ -70,4 +70,3 @@ Si todavía no lo has hecho, entra en Google Analytics y revisa las alertas auto
 Configura la periodicidad en función de la capacidad que tengas para modificar tu web. No necesitas alertas diarias si tu velocidad de respuesta ante los cambios no es diaria. Además **las alertas no son una herramienta de monitorización en tiempo real** sino que detectan situaciones que conviene investigar más a fondo, en caso de que no hayamos detectado ya ese evento por otros cauces.
 
 [box type="info"] Si quieres que ayude a tu empresa a configurar y personalizar Google Analytics y formar a tus empleados para aprovechar a fondo su potencial,[contacta conmigo](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf44e4b0400995a88ba5/1392758596086/?format=original "Contacta para personalizar google analytics en tu empresa y dar cursos de formación a medida").[/box]
-

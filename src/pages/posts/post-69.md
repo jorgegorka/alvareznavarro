@@ -3,10 +3,10 @@ title: "Enlaces de interés"
 date: '2006-05-24T15:12:00+00:00'
 slug: '/blog/2006/05/enlaces-de-inters'
 tags: ["enlaces", "Internet"]
-category: 'Personal'
+category: 'other'
 excerpt: "Algunos enlacés que me han parecido interesantes en esta última semana:Mostrar contenido empleando ajax y mediante el uso de pestañas para categorizar la información.[Ajax tabs content script](http..."
 draft: false
-headerImage: 
+headerImage:
 ---
 Algunos enlacés que me han parecido interesantes en esta última semana:
 
@@ -31,4 +31,3 @@ Una distribución de Linux que ocupa 60 Mb. y que puede ser instalada en memoria
 Y por último una curiosidad:
 
 [415 aplicaciones web gratuitas web 2.0](http://wwwhatsnew.blogspot.com/2006/04/415-aplicaciones-gratuitas-web-20.html)
-

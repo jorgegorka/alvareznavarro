@@ -3,10 +3,10 @@ title: "Datos de uso de Internet - comScore Septiembre de 2011"
 date: '2011-11-19T07:07:51+00:00'
 slug: '/desarrollo-web/2011/11/datos-de-uso-de-internet-comscore-septiembre-de-2011'
 tags: ["comscore", "estudio"]
-category: 'Marketing'
+category: 'marketing'
 excerpt: "[![internet usage september 2011]( inter..."
 draft: false
-headerImage: 
+headerImage:
 ---
 [![internet usage september 2011](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf4ce4b0400995a88c1d/1392758604719/internet-usage.jpg?format=original "internet-usage")](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf4ce4b0400995a88c1d/1392758604719/internet-usage.jpg?format=original)**comScore ha presentado un [resumen del uso de Internet en Europa](http://www.comscore.com/Press_Events/Press_Releases/2011/11/comScore_Releases_Overview_of_European_Internet_Usage_in_September_2011 "uso internet en europa septiembre 2011") durante el mes de septiembre de 2011. El informe ha sido realizado teniendo en cuenta 49 paises y proporcionando información detallada de 18 de ellos. Sobre una población de 373,4 millones de visitantes únicos que pasan en Internet 26,4 horas de media.**
 
@@ -74,4 +74,3 @@ Estos son los datos de uso de Internet en los 18 paises en lso que comScore prop
 | Finland | 3,374 | 24.9 | 2,455 |
 | Norway | 3,257 | 27.8 | 2,516 |
 | Ireland | 2,343 | 20.2 | 1,979 |
-

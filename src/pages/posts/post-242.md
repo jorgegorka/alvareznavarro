@@ -3,10 +3,10 @@ title: "El sector de la moda online en España"
 date: '2011-10-30T11:30:16+00:00'
 slug: '/blog/2011/10/el-sector-de-la-moda-online-en-espana'
 tags: ["estudio", "google", "moda online"]
-category: 'Comercio electrónico'
+category: 'marketing'
 excerpt: "**[![tienda de moda online]("
 draft: false
-headerImage: 
+headerImage:
 ---
 **[![tienda de moda online](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf4ae4b0400995a88c07/1392758602897/las_celebrities_se_visten_de_venca.es_receta_main_landscape1.jpg?format=original "las\_celebrities\_se\_visten\_de\_venca.es")](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf4ae4b0400995a88c07/1392758602897/las_celebrities_se_visten_de_venca.es_receta_main_landscape1.jpg?format=original)El volumen de negocio generado en España por el comercio electrónico B2C superará en 2011 los 11 millones de euros, lo que significa un incremento del 24% respecto a 2010. La pujanza del comercio electrónico se está manteniendo pese a la crisis y, además, el número de usuarios de Internet que compran online sigue creciendo; en 2011 alcanzará los 14,8 millones, lo que supuso un aumento del 16,5% respecto a los 12,7 millones registrados en 2008.**<!--more-->Google ha realizado un [estudio analizando el sector de la moda online](http://googleespana.blogspot.com/2011/10/asi-compran-moda-los-espanoles-en.html "asi compran moda los españoles") en España y las tendencias y comportamiento de los consumidores. El estudio ha sido llevado a cabo por dos prestigiosas empresas: [The Cocktail Analysis](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf35e4b0400995a88b0c/1392758581676/?format=original "The Cocktail Analysis") y [Nielsen](http://es.nielsen.com/site/index.shtml).
 
@@ -60,4 +60,3 @@ Entender el comportamiento de quienes visitan nuestra web es vital a la hora de 
 [box type="info"] Si deseas un [estudio personalizado de tu tienda online](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf41e4b0400995a88b86/1392758593884/?format=original "Auditoría y análisis web") o bien [implantación y formación avanzada de Google Analytics](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf4be4b0400995a88c0d/1392758603307/?format=original "Formación e implantación personalizada de Google Analytics")[contacta conmigo](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf44e4b0400995a88ba5/1392758596086/?format=original "Jorge Alvarez analisis web comercio electrónico").[/box]
 
 <iframe src="http://www.youtube.com/embed/vOt-xoywud4" frameborder="0" width="560" height="315"></iframe>
-

@@ -3,10 +3,10 @@ title: "React Native imports:  The rule of 5."
 date: '2018-03-27T10:07:15+00:00'
 slug: '/desarrollo-web/2018/3/react-native-imports-the-rule-of-5'
 tags: ["react-native", "react", "javascript"]
-category: 'Desarrollo Web'
+category: 'web-development'
 excerpt: "I'm going to talk about a metric that I've created that serves me as a warning signal to detect if a react component is doing too much stuff."
 draft: false
-headerImage: 
+headerImage:
 ---
 I'm going to talk about a metric that I've created that serves me as a warning signal to detect if a react component is doing too much stuff.
 
@@ -39,4 +39,3 @@ Should I do it now? Should I wait until a new requirement arrives and I'm forced
 Sometimes you are too busy meeting deadlines that you forget about best practices and only focus on getting things done. That's not bad at all and that's what you are paid for but it is always good to have a good set of metrics that helps you to stay on track, reminds you that there is room for improvement and help you write code that is easy to understand and easy to change in the future.
 
 The rule of 5 imports has proven itself very useful to me. I hope it can help you too.
-

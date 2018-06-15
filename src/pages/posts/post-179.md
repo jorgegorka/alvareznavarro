@@ -3,10 +3,10 @@ title: "Tu empresa no necesita un community manager"
 date: '2010-04-22T06:36:37+00:00'
 slug: '/blog/2010/04/tu-empresa-no-necesita-un-community-manager'
 tags: ["redes sociales", "social media"]
-category: 'Marketing'
+category: 'marketing'
 excerpt: "[caption id= align=alignnone width=] ![Network_people]("
 draft: false
-headerImage: 
+headerImage:
 ---
 [caption id="" align="alignnone" width=""] ![Network_people](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf32e4b0400995a88ae7/1392758578567/network_people-scaled600.jpg) Network\_people[/caption]
 
@@ -29,4 +29,3 @@ Los usuarios detectamos el marketing a la legua y si vemosque las conversaciones
 Si realmente quieres que tu empresa utilice con éxito los medios sociales alienta, promueve y anima a tus empleados a crear un blog, a utilizar facebook, twitter. Dales libertad para que se expresen con sinceridad y sin temor y todo esto, por supuesto, en horas de oficina.
 
 De esta forma tu empresa transmitirá unos valores reales y sinceros, los de la propia gente que trabaja allí.
-

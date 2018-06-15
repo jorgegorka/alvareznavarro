@@ -3,10 +3,10 @@ title: "¿Puede la crisis ayudar al software libre?"
 date: '2008-11-04T10:23:00+00:00'
 slug: '/blog/2008/11/puede-la-crisis-ayudar-al-software-libre'
 tags: ["linux", "software"]
-category: 'Empresa'
+category: 'marketing'
 excerpt: "Ahora que hay que apretarse el cinturón y hay que comprobar el valor de cada euro gastado parece que es un buen momento para el despegue del software libre en las empresas.Los departamentos de T.I. d..."
 draft: false
-headerImage: 
+headerImage:
 ---
 Ahora que hay que apretarse el cinturón y hay que comprobar el valor de cada euro gastado parece que es un buen momento para el despegue del software libre en las empresas.
 
@@ -15,4 +15,3 @@ Los departamentos de T.I. deben ahora justificar y maximizar sus retornos de inv
 
 
 Resumiendo: Ahora es necesario maximizar las inversiones tecnológicas. Ya no vale todo y si puedes hacer lo mismo con 5 en lugar de con 15 debes hacerlo o dejarás de ser competitivo.
-

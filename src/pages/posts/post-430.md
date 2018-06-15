@@ -3,10 +3,10 @@ title: "Schema.org y su impacto en el SEO y las búsquedas"
 date: '2011-06-06T06:15:00+00:00'
 slug: '/desarrollo-web/2011/06/schema-org-y-su-impacto-en-el-seo-y-las-busquedas'
 tags: ["seo"]
-category: 'Desarrollo Web'
+category: 'web-development'
 excerpt: " **Qué es Schema.org**Bing, Google y Yahoo han lanzado una iniciativa llamada [Schema.org]("
 draft: false
-headerImage: 
+headerImage:
 ---
  **Qué es Schema.org**
 
@@ -72,7 +72,7 @@ Un factor a tener en cuenta es si al buscar _"vuelo madrid barcelona"_ y recibir
 
 **Las búsquedas sociales**
 
-Cuando hablamos de búsquedas sociales todos pensamos en botones de +1, me gusta o en sitios como Facebook. 
+Cuando hablamos de búsquedas sociales todos pensamos en botones de +1, me gusta o en sitios como Facebook.
 
 Creo que los buscadores, muy inteligentemente, han trasladado el componente social a las propias páginas de las empresas. Con metadatos como [Event](http://schema.org/Event), [Recipe](http://schema.org/Recipe), [Review](http://schema.org/Review), [AggregateRating](http://schema.org/AggregateRating), [Offer](http://schema.org/Offer) o [AggregateOffer](http://schema.org/AggregateOffer) podemos ofrecer información "social" de calidad y que aporta valor a nuestros visitantes. Además los buscadores serán conscientes de ello y podrán indexarnos mejor.
 
@@ -83,10 +83,3 @@ Por ejemplo si la web de Apple ha combinando información de Event con [Person](
 Creo que [Schema.org](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf35e4b0400995a88b0c/1392758581676/?format=original) es una jugada muy inteligente y apropiada no solo para ofrecer resultados de mejor calidad a los usuarios sino para competir con ventaja contra posibles nuevos competidores en el mercado de las búsquedas, como podría ser Facebook que por sus características ya posee una detallada información de eventos, personas, valoraciones y comentarios.
 
 Además, a corto plazo, puede ser una estrategia de diferenciación para quienes implementen desde ya estos metadatos en sus webs. Sobre todo para las pymes que tienen aquí una ventaja estratégica importante frente a las lentas y pesadas grandes corporaciones.
-
-
-
-
-
-
-

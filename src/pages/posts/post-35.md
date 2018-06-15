@@ -3,10 +3,10 @@ title: "Ruby on Rails  ¿Solamente un framework para desarrollo web? - Introducc
 date: '2005-12-02T07:35:00+00:00'
 slug: '/blog/2005/12/ruby-on-rails-solamente-un-framework-para-desarrollo-web-introduccin'
 tags: ["rails", "ruby"]
-category: 'Desarrollo Web'
+category: 'web-development'
 excerpt: " ![]( aproximadamente unmes terminé de leer el libro Agile web development with rails. Desde entonces lejos de arrinconar el libro en ..."
 draft: false
-headerImage: 
+headerImage:
 ---
  ![](http://jorgegorka.files.wordpress.com/rails_logo_remix.gif)
 

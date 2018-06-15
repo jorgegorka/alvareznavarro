@@ -3,7 +3,7 @@ title: "Nginx: upstream sent too big header while reading response header from u
 date: '2017-03-14T18:22:08+00:00'
 slug: '/desarrollo-web/2017/3/nginx-upstream-sent-too-big-header-while-reading-response-header-from-upstream'
 tags: ["meteor", "nginx", "cookies"]
-category: 'Desarrollo Web'
+category: 'web-development'
 excerpt: "After updating my server to Meteor version 1.4.3.1 I've been experiencing some problems with Nginx.All services looked fine but when requesting a page..."
 draft: false
 headerImage:

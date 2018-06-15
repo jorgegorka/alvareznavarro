@@ -3,10 +3,10 @@ title: "Porqué no debes hacer SEO"
 date: '2009-09-28T21:29:50+00:00'
 slug: '/blog/2009/09/porque-no-debes-hacer-seo'
 tags: []
-category: 'Marketing'
+category: 'marketing'
 excerpt: "[caption id= align=alignnone width=350.0] ![no_hagas_seo]("
 draft: false
-headerImage: 
+headerImage:
 ---
 [caption id="" align="alignnone" width="350.0"] ![no_hagas_seo](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf28e4b0400995a88a7c/1392758816477/no_hagas_seo.jpg) no\_hagas\_seo[/caption]
 

@@ -3,10 +3,10 @@ title: "La privacidad de los usuarios y el caso KissMetrics, Hulu y Spotify"
 date: '2011-08-12T00:34:10+00:00'
 slug: '/blog/2011/08/la-privacidad-de-los-usuarios-y-el-caso-kissmetrics-hulu-y-spotify'
 tags: ["kissmetrics", "privacidad", "regulación", "Uncategorized"]
-category: 'Marketing'
+category: 'marketing'
 excerpt: "En un post anterior hablaba de la necesidad de que al legislar en Internet[se creen leyes que puedan realmente cumplirse]("
 draft: false
-headerImage: 
+headerImage:
 ---
 En un post anterior hablaba de la necesidad de que al legislar en Internet[se creen leyes que puedan realmente cumplirse](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf3ee4b0400995a88b5f/1392758590683/google-reconoce-la-entrega-de-datos-privados?format=original). Hoy conocemos un caso más en el que la tecnología está por delante de la legislación y se adpta para evitarla, o como decimos en España: **"Hecha la ley, hecha la trampa"**.
 
@@ -33,4 +33,3 @@ A mí no me importa que una web disponga de datos personales mios, siempre que s
 **Resumen**
 
 Todas las actuales iniciativas que se proponen para controlar la privacidad **están abocadas al fracaso** porque o bien no tienen en cuenta todos los aspectos técnicos de la navegación web o bien obligan al usuario a elegir de antemano y para cada web, algo molesto, intrusivo e inviable. Creo que la solución pasa por que las propias empresas definan muy claramente la cantidad y el uso que hacen de los datos. Y los internautas seremos totalmente soberanos para decidir que webs visitar y cuales no.
-

@@ -3,10 +3,10 @@ title: "La educación en el siglo XXI con sistemas del siglo XV"
 date: '2011-02-24T10:58:12+00:00'
 slug: '/blog/2011/02/la-educacion-en-el-siglo-xxi-con-sistemas-del-siglo-xv'
 tags: ["Uncategorized"]
-category: 'Personal'
+category: 'other'
 excerpt: "Tengo dos hijos en edad escolar. Uno de ellos tiene 6 años y acaba de empezar su etapa de primaria y la otra tiene 13 años y ha comenzado primero de la E.S.O.Como padre, me preocupa la educación que ..."
 draft: false
-headerImage: 
+headerImage:
 ---
 Tengo dos hijos en edad escolar. Uno de ellos tiene 6 años y acaba de empezar su etapa de primaria y la otra tiene 13 años y ha comenzado primero de la E.S.O.
 

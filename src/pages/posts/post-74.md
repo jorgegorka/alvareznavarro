@@ -3,10 +3,10 @@ title: "Fundamentos web - Día I"
 date: '2006-10-05T20:12:00+00:00'
 slug: '/blog/2006/10/fundamentos-web-da-i'
 tags: ["fundamentosweb", "Internet", "oviedo"]
-category: 'Empresa'
+category: 'marketing'
 excerpt: "Este primer día de [Fundamentos web]( ha tenido altibajos.**Sinopsis (si vas con prisa lee esto)**Como destacado, en mi opinión, las ponencias de [Richard]("
 draft: false
-headerImage: 
+headerImage:
 ---
 Este primer día de [Fundamentos web](http://www.fundamentosweb.com) ha tenido altibajos.
 
@@ -87,4 +87,3 @@ Y con todo esto se ha terminado el primer día, al menos en lo que a conferencia
 Hemos bebido mucha sidra y hemos comido de todo lo que nos iban sacando, que no ha sido poco. Y como somos buenos nos hemos acostado pronto.
 
 ![](http://www.riojasoft.com/files/nosotros.jpg)
-

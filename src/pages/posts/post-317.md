@@ -3,10 +3,10 @@ title: "Why every startup should start bootstrapped"
 date: '2017-02-23T16:29:21+00:00'
 slug: '/blog/2017/2/why-every-startup-should-start-bootstrapped'
 tags: ["startups", "investment"]
-category: 'management'
+category: 'marketing'
 excerpt: "A bootstrapped startup can be harder to evolve than a seeded startup but the journey is very rewarding, you will learn a lot of things and you are going to love every single minute of it."
 draft: false
-headerImage: 
+headerImage:
 ---
 When I started Happy Mood Score 2 years ago I made the decision that it should be a bootstrapped startup.
 
@@ -45,4 +45,3 @@ It could be worse. **You may hate being the CEO.** All of a sudden you spend all
 In a bootstrapped company you actually do things. You get your hands dirty from the start. When the company grows and you find yourself doing more management work than actual work then you can decide to step forward and take the role or hire a CEO. That could be a good moment for finding investors. A good investor will not only give you money but also advice on how to move into the future.
 
 A bootstrapped startup can be harder to evolve than a seeded startup but the journey is very rewarding, you will learn a lot of things and you are going to love every single minute of it.
-

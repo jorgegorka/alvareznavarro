@@ -3,10 +3,10 @@ title: "¿Existe la web 2.0?"
 date: '2006-01-27T14:33:00+00:00'
 slug: '/blog/2006/01/existe-la-web-2-0'
 tags: ["Internet", "web2-0"]
-category: 'Personal'
+category: 'other'
 excerpt: "Cuando se abusa de un término acaba por darsele significados que en nada tiene que ver con el original.Esto es exactamente lo que está pasando con web 2.0.¿Que es el término web 2.0?La [wikipedia..."
 draft: false
-headerImage: 
+headerImage:
 ---
 Cuando se abusa de un término acaba por darsele significados que en nada tiene que ver con el original.
 
@@ -25,4 +25,3 @@ Cualquiera que piense que la mejor manera de desarrollar aplicaciones hoy en dí
 El resto de adjetivos que se han venido añadiendo al término (ajax, ruby on rails, web semántica, etc…) no son sino un medio para alcanzar el objetivo, que no es otro que crear aplicaciones útiles y sencillas de emplear.
 
 Al final quienes deciden si una aplicación web es o no 2.0 son los usuarios. Si es sencilla de usar y constituye una mejora frente a los programas tradicionales es web 2.0.
-

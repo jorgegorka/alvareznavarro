@@ -3,10 +3,10 @@ title: "Higher Order Components - HOC - in React Native"
 date: '2018-03-18T12:08:02+00:00'
 slug: '/desarrollo-web/2018/3/higher-order-components-hoc-in-react-native'
 tags: ["javascript", "react-native", "react"]
-category: 'Desarrollo Web'
+category: 'web-development'
 excerpt: "Higher Order Components is a useful pattern that has a lot of uses to make your React code easy to read and maintain. In this post I'm going to explain how to use Higher Order Components, HOC from now on, to keep your code DRY."
 draft: false
-headerImage: 
+headerImage:
 ---
 Higher Order Components is a useful pattern that has a lot of uses to make your React code easy to read and maintain. In this post I'm going to explain how to use Higher Order Components, HOC from now on, to keep your code DRY.
 
@@ -75,4 +75,3 @@ I look forward to your questions, suggestions or improvements in the comments.
 [A gentle introduction to Higher Order Components](https://www.robinwieruch.de/gentle-introduction-higher-order-components/)
 
 [Recompose](https://github.com/acdlite/recompose)
-

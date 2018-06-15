@@ -3,10 +3,10 @@ title: "Estrategias de crecimiento de aplicaciones web saas Parte 2"
 date: '2014-02-20T06:30:00+00:00'
 slug: '/blog/2014/02/estrategias-de-crecimiento-de-aplicaciones-web-saas-parte-2'
 tags: ["saas", "sem", "seo", "cro"]
-category: 'Marketing'
+category: 'marketing'
 excerpt: "La captación de nuevos usuarios es la estrategia predominante durante la fase inicial en la vida de una aplicación web en modo SaaS.  En esta segunda parte analizamos en que consiste.La captación de usuarios consiste en atraer nuevos usuarios potenciales a nuestra aplicación y lograr convertirlos en usuarios de pago.  El principal problema de la captación es que consume muchos recursos. "
 draft: false
-headerImage: 
+headerImage:
 ---
 La captación de nuevos usuarios es la estrategia predominante durante la fase inicial en la vida de una aplicación web en modo SaaS. En esta segunda parte analizamos en que consiste. <!--more-->
 
@@ -50,4 +50,3 @@ En esta segunda parte hemos visto como **para empresas jóvenes de reciente crea
 En la tercera parte veremos como podemos fidelizar y mantener a los usuarios ya existentes y nos enfrentaremos al **peor enemigo de cualquier aplicación web en modo SaaS: el churn rate** o Tasa de Abandono, es decir, aquellos usuarios que deciden cancelar su suscripción y dejan de pagar.
 
 Parte 1: [Estrategias de crecimiento de aplicaciones web SaaS: El modelo de madurez](/jorge-alvarez-moreno-1/2014/01/estrategias-de-crecimiento-de-aplicaciones-web-saas-parte-1)
-

@@ -3,10 +3,10 @@ title: "Google: nuevos servicios"
 date: '2006-02-23T13:31:00+00:00'
 slug: '/blog/2006/02/google-nuevos-servicios'
 tags: ["google", "google analytics", "adwords"]
-category: 'Marketing'
+category: 'marketing'
 excerpt: "[Google]( acaba de lanzar un nuevo servicio gratuíto: [Google pages]( .Se trata de un servicio integral de publicación de páginas web. Desde el propio Go..."
 draft: false
-headerImage: 
+headerImage:
 ---
 [Google](http://www.google.com) acaba de lanzar un nuevo servicio gratuíto: [Google pages](http://pages.google.com) .
 
@@ -35,4 +35,3 @@ Ahora Yahoo se ha embarcado en una carrera de adquisiciones de empresas para ofr
 El que peor preparado está ante el futuro que se avecina es Microsoft. Su dependencia de la venta de licencias de Windows y de Office es enorme, mientras que Apple gana más vendiendo IPod que con su OS X.
 
 El negocio ya no está en el software. Aquellos que vivan de la venta de programas [tienen sus días contados](http://www.microsiervos.com/archivo/internet/google-plan-dominar-mundo.html).
-

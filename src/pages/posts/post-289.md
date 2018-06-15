@@ -3,12 +3,12 @@ title: "El sistema de subasta de AdWords explicado paso a paso"
 date: '2013-06-18T18:36:36+00:00'
 slug: '/blog/2013/06/el-sistema-de-subasta-de-adwords-explicado-paso-a-paso'
 tags: ["adrank", "adwords", "cpc"]
-category: 'Marketing'
+category: 'marketing'
 excerpt: "Para maximizar nuestra inversión en SEM nos interesa conocer al detalle como funciona Google AdWords y como calcula tanto el orden de los anuncios como el coste por cada click.  Veamos paso a paso como se hace.  "
 draft: false
-headerImage: 
+headerImage:
 ---
-Para maximizar nuestra inversión en SEM nos interesa conocer al detalle como funciona Google AdWords y como calcula tanto el orden de los anuncios como el coste por cada click. Veamos paso a paso como se hace. 
+Para maximizar nuestra inversión en SEM nos interesa conocer al detalle como funciona Google AdWords y como calcula tanto el orden de los anuncios como el coste por cada click. Veamos paso a paso como se hace.
 
 ## La subasta de AdWords
 
@@ -41,7 +41,7 @@ Supongamos que para la búsqueda "tinta invisible" tenemos a 3 anunciantes:
 
 Lo primero de todo es calcular nuestro Ad Rank que como podéis comprobar no es más que el C.P.C. o Coste Por Click, es decir, el precio máximo que el anunciante está dispuesto a pagar por cada click, multiplicado por el Quality Score que nos asigna Google AdWords. En un artículo anterior ya [expliqué que era el Quality Score y como mejorarlo](http://www.alvareznavarro.es/blog//2011/09/como-mejorar-el-nivel-de-calidad-en-tus-campanas-de-google-adwords).
 
- [caption id="" align="alignnone" width="629.0"] ![Posición de los anuncios tras la subasta](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf53e4b0400995a88c76/1392758843299/Screen-Shot-2013-06-18-at-8.43.26-PM-629x650.png.26-PM-629x650.png?format=original) Posición de los anuncios tras la subasta[/caption] 
+ [caption id="" align="alignnone" width="629.0"] ![Posición de los anuncios tras la subasta](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf53e4b0400995a88c76/1392758843299/Screen-Shot-2013-06-18-at-8.43.26-PM-629x650.png.26-PM-629x650.png?format=original) Posición de los anuncios tras la subasta[/caption]
 
 **Nuestro Ad Rank determina el orden en que aparecerán nuestros anuncios** por lo tanto Anunciante I que tiene el mejor Ad Rank (39 = 1.5 x 26) aparecerá primero, seguido de Anunciante II y Anunciante III **pero no determina el coste del click**. Para el cálculo del coste se emplea el Ad Rank del anunciante que está por debajo de nosotros. Sigamos con nuestro ejemplo para verlo más claro.
 
@@ -60,4 +60,3 @@ Además vemos que Anunciante III incluso estando dispuesto a pagar mucho más di
 El proceso de subasta de AdWords es muy sencillo y busca sobre todo ofrecer a quienes buscan en Google anuncios relevantes y efectivos. Tan importante o más que disponer de mucho dinero para gastar en AdWords es el tener anuncios relevantes y que sean de interés para los visitantes. Si [optimizamos nuestro Quality Score](http://www.alvareznavarro.es/blog/2011/09/como-mejorar-el-nivel-de-calidad-en-tus-campanas-de-google-adwords) ahorraremos mucho dinero en nuestras campañas de AdWords.
 
 Si te ha quedado alguna duda o quieres aportar más información deja tu comentario.
-

@@ -3,10 +3,10 @@ title: "Master de Analítica Web - Semana 5"
 date: '2011-05-03T09:15:36+00:00'
 slug: '/blog/2011/05/master-de-analitica-web-semana-5'
 tags: ["Uncategorized"]
-category: 'Analítica'
+category: 'marketing'
 excerpt: "Tras unas merecidas vacaciones de Pascua, retomamos con fuerza el [Master de Analítica Web]( que organiza [Secuoyas - KSchool]("
 draft: false
-headerImage: 
+headerImage:
 ---
 Tras unas merecidas vacaciones de Pascua, retomamos con fuerza el [Master de Analítica Web](http://www.secuoyasacademy.com/master-analitica-web.html) que organiza [Secuoyas - KSchool](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf35e4b0400995a88b0c/1392758581676/?format=original)
 
@@ -25,4 +25,3 @@ Tras Nancy le ha tocado el turno a [Nacho Carnés](http://www.linkedin.com/in/na
 En esta primera clase nos ha explicado como preparar un plan de medios para una campaña online. Como seleccionar que medios van a participar, su grado de participación, como seleccionar las creatividades a mostrar en cada sitio, como optimizar el roi de cada campaña, de cada medio, de cada acción de marketing.
 
 Ha sido una clase intensa con mucha información que repasar y que tener en cuenta. La semana que viene tenemos la suerte de contar con él otra vez y seguir profundizando en este tema.
-

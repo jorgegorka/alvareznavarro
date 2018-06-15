@@ -3,10 +3,10 @@ title: "Mentalidad Google o mentalidad Microsoft"
 date: '2007-05-30T14:31:00+00:00'
 slug: '/blog/2007/05/mentalidad-google-o-mentalidad-microsoft'
 tags: ["inmobiliarias", "Internet", "programa"]
-category: 'Marketing'
+category: 'marketing'
 excerpt: "En mi opinión existen hoy día dos grandes maneras de entender el negocio del software: la manera [Google]( y la manera [Microsoft]( entiende el sof..."
 draft: false
-headerImage: 
+headerImage:
 ---
 En mi opinión existen hoy día dos grandes maneras de entender el negocio del software: la manera [Google](http://www.google.es) y la manera [Microsoft](http://www.microsoft.es).
 
@@ -31,4 +31,3 @@ Como estamos convencidos de que la _manera Google_ es la correcta hemos decidido
 A partir de ahora los usuarios de nuestro servicio [Oficinainmobiliaria.es](http://www.oficinainmobiliaria.es) podrán descargar el programa de forma gratuita. Rellenando [nuestro formulario de registro](http://www.oficinainmobiliaria.es/registrar.php) cualquier agencia inmobiliaria o promotora dispondrá de un completo [software de gestión inmobiliaria](http://www.gestioninmuebles.es) y una web personal **gratis** que podrá personalizar y donde publicar sus inmuebles.
 
 Estamos seguros que aquellas que encuentren útil nuestro programa, que saquen partido a la web y que hayan podido comprobar la utilidad de lo que ofrecemos, no tendrán ningún problema en **pagar por tener mayores servicios y prestaciones**.
-

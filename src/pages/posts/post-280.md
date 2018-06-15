@@ -3,14 +3,14 @@ title: "Estadísticas de uso del blog - Resumen 2013 - Conversión"
 date: '2013-12-30T22:48:00+00:00'
 slug: '/blog/6995'
 tags: ["conversión", "estadisticas", "objetivos web"]
-category: 'Analítica'
+category: 'marketing'
 excerpt: "En la primera parte explicaba como ha funcionado mi blog a la hora de captar visitas.  Toca ahora analizar si quienes me visitan cumplen con los objetivos para los que creé el blog."
 draft: false
-headerImage: 
+headerImage:
 ---
 En la primera parte explicaba como ha funcionado mi blog a la hora de captar visitas. Toca ahora analizar si quienes me visitan cumplen con los objetivos para los que creé el blog.
 
- [caption id="" align="alignnone" width="650.0"][![Más de 3 páginas por visita](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf5ae4b0400995a88cd1/1392758846557/more_than_3_pages-650x285.png)](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf5ae4b0400995a88cce/1392758618407/more_than_3_pages.png?format=original) Más de 3 páginas por visita[/caption] 
+ [caption id="" align="alignnone" width="650.0"][![Más de 3 páginas por visita](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf5ae4b0400995a88cd1/1392758846557/more_than_3_pages-650x285.png)](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf5ae4b0400995a88cce/1392758618407/more_than_3_pages.png?format=original) Más de 3 páginas por visita[/caption]
 
 _Visitas que ven más de 3 páginas_
 
@@ -46,4 +46,3 @@ Este objetivo si que ha mejorado con respecto al año anterior. Durante el año 
 ## Resumen
 
 La tasa de interacción de los visitantes de mi blog es baja. Uno de los principales objetivos para el año 2014, por encima incluso de la captación de visitantes, debe ser mejorar la interacción con quienes visitan el blog.
-

@@ -3,10 +3,10 @@ title: "Estrategias de crecimiento de aplicaciones web saas Parte 1"
 date: '2014-01-23T23:53:29+00:00'
 slug: '/blog/2014/01/estrategias-de-crecimiento-de-aplicaciones-web-saas-parte-1'
 tags: ["saas"]
-category: 'Marketing'
+category: 'marketing'
 excerpt: "Cuando desarrollamos una aplicación web en modo SaaS existen únicamente dos formas de crecimiento:Captar nuevos usuarios y mantener a los ya existentes.La fase de madurez en la que se encuentre nuestra aplicación definirá que estrategia es mejor."
 draft: false
-headerImage: 
+headerImage:
 ---
 Cuando desarrollamos una aplicación web en modo SaaS existen únicamente dos formas de crecimiento: Captar nuevos usuarios y mantener a los ya existentes. La fase de madurez en la que se encuentre nuestra aplicación definirá que estrategia es mejor.
 
@@ -17,7 +17,7 @@ El modelo de negocio sobre el que se basan la gran mayoría de aplicaciones web 
 Pero cuándo debemos enfocarnos en captar nuevos usuarios y cuándo debemos hacerlo en lograr que permanezcan con nosotros el máximo tiempo posible?.
 
 ## Modelo de madurez de una aplicación web en modo SaaS
- [caption id="" align="alignnone" width="300.0"][![fases madurez aplicación saas](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf58e4b0400995a88cae/1392758847629/fases-madurez-aplicaci%C3%B3n-saas-300x168.jpg)](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf57e4b0400995a88caa/1392758615818/fases-madurez-aplicaci%C3%B3n-saas.pdf?format=original) fases madurez aplicación saas[/caption] 
+ [caption id="" align="alignnone" width="300.0"][![fases madurez aplicación saas](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf58e4b0400995a88cae/1392758847629/fases-madurez-aplicaci%C3%B3n-saas-300x168.jpg)](http://static.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf57e4b0400995a88caa/1392758615818/fases-madurez-aplicaci%C3%B3n-saas.pdf?format=original) fases madurez aplicación saas[/caption]
 
 El momento en el que se encuentre nuestra aplicación web condicionará la forma en la que debemos crecer. Existen tres fases principales por las que debe atravesar una aplicación web.
 
@@ -40,4 +40,3 @@ En aquel momento estaba muy orgulloso de haber cerrado el primer año de lanzami
 En esta primera entrega hemos analizado el modelo de madurez de una aplicación web en modo SaaS y hemos visto que el momento en el que nos encontramos determina la estrategia a seguir para poder crecer.
 
 En una segunda parte hablaremos en detalle de la fase de Captación de nuevos usuarios y en una tercera entrega le tocará el turno al mantenimiento y fidelización de los usuarios existentes.
-

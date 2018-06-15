@@ -3,10 +3,10 @@ title: "Meteor - Desarrollando aplicaciones web en el siglo XXI"
 date: '2014-04-22T17:39:00+00:00'
 slug: '/desarrollo-web/2014/4/meteor-desarrollando-aplicaciones-web-en-el-siglo-xxi'
 tags: ["meteor", "rails", "mvc"]
-category: 'javascript'
+category: 'web-development'
 excerpt: "Hace unos días acabo de subir a producción mi primera aplicación web desarrollada íntegramente con Meteor.  Estas son mis impresiones después de unos meses de probar este framework de desarrollo de aplicaciones web."
 draft: false
-headerImage: 
+headerImage:
 ---
 Hace unos días acabo de subir a producción mi primera aplicación web desarrollada íntegramente con Meteor. Estas son mis impresiones después de unos meses de probar este framework de desarrollo de aplicaciones web.
 
@@ -70,4 +70,3 @@ Os dejo aquí algunos enlaces que os pueden servir de interés si queréis saber
 [http://yauh.de/articles/376/best-learning-resources-for-meteorjs](http://yauh.de/articles/376/best-learning-resources-for-meteorjs)
 
 [http://www.meetup.com/Meteor-Madrid/](http://www.meetup.com/Meteor-Madrid/)
-

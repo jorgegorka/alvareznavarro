@@ -3,10 +3,10 @@ title: "Creación de objetos en Javascript"
 date: '2014-02-17T22:14:00+00:00'
 slug: '/desarrollo-web/2014/2/creacion-de-objetos-en-javascript'
 tags: ["objetos"]
-category: 'javascript'
+category: 'web-development'
 excerpt: "Iniciamos una serie sobre objetos en Javascript viendo las opciones más básicas sobre como crear un objeto.  Además comprobamos que las propiedades y los métodos contienen una serie de atributos que no están disponibles directamente pero que podemos configurar según nuestras necesidades."
 draft: false
-headerImage: 
+headerImage:
 ---
 Iniciamos una serie sobre objetos en Javascript viendo las opciones más básicas sobre como crear un objeto. Además comprobamos que las propiedades y los métodos contienen una serie de atributos que no están disponibles directamente pero que podemos configurar según nuestras necesidades.
 
@@ -34,31 +34,31 @@ Mediante ambas formas obtenemos el mismo resultado aunque como puede verse con l
 Una vez que está creado el objeto podemos acceder a sus propiedades utilizando un punto entre el nombre del objeto y el nombre de la propiedad, por ejemplo escribiendo:
 
     receta.dificultad;
-    
+
     // Devuelve: 2
 
 También es posible acceder a las propiedades de un objeto empleando los corchetes:
 
     receta['dificultad']
-    
+
     // Devuelve: 2
 
 Ambas formas son equivalentes y de forma habitual se utiliza siempre la primera forma, aunque la segunda forma nos proporciona dos ventajas: Podemos pasar el nombre de la propiedad como variable y es la única forma de acceder a propiedades cuyo nombre provocaría un error de sintaxis al intentar acceder utilizando el punto:
 
     var nombreDeLaVariable = 'dificultad';
     receta[nombreDeLaVariable];
-    
+
     // Devuelve: 2
-    
+
     // Asignamos una propiedad con espacios en el nombre
     receta['tiempo de preparacion'] = '30 minutos';
-    
+
     // Esto genera un error ya que no se pueden dejar espacios
     receta.tiempo de preparacion;
-    
+
     // Esto sin embargo es correcto
     receta['tiempo de preparacion'];
-    
+
     // Devuelve: 30 minutos
 
 Hasta ahora hemos visto como asignar propiedades a un objeto. Las propiedades son variables que contienen información : Texto, Números, Arrays… y los métodos son variables que contienen funciones. Vamos a añadir un método a nuestro objeto receta:
@@ -71,7 +71,7 @@ Hasta ahora hemos visto como asignar propiedades a un objeto. Las propiedades so
     alert(this.ingredientes.join(' y '));
     }
     receta.queNecesito();
-    
+
     // Devuelve: huevos y aceite y patata y cebolla y sal
 
 El método _queNecesito()_ muestra los ingredientes que necesitamos para preparar la receta y les añade la conjunción "y". Como es de esperar, dentro de la función que hemos creado tenemos acceso al resto de propiedades del objeto y por lo tanto podemos mostrar la lista de ingredientes escribiendo _this.ingredientes_. _This_ hace referencia al objeto actual (más sobre esto en próximos artículos).
@@ -80,7 +80,7 @@ Además de añadir propiedades y métodos también podemos borrarlos empleando e
 
     delete receta.dificultad;
     receta.dificultad;
-    
+
     // No muestra nada ya que la propiedad 'dificultad' ha sido borrada del objeto
 
 También podemos conocer las propiedades y métodos disponibles en un objeto ya existente:
@@ -88,8 +88,8 @@ También podemos conocer las propiedades y métodos disponibles en un objeto ya 
     for(var propiedad in receta){
     alert(propiedad + ': ' + receta[propiedad]);
     }
-    
-    // Devuelve: 
+
+    // Devuelve:
     // nombre: Tortilla de patata, deconstruida
     // dificultad: 2
     // ingredientes: huevos,aceite,patata,cebolla,sal
@@ -119,30 +119,30 @@ Veamos algunos ejemplos:
     receta.queNecesito = function() {
     alert(this.ingredientes.join(' y '));
     }
-    
+
     Object.defineProperty(receta, "dificultad", {writable: false})
     Object.defineProperty(receta, "nombre", {configurable: false})
     Object.defineProperty(receta, "queNecesito", {enumerable: false})
-    
+
     for(var propiedad in receta){
     alert(propiedad + ': ' + receta[propiedad]);
     }
-    
+
     // Devuelve:
     // nombre: Tortilla de patata, deconstruida
     // dificultad: 2
     // ingredientes: huevos,aceite,patata,cebolla,sal
     // El método queNecesito ya no aparece en la lista.
-    
+
     delete receta.nombre;
     receta.nombre;
-    
+
     // Devuelve: Tortilla de patata, deconstruida
     // Ya que no es posible borrar la propiedad nombre
-    
+
     receta.dificultad = 5;
     receta.dificultad;
-    
+
     // Devuelve: 2
     // Ya que no es posible modificar el valor de la propiedad dificultad
 
@@ -167,7 +167,7 @@ Veamos un ejemplo:
     receta.queNecesito = function() {
     alert(this.ingredientes.join(' y '));
     }
-    
+
     Object.defineProperty(receta, "popularidad", {
     get: function() {
     if (this.votos \> 1000) {
@@ -180,15 +180,15 @@ Veamos un ejemplo:
     this.votos += nuevoValor;
      }
     });
-    
+
     receta.popularidad;
     // Devuelve: "No gusta mucho"
     receta.votos
     // Devuelve: 388
-    
+
     receta.popularidad = 900;
     // Añadimos 900 votos
-    
+
     receta.popularidad;
     // Devuelve: "Receta popular"
     receta.votos;
@@ -201,11 +201,11 @@ Hemos definido una nueva propiedad llamada popularidad a la que hemos asignado e
 Para conocer el valor de los atributos de una propiedad debemos utilizar el método Object.getOwnPropertyDescriptor():
 
     var ownProperty = Object.getOwnPropertyDescriptor(receta, "votos");
-    
+
     for (var descriptor in ownProperty) {
     alert(descriptor + ': ' + ownProperty[descriptor]);
     }
-    
+
     // Devuelve:
     // value: 388
     // writable: true
@@ -215,4 +215,3 @@ Para conocer el valor de los atributos de una propiedad debemos utilizar el mét
 ### Resumen
 
 En esta primera aproximación a los objetos en Javascript hemos creado objetos de forma sencilla y comprobado que hay una serie de atributos que si bien no están disponibles a simple vista conviene conocer ya que pueden ser de mucha utilidad.
-

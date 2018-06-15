@@ -3,10 +3,10 @@ title: "Mínimo producto viable - Parte 2"
 date: '2014-03-24T19:32:07+00:00'
 slug: '/blog/minimo-producto-viable-parte2'
 tags: ["diseño centrado en el usuario", "mínimo producto viable", "saas", "desarrollo ágil"]
-category: 'Desarrollo Web'
+category: 'web-development'
 excerpt: "Segunda parte dedicada al análisis de una estrategia de Mínimo Producto Viable.  Hemos visto las características que debe cumplir un MPV: útil, medible e incompleto.  Veamos ahora como debe ser la metodología de desarrollo."
 draft: false
-headerImage: 
+headerImage:
 ---
 Segunda parte dedicada al análisis de una estrategia de Mínimo Producto Viable. Hemos visto las [características que debe cumplir un MPV: útil, medible e incompleto](http://www.alvareznavarro.es/blog/2014/02/minimo-producto-viable-parte-1). Veamos ahora como debe ser la metodología de desarrollo. <!--more-->
 
@@ -67,4 +67,3 @@ Ese pequeño detalle, que a mí nunca se me habría ocurrido, fue de gran utilid
 Poner al usuario como centro del proceso de desarrollo nos ayudará a realizar productos que sean del agrado de quienes lo van a utilizar. Sabemos que es imposible de antemano captar todos los requerimientos y necesidades de nuestra aplicación por lo que debemos dejar que sean las propias personas que la van a emplear quienes nos digan que es lo que quieren y como lo quieren.
 
 Empleando metodologías ágiles conseguimos ser capaces de crear productos cuyas características no han sido detalladas a priori, que evolucionan conforme avanza el desarrollo pero que sin embargo cumplen con las necesidades de quienes lo van a emplear.
-

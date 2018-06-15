@@ -3,10 +3,10 @@ title: "Aprovecha las redes sociales para transmitir confianza en tu web"
 date: '2011-03-30T06:04:00+00:00'
 slug: '/blog/2011/03/aprovecha-las-redes-sociales-para-transmitir-confianza-en-tu-web'
 tags: ["redes sociales", "social media"]
-category: 'Marketing'
+category: 'marketing'
 excerpt: "Uno de los aspectos que más debemos cuidar en la web de una empresa es el de generar confianza.No solo debemos transmitir que servicios y productos tenemos sino que además**tenemos que transmitir a..."
 draft: false
-headerImage: 
+headerImage:
 ---
 Uno de los aspectos que más debemos cuidar en la web de una empresa es el de generar confianza.
 
@@ -28,7 +28,7 @@ Existen muchas maneras de transmitir confianza y muchas de ellas dependen del ti
 
 **Escribe claro y directo**
 
-. 
+.
 
 Textos complicados, condiciones legales farragosas, descripciones de producto poco claras crean una mala impresión en quien nos visita.
 
@@ -36,7 +36,7 @@ Textos complicados, condiciones legales farragosas, descripciones de producto po
 
 **Responde rápido a los mensajes**
 
-. 
+.
 
 Si recibes emails o mensajes a través del formulario de contacto de la web responde pronto y de forma amigable.
 
@@ -48,7 +48,7 @@ Si recibes emails o mensajes a través del formulario de contacto de la web resp
 
 No es lo mismo decir "Hemos recibido su información de contacto. Gracias" que "Hemos recibido su mensaje. En menos de 24 horas le responderemos. Muchas gracias por contactar con nosotros".
 
-Este segundo mensaje crea más confianza ya que no solo le decimos que hemos recibido su mensaje sino que le indicamos en cuanto tiempo le vamos a responder. Eso sí, asegurate de cumplir con el plazo. 
+Este segundo mensaje crea más confianza ya que no solo le decimos que hemos recibido su mensaje sino que le indicamos en cuanto tiempo le vamos a responder. Eso sí, asegurate de cumplir con el plazo.
 
 **Generar expectativas y no cumplirlas es una forma segura de perder a un posible cliente**
 
@@ -58,7 +58,7 @@ Este segundo mensaje crea más confianza ya que no solo le decimos que hemos rec
 
 Las redes sociales nos proporcionan una forma excelente de transmitir confianza a nuestros visitantes. Para ello lo mejor es añadir a nuestra web algunos tweets y comentarios que se hayan realizado de nuestra empresa o productos a través de dichas redes.
 
- [caption id="" align="alignnone" width="450.0"] ![Balsamiq](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf3ae4b0400995a88b3f/1392758825816/balsamiq-scaled600.png) Balsamiq[/caption] 
+ [caption id="" align="alignnone" width="450.0"] ![Balsamiq](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5303cf3ae4b0400995a88b3f/1392758825816/balsamiq-scaled600.png) Balsamiq[/caption]
 
 Veamos como ejemplo la web de
 
@@ -75,4 +75,3 @@ y al ser personas son gente real, de carne y hueso, personas a las que nuestro v
 Nuestros visitantes valorarán mucho este tipo de información, muchas veces incluso más que todos los datos que podamos dar acerca de nuestros productos o servicios.
 
 Así que visita las redes sociales, investiga que es lo que se dice de tu empresa y aprovecha esa información para crear confianza y seguridad en tus visitantes.
-

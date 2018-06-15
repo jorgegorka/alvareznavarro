@@ -3,10 +3,10 @@ title: "La paginación y el SEO"
 date: '2010-10-14T14:10:00+00:00'
 slug: '/desarrollo-web/2010/10/la-paginacion-y-el-seo'
 tags: ["seo"]
-category: 'Desarrollo Web'
+category: 'web-development'
 excerpt: " **Actualizado el 23-11-2011** La paginación es una parte muy importante de sitios web que contienen gran cantidad de información ya que permite dividir cantidades muy grandes de datos en partes más pe..."
 draft: false
-headerImage: 
+headerImage:
 ---
  **Actualizado el 23-11-2011** La paginación es una parte muy importante de sitios web que contienen gran cantidad de información ya que permite dividir cantidades muy grandes de datos en partes más pequeñas y manejables por los usuarios. Además puede servir también como una herramienta de navegación ya que si, por ejemplo, vemos un listado de productos ordenados por precio de menor a mayor, visitando la última página encontraremos los de mayor precio.
 

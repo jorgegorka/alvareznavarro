@@ -3,10 +3,10 @@ title: "El tamaño importa y mucho"
 date: '2006-03-03T17:53:00+00:00'
 slug: '/blog/2006/03/el-tamao-importa-y-mucho'
 tags: ["negocios", "usuarios"]
-category: 'Personal'
+category: 'other'
 excerpt: "Ya he hablado otras veces del blog de Kathy Sierra [Creating Passionate Users]( Y cada vez que lo leo me doy cuenta de que la web de [nuestra emp..."
 draft: false
-headerImage: 
+headerImage:
 ---
 Ya he hablado otras veces del blog de Kathy Sierra [Creating Passionate Users](http://headrush.typepad.com/creating_passionate_users/). Y cada vez que lo leo me doy cuenta de que la web de [nuestra empresa](http://www.informatica32.com) necesita **cambios urgentes**.
 
@@ -18,4 +18,3 @@ Nosotros de momento hacemos lo primero porque:
 - hacer lo que te gusta y hacerlo bien \*es rentable.
 
 ![](http://jorgegorka.files.wordpress.com/startuptable.jpg)
-

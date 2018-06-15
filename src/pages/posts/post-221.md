@@ -3,10 +3,10 @@ title: "Master Analítica Web semana 12 - Módulo Técnico"
 date: '2011-07-07T00:35:47+00:00'
 slug: '/blog/2011/07/master-analitica-web-semana-12-modulo-tecnico'
 tags: ["garb", "master analítica web"]
-category: 'Analítica'
+category: 'marketing'
 excerpt: "Saber implementar correctamente una herramienta de analítica es fundamental para conseguir extraer toda la información que una web nos puede aportar. Normalmente nos limitamos a añadir el código encarg..."
 draft: false
-headerImage: 
+headerImage:
 ---
 Saber implementar correctamente una herramienta de analítica es fundamental para conseguir extraer toda la información que una web nos puede aportar. Normalmente nos limitamos a añadir el código encargado de contabilizar las páginas que nos proporciona la herramienta de medición, pero esto no es suficiente. Existen diversas situaciones en las que debemos personalizar, modificar y añadir más elementos a una página web para poder controlar correctamente lo que sucede en ella.
 
@@ -34,4 +34,3 @@ O de los diferentes pasos en la gestión de la vida de los datos:
 Estuvimos también haciendo pruebas con el API de Google Analytics y pudimos comprobar que para automatizar tareas de carga de datos (que nos llevarían mucho tiempo de forma manual) e incluso para extraer información adicional, que no se presenta en los informes de Google, es necesario conocer y manejar con soltura el API.
 
 Estuve probando el plugin[Garb](https://github.com/vigetlabs/garb "google analytics rails wrapper")para ruby on rails y lo cierto es que es bastante sencillo acceder a toda la información del API de Google Analytics y procesar y automatizar la recolección de información sin necesidad de hacerlo de forma manual.
-
