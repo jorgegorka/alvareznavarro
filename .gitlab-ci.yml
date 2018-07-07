@@ -23,13 +23,11 @@ buildGatsby:
     - master
 
 deploys3:
-  image: "python:latest"  # We use python because there is a well-working AWS Sdk
+  image: "python:3.6.6"  # We use python because there is a well-working AWS Sdk
   stage: deploy
   dependencies:
     - buildGatsby
   before_script:
-    - apt-get python-yaml
-    - apt-get python-websocket
     - pip install awscli # Install the SDK
   script:
     - aws s3 cp public s3://${BUCKET_NAME} --recursive
