@@ -21,8 +21,8 @@ const CategoriesPage = ({
     <div>
       <h1>Categories</h1>
       <ul>
-        {group.map(category => (
-          <li key={category.fieldValue}>
+        {group.map((category, index) => (
+          <li key={index}>
             <Link to={`/categories/${kebabCase(category.fieldValue)}/`}>
               {category.fieldValue} ({category.totalCount})
             </Link>

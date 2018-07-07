@@ -1,5 +1,4 @@
-import React from 'react'
-import Helmet from 'react-helmet'
+import React from 'react';
 
 import MetaFacebook from './meta-facebook';
 import MetaTwitter from './meta-twitter';

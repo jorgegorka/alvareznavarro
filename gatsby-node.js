@@ -1,6 +1,7 @@
 const path = require('path');
 const _ = require('lodash');
 const { createFilePath } = require('gatsby-source-filesystem');
+const createPaginatedPages = require('gatsby-paginate');
 // const generateTags = require('./tag-generator')
 
 exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
@@ -24,14 +25,17 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
     {
       allMarkdownRemark(
         sort: { order: DESC, fields: [frontmatter___date] }
-        limit: 2000
+        filter: { frontmatter: { draft: { eq: false } } }
       ) {
         edges {
           node {
             frontmatter {
+              title
               slug
               tags
               category
+              date(formatString: "DD MMMM, YYYY")
+              excerpt
             }
           }
         }
@@ -43,6 +47,15 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
     }
 
     const posts = result.data.allMarkdownRemark.edges;
+
+    createPaginatedPages({
+      edges: posts,
+      createPage: createPage,
+      pageTemplate: 'src/templates/index.js',
+      pageLength: 15, // This is optional and defaults to 10 if not used
+      pathPrefix: "", // This is optional and defaults to an empty string if not used
+      context: {} // This is optional and defaults to an empty object if not used
+    });
 
     // Create post detail pages
     posts.forEach(({ node }) => {
