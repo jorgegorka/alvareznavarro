@@ -28,7 +28,8 @@ deploys3:
   dependencies:
     - buildGatsby
   before_script:
-    - apt-get install python-dev
+    - apt-get python-yaml
+    - apt-get python-websocket
     - pip install awscli # Install the SDK
   script:
     - aws s3 cp public s3://${BUCKET_NAME} --recursive
