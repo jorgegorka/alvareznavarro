@@ -1,30 +1,40 @@
-import React from "react";
-import PropTypes from "prop-types";
+import React from 'react'
+import Helmet from 'react-helmet'
+import PropTypes from "prop-types"
 
-// Components
-import Link from "gatsby-link";
+import SiteNavigation from '../components/site-navigation'
+import PostExcerpt from '../components/post-excerpt'
+import PageNavigation from '../components/page-navigation'
 
 const Tags = ({ pathContext, data }) => {
   const { tag } = pathContext;
   const { edges, totalCount } = data.allMarkdownRemark;
-  const tagHeader = `${totalCount} post${
-    totalCount === 1 ? "" : "s"
-  } tagged with "${tag}"`;
+  const tagHeader = `${totalCount} post`;
 
   return (
     <div>
-      <h1>{tagHeader}</h1>
-      <ul>
-        {edges.map(({ node }) => {
-          const { path, title } = node.frontmatter;
-          return (
-            <li key={path}>
-              <Link to={path}>{title}</Link>
-            </li>
-          );
-        })}
-      </ul>
-      <Link to="/tags">All tags</Link>
+      <header className="site-header outer no-cover">
+        <Helmet>
+          <body className="tag-template" />
+        </Helmet>
+        <div className="inner">
+          <SiteNavigation />
+          <div className="site-header-content">
+            <h1 className="site-title">{tag}</h1>
+            <h2 className="site-description">{tagHeader}</h2>
+          </div>
+        </div>
+      </header>
+      <main id="site-main" className="site-main outer" role="main">
+        <div className="inner">
+          <div className="post-feed">
+            { edges.map(({ node }, index) => (
+              <PostExcerpt post={ node } key={ index } />
+            )) }
+          </div>
+          <PageNavigation pathContext={ pathContext } />
+        </div>
+      </main>
     </div>
   );
 };
@@ -40,8 +50,11 @@ Tags.propTypes = {
         PropTypes.shape({
           node: PropTypes.shape({
             frontmatter: PropTypes.shape({
-              path: PropTypes.string.isRequired,
               title: PropTypes.string.isRequired,
+              tags: PropTypes.array.isRequired,
+              excerpt: PropTypes.string.isRequired,
+              date: PropTypes.string.isRequired,
+              category: PropTypes.string.isRequired,
             }),
           }),
         }).isRequired
@@ -55,9 +68,8 @@ export default Tags;
 export const pageQuery = graphql`
   query TagPage($tag: String) {
     allMarkdownRemark(
-      limit: 2000
       sort: { fields: [frontmatter___date], order: DESC }
-      filter: { frontmatter: { tags: { in: [$tag] } } }
+      filter: { frontmatter: { draft: { eq: false }, tags: { in: [$tag] } } }
     ) {
       totalCount
       edges {
@@ -65,6 +77,10 @@ export const pageQuery = graphql`
           frontmatter {
             title
             slug
+            tags
+            excerpt
+            date(formatString: "DD-MM-YYYY")
+            category
           }
         }
       }

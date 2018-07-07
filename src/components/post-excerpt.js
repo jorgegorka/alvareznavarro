@@ -1,13 +1,13 @@
 import React from 'react'
 import Link from 'gatsby-link'
 
-import PostHeaderImage from './post-header-image'
-import PostTags from './post-tags';
+import PostImage from './post-image'
+import PostTags from './post-tags'
 
 const PostExcerpt = ({ post }) => (
   <article className="post-card post">
     <Link to={ post.frontmatter.slug } className="post-card-image-link">
-      <PostHeaderImage image={ post.frontmatter.image } />
+      <PostImage isCard image={ post.frontmatter.image } />
     </Link>
 
 

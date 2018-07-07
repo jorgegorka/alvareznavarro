@@ -4,9 +4,9 @@ date: '2018-06-11T08:47:41+00:00'
 slug: '/blog/2018/6/how-to-deploy-a-gatsby-website-to-amazon-s3-using-gitlab-ci'
 tags: ["javascript", "GatsbyJS", "Gitlab", "S3"]
 category: 'web-development'
-excerpt: "If you've never heard of GatsbyJS its an amazing static website generator that will help you to create progressive web apps using the JAM Stack.Don't let the word static website generator confuses you.  Stack does not mean not interactive.  With GatsbyJS you can generate really interactive websites leveraging the power of React and GraphQL."
+excerpt: "If you've never heard of GatsbyJS its an amazing static website generator that will help you to create progressive web apps using the JAM Stack. Don't let the word static website generator confuses you. Static does not mean not interactive. With GatsbyJS you can generate really interactive websites leveraging the power of React and GraphQL."
 draft: false
-headerImage:
+headerImage: ''
 ---
 If you've never heard of [GatsbyJS](https://www.gatsbyjs.org/) it's an amazing static website generator that will help you to create progressive web apps using the JAM Stack.
 
@@ -16,10 +16,9 @@ Don't let the word static website generator confuses you. Static does not mean n
 
 One of my goals for this summer is to move my blog (yes, this one you are reading now) from Squarespace to [Amazon S3](https://aws.amazon.com/). I'm going to use [Gitlab](https://gitlab.com) and [GatsbyJS](https://www.gatsbyjs.org/). The workflow will be like this:
 
-1. I create content for the blog in my computer. I can see the updates in my local development version.
-2. Once all is good I'll push the changes to my Gitlab repository.
-3. Using Gitlab CI the pushed changes will be automatically compiled and deployed to my Amazon S3 bucket where the website lives.
-4. Changes are live.
+1. I create content for the blog and once all is good changes are pushed automatically to my Gitlab repository.
+2. Using Gitlab CI the pushed changes will be automatically compiled and deployed to my Amazon S3 bucket where the website lives.
+3. Changes are live.
 
 As you can see it's a simple but powerful workflow. I can modify anything, add a new post, page, etc... See the new changes applied in my local version and once I'm happy with the result I just need to push the changes to my repo and they will be deployed to my live site thanks to Gitlab CI.
 
@@ -31,15 +30,15 @@ Let's start with the process. The first step is to create a bucket in Amazon S3 
 
 Go to Amazon, select S3 and press the "Create bucket" button
 
- [caption id="" align="alignnone" width="1200.0"] ![Create bucket](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5b1e482e88251b8e2e3ee7e6/1528711232817/Screen+Shot+2018-06-11+at+10.53.53.png.53.png?format=original) Create bucket [/caption]
+ ![Create bucket](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5b1e482e88251b8e2e3ee7e6/1528711232817/Screen+Shot+2018-06-11+at+10.53.53.png.53.png?format=original)
 
-Don't worry about permissions. We will change them later. Just create the bucket with the default options and once it's been created click on it. I'm going to create a bucket called _alvareznavarro_ . Once the bucket has been created you will see a page like this:
+Don't worry about permissions, we will change them later. Just create the bucket with the default options and once it's been created click on it. I'm going to create a bucket called _alvareznavarro_ . Once the bucket has been created you will see a page like this:
 
- [caption id="" align="alignnone" width="2500.0"] ![Bucket properties page](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5b1e4896758d467b0ba39a9f/1528711342038/Screen+Shot+2018-06-11+at+10.56.37.png.37.png?format=original) Bucket properties page [/caption]
+ ![Bucket properties page](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5b1e4896758d467b0ba39a9f/1528711342038/Screen+Shot+2018-06-11+at+10.56.37.png.37.png?format=original)
 
 Click on Static website hosting and this is what you will see:
 
- [caption id="" align="alignnone" width="2500.0"] ![Static website hosting configuration](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5b1e491a88251b8e2e3efca8/1528711487090/Screen+Shot+2018-06-11+at+10.57.04.png.04.png?format=original) Static website hosting configuration [/caption]
+ ![Static website hosting configuration](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5b1e491a88251b8e2e3efca8/1528711487090/Screen+Shot+2018-06-11+at+10.57.04.png.04.png?format=original)
 
 Select the option called: "Use this bucket to host a website" and write the name of your index page. Gatsby uses index.html by default so write that. You can also add an error page. I'm going to follow amazon suggested name and call the page error.html.
 
@@ -59,7 +58,7 @@ What we are going to do here is to create a policy that allows to write content 
 
 Visit Amazon IAM and in the left sidebar click on policies and then the button called "Create policy"
 
- [caption id="" align="alignnone" width="2458.0"] ![IAM policy that allows to write content in our bucket](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5b1e4d8bf950b7e55e49e7e7/1528712622444/Screen+Shot+2018-06-11+at+11.02.13.png.13.png?format=original) IAM policy that allows to write content in our bucket [/caption]
+ ![IAM policy that allows to write content in our bucket](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5b1e4d8bf950b7e55e49e7e7/1528712622444/Screen+Shot+2018-06-11+at+11.02.13.png.13.png?format=original)
 
 Select the tab named JSON and copy/paste the following script. Again remember to change the bucket name and use your own.
 
@@ -71,15 +70,15 @@ Now let's go to the final step in Amazon. We are going to create a new user and 
 
 In Amazon IAM in the left sidebar click on the option called Users and then click the button named "Add user"
 
- [caption id="" align="alignnone" width="2500.0"] ![Create a user with programatic access](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5b1e4f4b562fa722fbbb39c2/1528713062832/Screen+Shot+2018-06-11+at+11.04.01.png.01.png?format=original) Create a user with programatic access [/caption]
+ ![Create a user with programatic access](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5b1e4f4b562fa722fbbb39c2/1528713062832/Screen+Shot+2018-06-11+at+11.04.01.png.01.png?format=original)
 
 Give a name to your user, mine is called _publicWebsiteUser_ and select the **Programatic access** option then click "Next: Permissions".
 
- [caption id="" align="alignnone" width="2500.0"] ![Attach our policy to the user](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5b1e4fb30e2e727080dec154/1528713168177/Screen+Shot+2018-06-11+at+11.04.52.png.52.png?format=original) Attach our policy to the user [/caption]
+ ![Attach our policy to the user](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5b1e4fb30e2e727080dec154/1528713168177/Screen+Shot+2018-06-11+at+11.04.52.png.52.png?format=original)
 
 We are going to attach our policy to this user and the way of doing so is by clicking on the "Attach existing policies directly" tab. You will see a list of all policies. Go to filter and search for the name of the policy you've created before. Then select that policy by clicking on the left checkbox and click "Next: Review".
 
- [caption id="" align="alignnone" width="2500.0"] ![You new user with the credentials info.  ](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5b1e506470a6ad65229cab28/1528713373300/Screen+Shot+2018-06-11+at+11.05.46.png.46.png?format=original) You new user with the credentials info. [/caption]
+ ![You new user with the credentials info.  ](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5b1e506470a6ad65229cab28/1528713373300/Screen+Shot+2018-06-11+at+11.05.46.png.46.png?format=original)
 
 Now you can see your new user and the credentials assigned to this user. This is the last time you will be able to see these credentials so copy them and save them because we are going to use them later on in [Gitlab](https://gitlab.com).
 
@@ -98,7 +97,7 @@ Create a repository in Gitlab. Give it the name that better suits your needs. I'
 
 Go to the repo and in the left sidebar click on Settings -\>CI/CD. Click on Variables and here you need to add the credentials that you copied when you created the Amazon User. Check this screen:
 
- [caption id="" align="alignnone" width="2500.0"] ![CI Settings for our repo.](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5b1e52676d2a73d2cc2b42fe/1528713865700/Screen+Shot+2018-06-11+at+11.09.28.png.28.png?format=original) CI Settings for our repo. [/caption]
+ ![CI Settings for our repo.](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5b1e52676d2a73d2cc2b42fe/1528713865700/Screen+Shot+2018-06-11+at+11.09.28.png.28.png?format=original)
 
 Create these two variable name and paste the corresponding values. Now when Gitlab tries to deploy our website to S3 it will authenticate using these credentials.
 
@@ -141,7 +140,7 @@ Now you just need to wait a few minutes and the contents of your website will be
 
 You can check the status of the process in Gitlab inside CI/CD -\> Piplelines
 
- [caption id="" align="alignnone" width="2500.0"] ![Gitlab pipelines status](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5b1e6ae070a6ad65229f8ec3/1528720133480/Screen+Shot+2018-06-11+at+14.27.24.png.24.png?format=original) Gitlab pipelines status [/caption]
+ ![Gitlab pipelines status](http://static1.squarespace.com/static/5303797ae4b0c6ad9e43f072/5303ce80e4b0400995a883d6/5b1e6ae070a6ad65229f8ec3/1528720133480/Screen+Shot+2018-06-11+at+14.27.24.png.24.png?format=original)
 
 Time to summarise all steps we did on our computer:
 

@@ -1,26 +1,40 @@
-import React from "react";
+import React from 'react'
+import Helmet from 'react-helmet'
 import PropTypes from 'prop-types'
 
-// Components
-import Link from "gatsby-link";
+import PostExcerpt from '../components/post-excerpt';
+import SiteNavigation from '../components/site-navigation';
 
 const CategoryList = ({ pathContext, data }) => {
   const { category } = pathContext;
   const { edges, totalCount } = data.allMarkdownRemark;
-  const categoryHeader = `${totalCount} post${totalCount === 1 ? '' : 's'} for category: "${category}"`
+  const categoryTotal = `${totalCount} post${totalCount === 1 ? '' : 's'} for category.`
 
-  return <div>
-      <h1>{categoryHeader}</h1>
-      <ul>
-        {edges.map(({ node }) => {
-          const { path, title } = node.frontmatter
-          return <li key={path}>
-              <Link to={path}>{title}</Link>
-            </li>
-        })}
-      </ul>
-      <Link to="/categories">All categories</Link>
+  return (
+    <div>
+      <header className="site-header outer no-cover">
+        <Helmet>
+          <body className="tag-template" />
+        </Helmet>
+        <div className="inner">
+          <SiteNavigation />
+          <div className="site-header-content">
+            <h1 className="site-title">{category}</h1>
+            <h2 className="site-description">{categoryTotal}</h2>
+          </div>
+        </div>
+      </header>
+      <main id="site-main" className="site-main outer" role="main">
+        <div className="inner">
+          <div className="post-feed">
+            { edges.map(({ node }, index) => (
+              <PostExcerpt post={ node } key={ index } />
+            )) }
+          </div>
+        </div>
+      </main>
     </div>
+  );
 };
 
 CategoryList.propTypes = {
@@ -34,7 +48,6 @@ CategoryList.propTypes = {
         PropTypes.shape({
           node: PropTypes.shape({
             frontmatter: PropTypes.shape({
-              path: PropTypes.string.isRequired,
               title: PropTypes.string.isRequired,
             }),
           }),
@@ -49,7 +62,7 @@ export default CategoryList;
 export const categoriesListQuery = graphql`
   query CategoriesListPage($category: String) {
     allMarkdownRemark(
-      limit: 2000
+      limit: 200
       sort: { fields: [frontmatter___date], order: DESC }
       filter: { frontmatter: { draft: { eq: false }, category: { eq: $category } } }
     ) {
@@ -60,7 +73,8 @@ export const categoriesListQuery = graphql`
             category
             title
             slug
-            date
+            tags
+            date(formatString: "DD-MM-YYYY")
             excerpt
           }
         }

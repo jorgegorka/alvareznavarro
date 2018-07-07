@@ -77,17 +77,17 @@ const generateTags = (posts, createPage) => {
   const tagTemplate = path.resolve('src/templates/tags.js')
 
   // Tag pages:
-  let tags = []
+  let tags = new Set([]);
   // Iterate through each post, putting all found tags into `tags`
   _.each(posts, edge => {
     if (_.get(edge, 'node.frontmatter.tags')) {
-      tags = tags.concat(edge.node.frontmatter.tags)
+      edge.node.frontmatter.tags.forEach( (tag) => {
+        tags.add(tag)
+      })
     }
   })
-  // Eliminate duplicate tags
-  tags = _.uniq(tags)
 
-  // Make tag pages
+
   tags.forEach(tag => {
     createPage({
       path: `/tags/${_.kebabCase(tag)}/`,
@@ -102,14 +102,12 @@ const generateTags = (posts, createPage) => {
 const generateCategories = (posts, createPage) => {
   const categoryTemplate = path.resolve('src/templates/category-list.js')
 
-  let categories = [];
+  let categories = new Set([]);
   _.each(posts, edge => {
     if (_.get(edge, 'node.frontmatter.category')) {
-      categories.push(edge.node.frontmatter.category)
+      categories.add(edge.node.frontmatter.category)
     }
   })
-
-  categories = _.uniq(categories)
 
   categories.forEach(category => {
     console.log(category);

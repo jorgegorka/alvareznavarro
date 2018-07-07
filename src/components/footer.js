@@ -8,10 +8,8 @@ const Footer = ({ siteTitle }) => (
         <a href="/">Jorge Alvarez</a>
       </section>
       <nav className="site-footer-nav">
-        <a href="/">Latest Posts</a>
-        <a href="https://twitter.com/" target="_blank" rel="noopener">Twitter</a>
-        <a href="https://github.com/" target="_blank" rel="noopener">Github</a>
-        <a href="https://www.linkedin.com/in/" target="_blank" rel="noopener">LinkedIn</a>
+        <a href="https://www.happymoodscore.com/" target="_blank" title="The easiest way to get feedback">Happy Mood Score</a>
+        <a href="https://www.resourceguruapp.com/" target="_blank"  title="Scheduling software and resource management">Resource Guru</a>
       </nav>
     </div>
   </footer>
