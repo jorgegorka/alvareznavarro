@@ -2,7 +2,7 @@ import React from 'react'
 import Link from 'gatsby-link'
 
 const SiteNavigation = () => (
-  <nav className="site-nav">
+  <nav className="site-nav" role="menu">
     <div className="site-nav-left">
       <ul className="nav" role="menu">
         <li className="main" role="menuitem">
@@ -12,7 +12,7 @@ const SiteNavigation = () => (
           <Link to="/categories/web-development">Web development</Link>
         </li>
         <li className="main" role="menuitem">
-          <Link to="/categories/marketing">Marketing</Link>
+          <Link to="/categories/business">Business</Link>
         </li>
         <li className="main" role="menuitem">
           <Link to="/categories/other">Other</Link>

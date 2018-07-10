@@ -4,6 +4,7 @@ import PropTypes from 'prop-types'
 
 import PostExcerpt from '../components/post-excerpt';
 import SiteNavigation from '../components/site-navigation';
+import MobileNavigation from '../components/mobile-navigation';
 
 const CategoryList = ({ pathContext, data }) => {
   const { category } = pathContext;
@@ -17,6 +18,7 @@ const CategoryList = ({ pathContext, data }) => {
           <body className="tag-template" />
         </Helmet>
         <div className="inner">
+          <MobileNavigation />
           <SiteNavigation />
           <div className="site-header-content">
             <h1 className="site-title">{category}</h1>

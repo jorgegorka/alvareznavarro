@@ -1,6 +1,7 @@
 import React from 'react'
 
 import PostImage from '../components/post-image'
+import ReadMore from '../components/read-more'
 import PostTags from '../components/post-tags'
 import PostHeader from '../components/post-header';
 import SiteNavigation from '../components/site-navigation';
@@ -10,7 +11,8 @@ export default ({ data }) => {
     return null;
   }
   const post = data.markdownRemark;
-  const { site } = data;
+  const { site, allMarkdownRemark } = data;
+
   return (
     <div>
       <header className="site-header outer">
@@ -36,6 +38,7 @@ export default ({ data }) => {
           </article>
         </div>
       </main>
+      <ReadMore posts={allMarkdownRemark} />
     </div>
   );
 };
@@ -57,6 +60,24 @@ export const query = graphql`
         draft
         excerpt
         slug
+      }
+    }
+    allMarkdownRemark(
+      limit: 5
+      sort: { fields: [frontmatter___date], order: DESC }
+      filter: { frontmatter: { draft: { eq: false }, slug: { ne: $slug } } }
+    ) {
+      edges {
+        node {
+          frontmatter {
+            category
+            title
+            slug
+            tags
+            date(formatString: "DD-MM-YYYY")
+            excerpt
+          }
+        }
       }
     }
   }
