@@ -3,7 +3,7 @@ title: ""
 date: '2014-02-25T19:19:05+00:00'
 slug: '/blog/2014/2/eq1uge5rgtigvn6x91r4s0h6w1jocm'
 tags: ["saas"]
-category: 'marketing'
+category: 'business'
 excerpt: "Monitorizar la actividad de los usuarios en nuestra aplicación web nos permitirá saber el grado de uso de las diferentes funcionalidades de que se compone nuestra aplicación.# Conocer a los usuarios..."
 draft: false
 headerImage:

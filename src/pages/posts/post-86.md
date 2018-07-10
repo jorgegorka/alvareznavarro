@@ -3,7 +3,7 @@ title: "Webs ¿Líquidas o fijas?"
 date: '2006-11-28T09:59:00+00:00'
 slug: '/blog/2006/11/webs-lquidas-o-fijas'
 tags: ["historias", "Internet", "rails"]
-category: 'marketing'
+category: 'business'
 excerpt: "Cameron Moll habla en 2 artículos sobre [la mejor forma de optimizar una web]( para [distintas resoluciones de pantalla]("
 draft: false
 headerImage:

@@ -3,7 +3,7 @@ title: "Master de Analítica Web - Semana 6"
 date: '2011-05-10T08:07:00+00:00'
 slug: '/blog/2011/05/master-de-analitica-web-semana-6'
 tags: ["Uncategorized"]
-category: 'marketing'
+category: 'business'
 excerpt: "Esta semana ha estado particularmente interesante. Comenzó [Ana Soplón]( Ana Soplón Experta en analítica web) contandonos su experiencia como analista web en empre..."
 draft: false
 headerImage:

@@ -3,7 +3,7 @@ title: "Son felices tus empleados?"
 date: '2015-01-21T19:44:00+00:00'
 slug: '/blog/2015/1/son-felices-tus-empleados'
 tags: ["recursos humanos", "empleados", "felicidad"]
-category: 'marketing'
+category: 'business'
 excerpt: "Es una pregunta que en las últimas semanas me he hecho unas cuantas veces. Una de las responsabilidades de mi nuevo trabajo en [Conferize]( es la de gestionar un equipo de per..."
 draft: false
 headerImage:

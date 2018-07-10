@@ -3,7 +3,7 @@ title: "El SEO es para los mediocres"
 date: '2011-02-28T07:57:54+00:00'
 slug: '/desarrollo-web/2011/02/el-seo-es-para-los-mediocres'
 tags: ["seo"]
-category: 'marketing'
+category: 'business'
 excerpt: "Hace aproximadamente un año y medio escribí un artículo titulado [Porqué no debes hacer SEO]("
 draft: false
 headerImage:

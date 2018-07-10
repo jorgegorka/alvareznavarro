@@ -3,7 +3,7 @@ title: "Posicionamiento de webs inmobiliarias"
 date: '2007-07-27T10:06:00+00:00'
 slug: '/blog/2007/07/posicionamiento-de-webs-inmobiliarias'
 tags: ["seo"]
-category: 'marketing'
+category: 'business'
 excerpt: "Voy a iniciar en el [blog de oficinainmobiliaria.es]( una serie de artículos enfocados a mejorar el posicionamiento de webs inmobiliarias.   Nuestra base de trabajo..."
 draft: false
 headerImage:

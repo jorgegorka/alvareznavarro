@@ -3,7 +3,7 @@ title: "10 razones para usar blogs y twitter en la empresa"
 date: '2009-10-02T23:46:05+00:00'
 slug: '/blog/2009/10/10-razones-para-usar-blogs-y-twitter-en-la-empresa'
 tags: ["blogs"]
-category: 'marketing'
+category: 'business'
 excerpt: "[caption id= align=alignnone width=412.0] ![chemical_at_work]("
 draft: false
 headerImage:

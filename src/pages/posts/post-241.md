@@ -3,7 +3,7 @@ title: "Deja que tus visitantes organicen tu web"
 date: '2011-10-04T13:02:00+00:00'
 slug: '/blog/2011/10/deja-que-tus-visitantes-organicen-tu-web'
 tags: ["generación de contenidos", "medición", "posicionamiento en buscadores"]
-category: 'marketing'
+category: 'business'
 excerpt: "[![]( network\_people)]("
 draft: false
 headerImage:

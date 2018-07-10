@@ -3,7 +3,7 @@ title: "El sector de la moda online en España"
 date: '2011-10-30T11:30:16+00:00'
 slug: '/blog/2011/10/el-sector-de-la-moda-online-en-espana'
 tags: ["estudio", "google", "moda online"]
-category: 'marketing'
+category: 'business'
 excerpt: "**[![tienda de moda online]("
 draft: false
 headerImage:

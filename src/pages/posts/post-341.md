@@ -3,7 +3,7 @@ title: "Fullstack vs. backend and frontend developers."
 date: '2018-06-24T12:56:00+00:00'
 slug: '/blog/2018/4/fullstack-vs-backend-and-frontend-developers'
 tags: ["team management", "onboarding"]
-category: 'marketing'
+category: 'business'
 excerpt: "Trying to make a bootstraped company a profitable one is not easy.  You not only have to adjust and pivot your strategy and your business model but you also have to deal with limited resources. That is why one of the most valuable resources of a startup is the ability to be flexible. If we translate the need of flexibility to the development team we found out why small companies should only hire fullstack developers."
 draft: true
 headerImage:

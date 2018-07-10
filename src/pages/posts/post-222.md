@@ -3,7 +3,7 @@ title: "Master Analítica Web semana 13 - Dashboards"
 date: '2011-07-14T00:28:44+00:00'
 slug: '/blog/2011/07/master-analitica-web-semana-13-dashboards'
 tags: ["dashboards", "master analítica web"]
-category: 'marketing'
+category: 'business'
 excerpt: "El curso va avanzando. Vamos conociendo como definir objetivos, recolectar datos, interpretarlos y generar propuestas de mejora. LLega el momento de presentar toda esta información a los diferentes dep..."
 draft: false
 headerImage:

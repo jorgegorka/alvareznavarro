@@ -3,7 +3,7 @@ title: "Posicionamiento en buscadores tráfico SEO y tráfico de marca"
 date: '2011-08-31T11:17:25+00:00'
 slug: '/blog/2011/08/posicionamiento-en-buscadores-trafico-seo-y-trafico-de-marca'
 tags: ["google analytics", "posicionamiento en buscadores", "tráfico de marca", "tráfico seo"]
-category: 'marketing'
+category: 'business'
 excerpt: "Una parte muy importante del tráfico que recibe nuestra web llega a través de los buscadores, Google principalmente. Es muy importante conocer de forma real y precisa como está posicionada nuestra web ..."
 draft: false
 headerImage:

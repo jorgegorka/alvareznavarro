@@ -3,7 +3,7 @@ title: "Master de Analítica Web - Semana 5"
 date: '2011-05-03T09:15:36+00:00'
 slug: '/blog/2011/05/master-de-analitica-web-semana-5'
 tags: ["Uncategorized"]
-category: 'marketing'
+category: 'business'
 excerpt: "Tras unas merecidas vacaciones de Pascua, retomamos con fuerza el [Master de Analítica Web]( que organiza [Secuoyas - KSchool]("
 draft: false
 headerImage:

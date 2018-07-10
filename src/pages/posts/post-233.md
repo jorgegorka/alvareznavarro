@@ -3,7 +3,7 @@ title: "Master de Analítica Web - Impresiones finales"
 date: '2011-09-28T08:47:57+00:00'
 slug: '/blog/2011/09/master-de-analitica-web-impresiones-finales'
 tags: ["kschool"]
-category: 'marketing'
+category: 'business'
 excerpt: "[![master de analítica web]( Gemma-Jorge)]..."
 draft: false
 headerImage:

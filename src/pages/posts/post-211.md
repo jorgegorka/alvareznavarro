@@ -3,7 +3,7 @@ title: "Master de Analítica Web - Semana 4"
 date: '2011-05-03T09:05:18+00:00'
 slug: '/blog/2011/05/master-de-analitica-web-semana-4'
 tags: ["Uncategorized"]
-category: 'marketing'
+category: 'business'
 excerpt: "Durante esta semana hemos contado con [Sergio Maldonado]( [MV Consultoría]("
 draft: false
 headerImage:

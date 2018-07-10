@@ -3,7 +3,7 @@ title: "Publicidad hasta en los huevos"
 date: '2006-02-14T10:19:00+00:00'
 slug: '/blog/2006/02/publicidad-hasta-en-los-huevos'
 tags: ["publicidad"]
-category: 'marketing'
+category: 'business'
 excerpt: "![]( nueva forma de publicidad: Decorar los huevos (de gallina, claro).Si vives en New York o en New Jersey y vas a comprar huevos es muy probable que..."
 draft: false
 headerImage:

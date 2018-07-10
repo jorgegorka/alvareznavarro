@@ -3,7 +3,7 @@ title: "Estudio de Google dice que AdWords no canibaliza el tráfico orgánico"
 date: '2011-08-10T19:41:05+00:00'
 slug: '/blog/2011/08/estudio-de-google-dice-que-adwords-no-canibaliza-el-trafico-organico'
 tags: ["adwords", "google"]
-category: 'marketing'
+category: 'business'
 excerpt: "Google ha realizado un estudio para comprobar si[pausar una campaña de AdWords supone un incremento en los clicks orgánicos]( ..."
 draft: false
 headerImage:

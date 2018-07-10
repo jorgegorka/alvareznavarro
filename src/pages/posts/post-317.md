@@ -3,7 +3,7 @@ title: "Why every startup should start bootstrapped"
 date: '2017-02-23T16:29:21+00:00'
 slug: '/blog/2017/2/why-every-startup-should-start-bootstrapped'
 tags: ["startups", "investment"]
-category: 'marketing'
+category: 'business'
 excerpt: "A bootstrapped startup can be harder to evolve than a seeded startup but the journey is very rewarding, you will learn a lot of things and you are going to love every single minute of it."
 draft: false
 headerImage:

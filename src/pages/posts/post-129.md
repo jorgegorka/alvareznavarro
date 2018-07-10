@@ -3,7 +3,7 @@ title: "¿Puede la crisis ayudar al software libre?"
 date: '2008-11-04T10:23:00+00:00'
 slug: '/blog/2008/11/puede-la-crisis-ayudar-al-software-libre'
 tags: ["linux", "software"]
-category: 'marketing'
+category: 'business'
 excerpt: "Ahora que hay que apretarse el cinturón y hay que comprobar el valor de cada euro gastado parece que es un buen momento para el despegue del software libre en las empresas.Los departamentos de T.I. d..."
 draft: false
 headerImage:

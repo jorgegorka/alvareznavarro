@@ -3,7 +3,7 @@ title: "Redes sociales vs. Comunidades"
 date: '2008-11-25T16:29:00+00:00'
 slug: '/blog/2008/11/redes-sociales-vs-comunidades'
 tags: ["comunidades", "redes sociales", "social media"]
-category: 'marketing'
+category: 'business'
 excerpt: "Las Redes Sociales están muertas. Solo llevan unos pocos años entre nosotros y ya han envejecido. Han cumplido su misión con creces, haciendo ver, sobre todo a las empresas, que en Internet es el usuar..."
 draft: false
 headerImage:

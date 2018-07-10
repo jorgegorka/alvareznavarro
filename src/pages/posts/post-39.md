@@ -3,7 +3,7 @@ title: "Historia de una web (con final triste)"
 date: '2006-01-10T10:27:00+00:00'
 slug: '/blog/2006/01/historia-de-una-web-con-final-triste'
 tags: ["Internet", "web"]
-category: 'marketing'
+category: 'business'
 excerpt: "Permiteme contarte una historia sobre la web de una empresa.Un cierto día una empresa decide crear su propio sitio web para lo que se pone en contacto con un _profesional_. Tras unos meses esta emp..."
 draft: false
 headerImage:

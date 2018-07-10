@@ -3,7 +3,7 @@ title: "El arte de la improvisación"
 date: '2008-10-28T09:59:00+00:00'
 slug: '/blog/2008/10/el-arte-de-la-improvisacion-2'
 tags: ["econom&#237;a"]
-category: 'marketing'
+category: 'business'
 excerpt: "Tal y como está el patio últimamente y sobre todo los mercados financieros creo que el factor clave que diferencia a quienes triunfan de quienres fracasan no es su conocimiento sino su capacidad de imp..."
 draft: false
 headerImage:

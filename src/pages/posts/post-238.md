@@ -3,7 +3,7 @@ title: "¿Necesita mi empresa un analista web?"
 date: '2011-10-11T00:51:29+00:00'
 slug: '/blog/2011/10/%c2%bfnecesita-mi-empresa-un-analista-web'
 tags: ["consultor analítica web"]
-category: 'marketing'
+category: 'business'
 excerpt: "[![]( webanalytics)]("
 draft: false
 headerImage:

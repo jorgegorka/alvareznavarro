@@ -3,7 +3,7 @@ title: "Creación de webs para empresas - Introducción"
 date: '2006-12-11T20:23:00+00:00'
 slug: '/blog/2006/12/creacin-de-webs-para-empresas-introduccin'
 tags: ["documentos"]
-category: 'marketing'
+category: 'business'
 excerpt: "Durante los próximos días iré publicando aquí y en [la web de nuestra empresa]( un artículo sobre la creación de webs para empresas. Por su extensión lo he dividido en vari..."
 draft: false
 headerImage:

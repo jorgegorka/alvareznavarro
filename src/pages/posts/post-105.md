@@ -3,7 +3,7 @@ title: "El estado de Internet en España"
 date: '2007-02-06T15:19:00+00:00'
 slug: '/blog/2007/02/el-estado-de-internet-en-espaa'
 tags: ["cabreo", "internautas", "Internet", "musica"]
-category: 'marketing'
+category: 'business'
 excerpt: "Recomiendo encarecidamente la lectura del post de Pepe Cervera sobre [el estado de internet en España]( La culpa de..."
 draft: false
 headerImage:

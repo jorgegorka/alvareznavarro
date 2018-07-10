@@ -3,7 +3,7 @@ title: "Publicidad, aplicaciones web, móviles..."
 date: '2006-12-11T10:55:00+00:00'
 slug: '/blog/2006/12/publicidad-aplicaciones-web-mviles'
 tags: ["firebug", "google", "Internet", "rails", "ruby", "web2-0"]
-category: 'marketing'
+category: 'business'
 excerpt: "Una web que ofrece [trabajos para diseñadores y programadores]( Hay empleos a tiempo completo y en plan freelance.Una gran [extensión para Firefox]("
 draft: false
 headerImage:

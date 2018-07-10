@@ -3,7 +3,7 @@ title: "Master Analítica Web semana 14 - Social Media"
 date: '2011-07-19T19:39:47+00:00'
 slug: '/blog/2011/07/master-analitica-web-semana-14-social-media'
 tags: ["master analítica web", "social media"]
-category: 'marketing'
+category: 'business'
 excerpt: "El final del master se acerca, toca presentar nuestro proyecto de fin de master, los nervios empiezan a aflorar. Pero todavía tenemos cosas que aprender y además cosas muy interesantes. Le toca el turn..."
 draft: false
 headerImage:

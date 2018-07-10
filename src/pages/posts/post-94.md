@@ -3,7 +3,7 @@ title: "Previsiones para 2007"
 date: '2006-12-04T20:58:00+00:00'
 slug: '/blog/2006/12/previsiones-para-2007'
 tags: ["publicidad"]
-category: 'marketing'
+category: 'business'
 excerpt: "Se acerca el nuevo año y los gurús de la red hacen sus predicciónes:1. [Cuatro de cada 10 compradores incrementarán sus compras on-line en 2007]("
 draft: false
 headerImage:

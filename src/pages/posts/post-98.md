@@ -3,7 +3,7 @@ title: "Yahoo, Datos, herramientas, diseño..."
 date: '2006-12-05T11:20:00+00:00'
 slug: '/blog/2006/12/yahoo-datos-herramientas-diseo'
 tags: ["dvd", "historias", "Internet", "linux", "yahoo"]
-category: 'marketing'
+category: 'business'
 excerpt: "![chica en la ducha]( tenemos muchos enlaces interesantes sobre temas web:  Que podemos aprender sobre el [diseño de empaquetados aplicado a s..."
 draft: false
 headerImage:

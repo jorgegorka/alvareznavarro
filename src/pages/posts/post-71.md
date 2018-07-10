@@ -3,7 +3,7 @@ title: "Los peores 10 errores en AdWords"
 date: '2006-06-14T19:17:00+00:00'
 slug: '/blog/2006/06/los-peores-10-errores-en-adwords'
 tags: ["adwords", "google"]
-category: 'marketing'
+category: 'business'
 excerpt: "Esta es una lista de los 10 errores que más se comenten al contratar campañas de AdWords. No deben elegirse los términos a la ligera sin antes haber estudiado muy bien lo que se quiere conseguir. De ot..."
 draft: false
 headerImage:

@@ -3,7 +3,7 @@ title: "Contra la piratería: imaginación"
 date: '2008-12-09T20:43:00+00:00'
 slug: '/blog/2008/12/contra-la-pirateroa-imaginacion'
 tags: ["Internet", "okupas", "pirateria"]
-category: 'marketing'
+category: 'business'
 excerpt: "Aunque el ¿ministerio de cultura? nos quiere imponer una definición de piratería bastante interesada, todos sabemos quienes son los piratas.En el siglo XXI podemos definir como piratas a aquellos int..."
 draft: false
 headerImage:

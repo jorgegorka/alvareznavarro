@@ -3,7 +3,7 @@ title: "Medir el tiempo de lectura de una página web"
 date: '2013-06-25T14:57:34+00:00'
 slug: '/blog/2013/06/medir-el-tiempo-de-lectura-de-una-pagina-web'
 tags: ["audiencias", "blogs", "medición"]
-category: 'marketing'
+category: 'business'
 excerpt: "Para poder optimizar al máximo el contenido que producimos una de los factores que nos interesa conocer es el tiempo que los visitantes dedican a leer nuestros post.Por la propia naturaleza de las páginas web esto no es posible hacerlo con total fiabilidad y de hecho Google Analytics nos proporciona unos datos que por defecto son bastante pobres y confusos.Veamos como podemos mejorar un poco esto."
 draft: false
 headerImage:

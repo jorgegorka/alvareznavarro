@@ -3,7 +3,7 @@ title: "Master Analítica web Semana 11 - A/B Testing"
 date: '2011-06-27T09:32:48+00:00'
 slug: '/blog/2011/06/master-analitica-web-semana-11-ab-testing'
 tags: ["master analítica web"]
-category: 'marketing'
+category: 'business'
 excerpt: "Continuamos una semana más aprendiendo sobre como obtener la máxima información de nuestra web y esta vez le toca el turno a[Ricardo Tayar]( ricardo tay..."
 draft: false
 headerImage:

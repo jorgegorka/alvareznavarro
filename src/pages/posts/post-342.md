@@ -3,7 +3,7 @@ title: "How to hire a good web developer"
 date: '2018-05-16T10:16:57+00:00'
 slug: '/blog/2018/5/how-to-hire-a-good-web-developer'
 tags: ["human resources", "hiring", "remote"]
-category: 'marketing'
+category: 'business'
 excerpt: "If you work in Human Resources department of a company and have been involved in the process of hiring a candidate for a technical position you know that it's not an easy process.Two types of web dev..."
 draft: true
 headerImage:

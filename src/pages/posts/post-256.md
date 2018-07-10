@@ -3,7 +3,7 @@ title: "El (sobrevalorado) análisis en tiempo real"
 date: '2013-04-26T17:42:01+00:00'
 slug: '/blog/2013/04/el-sobrevalorado-analisis-en-tiempo-real'
 tags: ["real-time"]
-category: 'marketing'
+category: 'business'
 excerpt: "Existe cierta obsesión por conocer lo que ocurre en nuestra web en tiempo real. Parece que si no sabemos lo que está pasando en nuestra web a cada momento nos estamos perdiendo algo. En la mayoría de w..."
 draft: false
 headerImage:

@@ -3,7 +3,7 @@ title: "Estadísticas de uso del blog - Resumen 2013 - Conversión"
 date: '2013-12-30T22:48:00+00:00'
 slug: '/blog/6995'
 tags: ["conversión", "estadisticas", "objetivos web"]
-category: 'marketing'
+category: 'business'
 excerpt: "En la primera parte explicaba como ha funcionado mi blog a la hora de captar visitas.  Toca ahora analizar si quienes me visitan cumplen con los objetivos para los que creé el blog."
 draft: false
 headerImage:

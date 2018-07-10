@@ -3,7 +3,7 @@ title: "Aprovecha las redes sociales para transmitir confianza en tu web"
 date: '2011-03-30T06:04:00+00:00'
 slug: '/blog/2011/03/aprovecha-las-redes-sociales-para-transmitir-confianza-en-tu-web'
 tags: ["redes sociales", "social media"]
-category: 'marketing'
+category: 'business'
 excerpt: "Uno de los aspectos que más debemos cuidar en la web de una empresa es el de generar confianza.No solo debemos transmitir que servicios y productos tenemos sino que además**tenemos que transmitir a..."
 draft: false
 headerImage:

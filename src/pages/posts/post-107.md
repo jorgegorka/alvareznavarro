@@ -3,7 +3,7 @@ title: "Nueva aplicación y nuevo modelo de negocio"
 date: '2007-02-21T16:22:00+00:00'
 slug: '/blog/2007/02/try-before-you-buy-pureba-y-si-te-gusta-compra'
 tags: ["inmobiliarias"]
-category: 'marketing'
+category: 'business'
 excerpt: "Estamos a punto de lanzar una nueva [aplicación web destinada a agencias inmobiliarias]( y con un enfoque de modelo de negocio distinto al ..."
 draft: false
 headerImage:

@@ -3,7 +3,7 @@ title: "Tu empresa no necesita un community manager"
 date: '2010-04-22T06:36:37+00:00'
 slug: '/blog/2010/04/tu-empresa-no-necesita-un-community-manager'
 tags: ["redes sociales", "social media"]
-category: 'marketing'
+category: 'business'
 excerpt: "[caption id= align=alignnone width=] ![Network_people]("
 draft: false
 headerImage:

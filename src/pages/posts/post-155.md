@@ -3,7 +3,7 @@ title: "La prensa tradicional online: De culo y contra el viento"
 date: '2010-02-22T08:18:58+00:00'
 slug: '/blog/2010/02/el-ocaso-de-la-prensa-tradicional-online'
 tags: ["publicidad online"]
-category: 'marketing'
+category: 'business'
 excerpt: "Los grandes medios [se quejan de que la prensa online no es rentable]( Paradójicamente, incluso con crisis, Inter..."
 draft: false
 headerImage:

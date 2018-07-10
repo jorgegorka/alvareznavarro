@@ -3,7 +3,7 @@ title: "Custom Variables y perfiles en Google Analytics"
 date: '2011-08-22T09:01:00+00:00'
 slug: '/blog/2011/08/custom-variables-y-perfiles-en-google-analytics-2'
 tags: ["custom variables", "google analytics"]
-category: 'marketing'
+category: 'business'
 excerpt: "Como todos sabeis el uso de \_setVar() ha quedado obsoleto y pronto desaparecerá. Ahora Google Analytics recomienda el uso de \_setCustomVar() que es mucho más potente. Sin embargo hay un pequeño probl..."
 draft: false
 headerImage:

@@ -3,7 +3,7 @@ title: "Mejora la privacidad en tu navegación"
 date: '2010-07-07T01:37:00+00:00'
 slug: '/blog/2010/07/mejora-la-privacidad-en-tu-navegacion'
 tags: ["Uncategorized"]
-category: 'marketing'
+category: 'business'
 excerpt: "Cada vez que visitas un sitio web dejas un rastro. Un pequeño archivo de texto llamado cookie se instala en tu ordenador guardando información sobre tu visita y permitiendo identificarte con posteriori..."
 draft: false
 headerImage:

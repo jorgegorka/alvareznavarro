@@ -3,7 +3,7 @@ title: "Estadísticas de uso del blog - Resumen 2012"
 date: '2012-12-31T15:03:51+00:00'
 slug: '/blog/2012/12/estadisticas-de-uso-del-blog-resumen-2012'
 tags: []
-category: 'marketing'
+category: 'business'
 excerpt: "Los sucesos más relevantes que han afectado al blog durante el año 2012 son tres:  Una baja tasa de publicación de artículos, el cierre de mi empresa oficinainmobiliaria.es y el inicio de una nueva etapa en la multinacional del software Sage."
 draft: false
 headerImage:

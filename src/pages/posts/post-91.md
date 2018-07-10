@@ -3,7 +3,7 @@ title: "Hoy hablamos de spam, google answers"
 date: '2006-12-01T10:35:00+00:00'
 slug: '/blog/2006/12/hoy-hablamos-de-spam-google-answers'
 tags: ["google", "historias", "seguridad"]
-category: 'marketing'
+category: 'business'
 excerpt: "[Hispasec]( nos cuenta hoy en su [boletín diario de noticias relacionadas con la seguridad]( que España está en el Top Five de ..."
 draft: false
 headerImage:

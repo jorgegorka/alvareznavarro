@@ -3,7 +3,7 @@ title: "Creación de webs - Wireframes"
 date: '2006-11-18T16:07:00+00:00'
 slug: '/blog/2006/11/creacin-de-webs-wireframes'
 tags: ["creacion", "Internet", "web"]
-category: 'marketing'
+category: 'business'
 excerpt: "[Weebly es un servicio de creación de webs online](  Creas una web, vas añadiendo páginas con contenido y puedes publicar automáticamente la web o bien descargarla en pdf. Y gra..."
 draft: false
 headerImage:

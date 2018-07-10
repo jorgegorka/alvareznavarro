@@ -3,7 +3,7 @@ title: "Nuestro lado social y nuestro lado empresarial"
 date: '2010-08-04T10:23:54+00:00'
 slug: '/blog/2010/08/nuestro-lado-social-y-nuestro-lado-empresarial'
 tags: ["contenido web"]
-category: 'marketing'
+category: 'business'
 excerpt: "Todas las personas vemos el mundo que nos rodea desde dos ópticas distintas. Tenemos una visión empresarial de la realidad y una visión social. Además no nos gusta mezclar ambas formas de ver las cos..."
 draft: false
 headerImage:

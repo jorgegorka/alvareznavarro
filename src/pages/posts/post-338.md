@@ -3,7 +3,7 @@ title: "Estrategias de crecimiento de aplicaciones web saas Parte 3"
 date: '2014-02-18T22:13:18+00:00'
 slug: '/blog/7043'
 tags: ["fidelización", "saas", "viralidad"]
-category: 'marketing'
+category: 'business'
 excerpt: "- **Viralidad.** Existen tres tipos de viralidad:  - **Inherente.** Se llama así a la viralidad que está integrada en el producto. Por ejemplo: Una aplicación de facturación online ofrece la opción de..."
 draft: false
 headerImage:

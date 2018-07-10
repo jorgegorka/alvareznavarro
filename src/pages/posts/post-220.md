@@ -3,7 +3,7 @@ title: "Reescribe tus urls en Google Analytics con _trackPageView"
 date: '2011-06-20T10:21:51+00:00'
 slug: '/blog/2011/06/reescribe-tus-urls-en-google-analytics-con-_trackpageview'
 tags: ["google analytics"]
-category: 'marketing'
+category: 'business'
 excerpt: "Cuando escribimos la url de una página lo hacemos pensando en que sea legible, si es posible fácil de recordar por los usuarios y que además de un solo vistazo nos pueda decir de que va el contenido, e..."
 draft: false
 headerImage:

@@ -3,7 +3,7 @@ title: "Master Analítica web Semana 9-10 - Usabilidad"
 date: '2011-06-17T10:06:19+00:00'
 slug: '/blog/2011/06/master-analitica-web-semana-9-10-usabilidad'
 tags: ["master analítica web", "usabilidad"]
-category: 'marketing'
+category: 'business'
 excerpt: "Durante estas dos semanas hemos contado con[Daniel Torres Burriel]( consultor usabilidad)y con[Juan Leal]( Ergonomía, u..."
 draft: false
 headerImage:

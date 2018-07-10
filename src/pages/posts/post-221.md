@@ -3,7 +3,7 @@ title: "Master Analítica Web semana 12 - Módulo Técnico"
 date: '2011-07-07T00:35:47+00:00'
 slug: '/blog/2011/07/master-analitica-web-semana-12-modulo-tecnico'
 tags: ["garb", "master analítica web"]
-category: 'marketing'
+category: 'business'
 excerpt: "Saber implementar correctamente una herramienta de analítica es fundamental para conseguir extraer toda la información que una web nos puede aportar. Normalmente nos limitamos a añadir el código encarg..."
 draft: false
 headerImage:

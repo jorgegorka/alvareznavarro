@@ -3,7 +3,7 @@ title: "Css, javascript, rails y Kathy Sierra"
 date: '2007-03-01T10:22:00+00:00'
 slug: '/blog/2007/03/css-javascript-rais-y-kathy-sierra'
 tags: ["apple", "Internet", "javascript", "rails"]
-category: 'marketing'
+category: 'business'
 excerpt: "Comencemos con algunos enlaces interesantes:- Una chuleta con las propiedades de CSS: [css cheat sheet]( Un editor inline en javascript: [Edit Regions](..."
 draft: false
 headerImage:

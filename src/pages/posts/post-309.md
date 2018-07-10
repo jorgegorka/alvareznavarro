@@ -3,7 +3,7 @@ title: "How to give feedback to your project manager"
 date: '2016-03-07T12:27:00+00:00'
 slug: '/blog/2016/3/how-to-give-feedback-to-your-projectmanager'
 tags: ["project management", "feedback", "startups", "remote"]
-category: 'marketing'
+category: 'business'
 excerpt: "Status reports are a very good source of information for project managers, as long as they are frequent (ideally every week). For employees, this is a good opportunity to indicate what can be improved and what is working fine. Once you get into the routine writing a status report should take no more than 5 minutes."
 draft: false
 headerImage:

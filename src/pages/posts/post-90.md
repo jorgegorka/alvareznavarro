@@ -3,7 +3,7 @@ title: "Forma de imprimir páginas web"
 date: '2006-12-13T11:50:00+00:00'
 slug: '/blog/2006/12/forma-de-imprimir-pginas-web'
 tags: ["css", "Internet", "trucos"]
-category: 'marketing'
+category: 'business'
 excerpt: "Jesus Encinar ha publicado un artículo donde comenta [como debe estar formateada una página para que se pueda imprimir correctamente]( Dice:>..."
 draft: false
 headerImage:

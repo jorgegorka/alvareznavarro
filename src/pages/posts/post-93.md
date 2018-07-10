@@ -3,7 +3,7 @@ title: "Páginas de inicio de las webs de los operadores de telefonía móvil"
 date: '2006-12-20T12:55:00+00:00'
 slug: '/blog/2006/12/pginas-de-inicio-de-las-webs-de-los-operadores-de-telefona-mvil'
 tags: ["comparativas"]
-category: 'marketing'
+category: 'business'
 excerpt: "A raíz de un interesante debate en la lista de Cadius (que luego ha derivado en una guerra maquetación tablas vs maquetación css ) me entra la curiosidad de ver como los cuatro operadores de telefonía ..."
 draft: false
 headerImage:

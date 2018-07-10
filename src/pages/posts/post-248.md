@@ -3,7 +3,7 @@ title: "3 Consejos para crear un Dashboard"
 date: '2012-04-19T00:07:24+00:00'
 slug: '/blog/2012/04/3-consejos-para-crear-un-dashboard-de-analitica'
 tags: []
-category: 'marketing'
+category: 'business'
 excerpt: "![Como crear un dashboard tras un analisis web]("
 draft: false
 headerImage:

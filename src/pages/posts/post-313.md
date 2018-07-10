@@ -3,7 +3,7 @@ title: "peer-to-peer rewards as a way of recognition at work"
 date: '2016-06-21T11:39:00+00:00'
 slug: '/blog/2016/6/peer-to-peer-rewards-as-a-way-of-recognition-atwork'
 tags: ["employee engagement", "feedback", "digital nomads", "peer-to-peer rewards"]
-category: 'marketing'
+category: 'business'
 excerpt: "In most companies recognition usually comes “from above” but when you receive recognition from one of your co-workers then things change, you feel proud and happy. Your self-esteem increases as do your sense of belonging to the team."
 draft: false
 headerImage:

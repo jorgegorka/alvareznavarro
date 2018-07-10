@@ -3,7 +3,7 @@ title: "Graficos, contratos, Dilbert y esfuerzo"
 date: '2007-01-26T10:45:00+00:00'
 slug: '/blog/2007/01/graficos-contratos-dilbert-y-esfuerzo'
 tags: ["graficos", "Internet", "prototype"]
-category: 'marketing'
+category: 'business'
 excerpt: "Un enlace a revisar con detalle: [Gráficos con Prototype](  Una nueva herramienta para [conocer más información sobre tu dominio]( Aporta informaci..."
 draft: false
 headerImage:

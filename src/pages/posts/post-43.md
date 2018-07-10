@@ -3,7 +3,7 @@ title: "Nuevo proyecto : Buscador inmobiliario"
 date: '2006-01-20T20:32:00+00:00'
 slug: '/blog/2006/01/nuevo-proyecto-buscador-inmobiliario'
 tags: ["inmobiliarias", "Internet", "web2-0"]
-category: 'marketing'
+category: 'business'
 excerpt: "Esto se pone interesante.Como parte del proceso de mejora contínua que seguimos en[nuestra empresa]( se encuentra el lanzamiento (el día 1 de Abril) de[Buscador Inmobilia..."
 draft: false
 headerImage:

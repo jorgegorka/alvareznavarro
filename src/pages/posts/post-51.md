@@ -3,7 +3,7 @@ title: "La importancia de la primera impresión"
 date: '2006-02-21T16:34:00+00:00'
 slug: '/blog/2006/02/la-importancia-de-la-primera-impresin'
 tags: ["accesibilidad", "saas"]
-category: 'marketing'
+category: 'business'
 excerpt: " ![mac osx dock]( mac osx dock)Cuando alguien accede a nuestros productos (web, software) por primera vez, esa primera impresión que recibe puede marc..."
 draft: false
 headerImage:

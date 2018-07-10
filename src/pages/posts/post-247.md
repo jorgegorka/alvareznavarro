@@ -3,7 +3,7 @@ title: "Eventos no interactivos en Google Analytics"
 date: '2011-11-03T19:57:45+00:00'
 slug: '/blog/2011/11/eventos-no-interactivos-en-google-analytics'
 tags: ["eventos", "google analytics", "trackEvent"]
-category: 'marketing'
+category: 'business'
 excerpt: "**[![eventos no interactivos en Google Analytics]("
 draft: false
 headerImage:

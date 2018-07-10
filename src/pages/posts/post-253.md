@@ -3,7 +3,7 @@ title: "Comercio Electrónico: Cuando Saber Español Penaliza"
 date: '2012-12-08T23:35:42+00:00'
 slug: '/blog/2012/12/comercio-electronico-cuando-saber-espanol-penaliza'
 tags: ["precio", "valor"]
-category: 'marketing'
+category: 'business'
 excerpt: "El comercio electrónico está despegando. Las ventas online crecen sin parar. Los consumidores cada vez tenemos más sitios web donde comprar, más competencia y mejores precios… excepto para los que solo hablan español."
 draft: false
 headerImage:

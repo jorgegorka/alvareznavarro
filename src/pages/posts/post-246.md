@@ -3,7 +3,7 @@ title: "Entrevista con Alejandro Doncel"
 date: '2011-11-16T14:35:47+00:00'
 slug: '/blog/2011/11/entrevista-con-alejandro-doncell'
 tags: ["entrevista", "marketing online"]
-category: 'marketing'
+category: 'business'
 excerpt: "[![Alejandro Doncel director de Kschool]("
 draft: false
 headerImage:

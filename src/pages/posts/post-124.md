@@ -3,7 +3,7 @@ title: "El lado bueno de la crisis"
 date: '2008-10-12T09:46:00+00:00'
 slug: '/blog/2008/10/el-lado-bueno-de-la-crisis'
 tags: ["accesibilidad", "estandares", "Internet", "webs"]
-category: 'marketing'
+category: 'business'
 excerpt: "Como hay que buscarle el punto positivo a todo también se lo tenemos que buscar a la crisis actual y en mi opinión, está ocurriendo algo muy positivo: **ya no vale todo**.Ahora el dinero ya no fluye ..."
 draft: false
 headerImage:

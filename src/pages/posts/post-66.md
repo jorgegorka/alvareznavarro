@@ -3,7 +3,7 @@ title: "Habitos de búsqueda"
 date: '2006-04-11T20:36:00+00:00'
 slug: '/blog/2006/04/habitos-de-bsqueda'
 tags: ["buscadores", "Internet"]
-category: 'marketing'
+category: 'business'
 excerpt: "[iProspect]( acaba de publicar un informe sobre el [comportamiento de los usuarios al utilizar buscadores]("
 draft: false
 headerImage:

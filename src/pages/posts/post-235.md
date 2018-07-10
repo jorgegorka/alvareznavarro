@@ -3,7 +3,7 @@ title: "Panel de control SEO con Google Analytics"
 date: '2011-09-07T09:03:58+00:00'
 slug: '/blog/2011/09/panel-de-control-seo-con-google-analytics'
 tags: ["dashboards", "google analytics"]
-category: 'marketing'
+category: 'business'
 excerpt: "Poder posicionar una web en los primeros puestos de los buscadores es un trabajo de constancia, de perseverancia que requiere tiempo y recursos. Por eso es muy importante medir y evaluar el funcionamie..."
 draft: false
 headerImage:

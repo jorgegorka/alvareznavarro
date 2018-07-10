@@ -3,7 +3,7 @@ title: "Microformatos, empleo, portales inmobiliarios y Bill Gates"
 date: '2006-12-15T10:47:00+00:00'
 slug: '/blog/2006/12/microformatos-empleo-portales-inmobiliarios-y-bill-gates'
 tags: ["historias", "inmobiliarias", "Internet", "microsoft", "rails"]
-category: 'marketing'
+category: 'business'
 excerpt: "A través de la web de [Anieto2k]( llego a un artículo sobre [la forma de dar estilo a nuestras hcards]( Las hcards son una manera..."
 draft: false
 headerImage:

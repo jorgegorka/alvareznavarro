@@ -3,7 +3,7 @@ title: "Los 500 mejores blogs (de EEUU)"
 date: '2005-08-17T19:04:00+00:00'
 slug: '/blog/2005/08/los-500-mejores-blogs-de-eeuu'
 tags: ["blog", "Internet"]
-category: 'marketing'
+category: 'business'
 excerpt: "Como complemento a la [noticia anterior]( en la que hablaba sobre el perfil de los usuarios de blogs (o bitácoras..."
 draft: false
 headerImage:

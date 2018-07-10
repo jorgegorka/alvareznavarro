@@ -3,7 +3,7 @@ title: "Oficinainmobiliaria: 50 días después"
 date: '2007-06-12T21:39:00+00:00'
 slug: '/blog/2007/06/oficinainmobiliaria-50-das-despus'
 tags: ["inmobiliarias", "Internet"]
-category: 'marketing'
+category: 'business'
 excerpt: "Hace 50 días del lanzamiento de Oficinainmobiliaria: El servicio que permite a las [agencias inmobiliarias crear su propia web y publicar sus propios inmuebles, todo gratis]("
 draft: false
 headerImage:

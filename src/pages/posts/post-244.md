@@ -3,7 +3,7 @@ title: "Comercio electrónico - No todo vale"
 date: '2011-11-24T00:20:52+00:00'
 slug: '/blog/2011/11/comercio-electronico-no-todo-vale'
 tags: []
-category: 'marketing'
+category: 'business'
 excerpt: "[![capsulas nespresso]( capsulas\_n..."
 draft: false
 headerImage:

@@ -3,7 +3,7 @@ title: "La empresa 2.0 es la empresa que dialoga"
 date: '2010-03-15T06:33:25+00:00'
 slug: '/blog/2010/03/la-empresa-2-0-es-la-empresa-que-dialoga'
 tags: ["redes sociales", "social media"]
-category: 'marketing'
+category: 'business'
 excerpt: "[caption id= align=alignnone width=500.0][![conversation]("
 draft: false
 headerImage:

@@ -3,7 +3,7 @@ title: "¿Es rentable su web?"
 date: '2005-05-12T19:28:00+00:00'
 slug: '/blog/2005/05/es-rentable-su-web'
 tags: ["medición", "kpi"]
-category: 'marketing'
+category: 'business'
 excerpt: "Mi trabajo consiste en crear webs para todo tipo de empresas.Para algunas de ellas es este su primer contacto con Internet, pero la gran mayoría ya dispone de web.Cuando trato con el responsable de l..."
 draft: false
 headerImage:

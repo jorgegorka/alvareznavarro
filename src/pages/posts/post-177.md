@@ -3,7 +3,7 @@ title: "Redes Sociales ó Comunidades Parte II"
 date: '2010-04-21T08:59:45+00:00'
 slug: '/blog/2010/04/redes-sociales-o-comunidades-parte-ii'
 tags: ["redes sociales", "social media"]
-category: 'marketing'
+category: 'business'
 excerpt: "[caption id= align=alignnone width=450.0] ![Merry_go_round]("
 draft: false
 headerImage:

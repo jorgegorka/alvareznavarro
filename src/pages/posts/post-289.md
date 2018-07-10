@@ -3,7 +3,7 @@ title: "El sistema de subasta de AdWords explicado paso a paso"
 date: '2013-06-18T18:36:36+00:00'
 slug: '/blog/2013/06/el-sistema-de-subasta-de-adwords-explicado-paso-a-paso'
 tags: ["adrank", "adwords", "cpc"]
-category: 'marketing'
+category: 'business'
 excerpt: "Para maximizar nuestra inversión en SEM nos interesa conocer al detalle como funciona Google AdWords y como calcula tanto el orden de los anuncios como el coste por cada click.  Veamos paso a paso como se hace.  "
 draft: false
 headerImage:

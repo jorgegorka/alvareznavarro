@@ -3,7 +3,7 @@ title: "Como mejorar el Nivel de calidad en tus campañas de Google AdWords"
 date: '2011-09-13T09:07:12+00:00'
 slug: '/blog/2011/09/como-mejorar-el-nivel-de-calidad-en-tus-campanas-de-google-adwords'
 tags: ["adwords", "campañas", "landing page", "paginas aterrizaje"]
-category: 'marketing'
+category: 'business'
 excerpt: "[![Optimizar campañas de Google AdWords]("
 draft: false
 headerImage:

@@ -3,7 +3,7 @@ title: "Número de visitas de una web ¿Todo vale?"
 date: '2006-02-17T15:06:00+00:00'
 slug: '/blog/2006/02/nmero-de-visitas-de-una-web-todo-vale'
 tags: ["metricas", "kpi", "usabilidad"]
-category: 'marketing'
+category: 'business'
 excerpt: "El número de visitantes que tiene nuestra web no debería obsesionarnos. Es mucho más rentable crear webs pensando en atraer visitantes de calidad.**Visitantes de calidad** son aquellos que han llegad..."
 draft: false
 headerImage:

@@ -3,7 +3,7 @@ title: "Google: nuevos servicios"
 date: '2006-02-23T13:31:00+00:00'
 slug: '/blog/2006/02/google-nuevos-servicios'
 tags: ["google", "google analytics", "adwords"]
-category: 'marketing'
+category: 'business'
 excerpt: "[Google]( acaba de lanzar un nuevo servicio gratuíto: [Google pages]( .Se trata de un servicio integral de publicación de páginas web. Desde el propio Go..."
 draft: false
 headerImage:

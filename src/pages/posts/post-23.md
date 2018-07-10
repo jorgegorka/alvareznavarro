@@ -3,7 +3,7 @@ title: "Apple: Intel inside ¿Windows outside?"
 date: '2005-07-17T19:22:00+00:00'
 slug: '/blog/2005/07/apple-intel-inside-windows-outside'
 tags: ["apple", "linux", "microsoft"]
-category: 'marketing'
+category: 'business'
 excerpt: "Ha pasado ya algún tiempo desde que se anunció que [Apple]( dejaba de emplear los procesadores de [IBM]( en favor de Intel.Tras darle bastantes vueltas estoy c..."
 draft: false
 headerImage:

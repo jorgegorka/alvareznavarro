@@ -3,7 +3,7 @@ title: "Tractis, tipografias, rails y herramientas"
 date: '2006-12-12T10:32:00+00:00'
 slug: '/blog/2006/12/tractis-tipografias-rails-y-herramientas'
 tags: ["Internet", "rails", "tractis", "ubuntu"]
-category: 'marketing'
+category: 'business'
 excerpt: "Empezamos anunciando que [Tractis acaba de lanzar su versión 2.0 Beta]( Por si no los conoces [Tractis es un gestor de contratos]("
 draft: false
 headerImage:

@@ -3,7 +3,7 @@ title: "Apollo y Google"
 date: '2006-12-18T11:19:00+00:00'
 slug: '/blog/2006/12/apollo-y-google'
 tags: ["apollo", "google", "Internet"]
-category: 'marketing'
+category: 'business'
 excerpt: "Ya se acerca el lanzamiento de [Apollo]( (y no no es una nave espacial) es una herramienta diseñada por Adobe que [permitirá u..."
 draft: false
 headerImage:

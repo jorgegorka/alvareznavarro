@@ -3,7 +3,7 @@ title: "Microsoft anuncia un nuevo buscador mejor que Google"
 date: '2006-03-08T10:09:00+00:00'
 slug: '/blog/2006/03/microsoft-anuncia-un-nuevo-buscador-mejor-que-google'
 tags: ["google", "Internet", "microsoft"]
-category: 'marketing'
+category: 'business'
 excerpt: "Neil Holloway, presidente de [Microsoft]( para Europa, Oriente Medio y Africa anunció que [en seis meses serán más relevantes]("
 draft: false
 headerImage:

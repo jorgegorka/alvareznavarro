@@ -3,7 +3,7 @@ title: "Utilizar guión medio o guión bajo en las url"
 date: '2011-09-09T09:04:38+00:00'
 slug: '/blog/2011/09/utilizar-guion-medio-o-guion-bajo-en-las-url'
 tags: ["posicionamiento en buscadores", "url amigable"]
-category: 'marketing'
+category: 'business'
 excerpt: "Aunque no es un tema nuevo y se ha hablado bastante todavía hay veces que surgen dudas cuando creamos un nuevo sitio web y queremos que las url's de las páginas sean fáciles de recordar por quienes nos..."
 draft: false
 headerImage:

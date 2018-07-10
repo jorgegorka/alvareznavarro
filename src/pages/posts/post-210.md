@@ -3,7 +3,7 @@ title: "Master Analítica Web - Semana 8 - SEO"
 date: '2011-05-26T09:07:03+00:00'
 slug: '/blog/2011/05/master-analitica-web-semana-8-seo'
 tags: []
-category: 'marketing'
+category: 'business'
 excerpt: " Durante los dos días de esta semana hemos contado con la presencia de [Fernando Maciá]("
 draft: false
 headerImage:

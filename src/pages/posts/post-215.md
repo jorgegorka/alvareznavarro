@@ -3,7 +3,7 @@ title: "Medir el tiempo de carga de tu página con Google Analytics"
 date: '2011-05-06T06:52:00+00:00'
 slug: '/blog/2011/05/medir-el-tiempo-de-carga-de-tu-pagina-con-google-analytics'
 tags: ["google analytics"]
-category: 'marketing'
+category: 'business'
 excerpt: "[caption id= align=alignnone width=300.0][![Test-Page-Load-Time]("
 draft: false
 headerImage:

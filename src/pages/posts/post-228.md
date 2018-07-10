@@ -3,7 +3,7 @@ title: "La privacidad de los usuarios y el caso KissMetrics, Hulu y Spotify"
 date: '2011-08-12T00:34:10+00:00'
 slug: '/blog/2011/08/la-privacidad-de-los-usuarios-y-el-caso-kissmetrics-hulu-y-spotify'
 tags: ["kissmetrics", "privacidad", "regulación", "Uncategorized"]
-category: 'marketing'
+category: 'business'
 excerpt: "En un post anterior hablaba de la necesidad de que al legislar en Internet[se creen leyes que puedan realmente cumplirse]("
 draft: false
 headerImage:

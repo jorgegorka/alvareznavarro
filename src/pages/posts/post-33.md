@@ -3,7 +3,7 @@ title: "El amor es ciego... y los usuarios también"
 date: '2005-11-15T10:37:00+00:00'
 slug: '/blog/2005/11/el-amor-es-ciego-y-los-usuarios-tambin'
 tags: ["metodologias", "negocios", "usuarios"]
-category: 'marketing'
+category: 'business'
 excerpt: "![]( interesante el comentario que [Kathy Sierra hace en su web]( sobre la diferente form..."
 draft: false
 headerImage:

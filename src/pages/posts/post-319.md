@@ -3,7 +3,7 @@ title: "Do you know how your customers use your product?"
 date: '2017-03-16T17:32:00+00:00'
 slug: '/blog/do-you-know-how-your-customers-use-your-product'
 tags: ["startups", "google analytics"]
-category: 'marketing'
+category: 'business'
 excerpt: "When create your own startup and have a technological background, as I do, is very easy to think that what your customers need is a product full of features.  But what your customers need is a product that makes their lives easier."
 draft: false
 headerImage:

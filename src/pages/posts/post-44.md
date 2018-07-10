@@ -3,7 +3,7 @@ title: "Programa de estadísticas web Mint vs. Google Analytics"
 date: '2006-01-17T20:44:00+00:00'
 slug: '/blog/2006/01/programa-de-estadsticas-web-mint-vs-google-analytics'
 tags: ["mint", "google analytics"]
-category: 'marketing'
+category: 'business'
 excerpt: "Hasta ahora he controlado las estadísticas a los sitios web quegestiono: informática32 y Gestioninmuebles.com mediante Urchin.Creo que la información que proporciona es más que aceptable.El caso es..."
 draft: false
 headerImage:

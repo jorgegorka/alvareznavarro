@@ -3,7 +3,7 @@ title: "Certificación en Google Analytics aprobada"
 date: '2011-05-20T09:16:00+00:00'
 slug: '/blog/2011/05/certificacion-en-google-analytics-aprobada'
 tags: ["google analytics", "formación"]
-category: 'marketing'
+category: 'business'
 excerpt: "[caption id= align=alignnone width=] ![Google-analytics-qualified-individual-logo]("
 draft: false
 headerImage:

@@ -3,7 +3,7 @@ title: "Estadísticas web"
 date: '2007-07-25T02:21:00+00:00'
 slug: '/blog/2007/07/estadsticas-web'
 tags: ["estadisticas", "metricas"]
-category: 'marketing'
+category: 'business'
 excerpt: "Se habla últimamente bastante sobre el tema de las estadísticas web. Si las páginas vistas ya no es una medida fiable, si el tiempo de permanencia de los usuarios en nuestro sitio es mejor, y se discut..."
 draft: false
 headerImage:

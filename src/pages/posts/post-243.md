@@ -3,7 +3,7 @@ title: "Seguimiento de enlaces externos con Google Analytics"
 date: '2011-10-20T08:05:00+00:00'
 slug: '/blog/2011/10/seguimiento-de-enlaces-externos-con-google-analytics'
 tags: ["google analytics", "javascript"]
-category: 'marketing'
+category: 'business'
 excerpt: "[![enlaces salientes con google analytics]("
 draft: false
 headerImage:

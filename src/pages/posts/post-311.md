@@ -3,7 +3,7 @@ title: "How to manage remote workers. Learning from the experts."
 date: '2016-04-04T11:35:00+00:00'
 slug: '/blog/2016/4/how-to-manage-remote-workers-learning-from-theexperts'
 tags: ["feedback", "remote", "digital nomads", "employee engagement"]
-category: 'marketing'
+category: 'business'
 excerpt: "Hiring people is not an easy process. Hiring remote workers makes things even harder. For many companies “Seeing is believing” and they find disturbing the fact that some of their workers will never set foot in the office."
 draft: false
 headerImage:

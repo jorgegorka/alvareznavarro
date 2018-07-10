@@ -2,14 +2,16 @@ import React from 'react'
 import Helmet from 'react-helmet'
 
 import SiteNavigation from '../components/site-navigation'
+import MobileNavigation from '../components/mobile-navigation'
 
 const AboutMe = () => (
   <div>
     <header className="site-header outer no-cover">
       <Helmet>
-        <body className="tag-template" />
+        <body className="page-template" />
       </Helmet>
       <div className="inner">
+        <MobileNavigation />
         <SiteNavigation />
       </div>
     </header>

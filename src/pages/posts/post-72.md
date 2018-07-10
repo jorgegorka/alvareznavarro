@@ -3,7 +3,7 @@ title: "Mejoras en el buscador inmobiliario"
 date: '2006-06-14T19:27:00+00:00'
 slug: '/blog/2006/06/mejoras-en-el-buscador-inmobiliario'
 tags: ["autobombo", "Internet"]
-category: 'marketing'
+category: 'business'
 excerpt: "He publicado una nueva versión del [buscador inmobiliario]( que contiene algunas mejoras de rendimiento (ahora las búsqueda son más rápidas) e indicaciones más claras..."
 draft: false
 headerImage:

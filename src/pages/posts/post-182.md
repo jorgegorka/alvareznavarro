@@ -3,7 +3,7 @@ title: "Website briefing"
 date: '2010-04-09T09:03:15+00:00'
 slug: '/blog/2010/04/website-briefing'
 tags: ["briefing"]
-category: 'marketing'
+category: 'business'
 excerpt: "[![]("
 draft: false
 headerImage:

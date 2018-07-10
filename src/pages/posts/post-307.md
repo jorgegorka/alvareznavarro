@@ -3,7 +3,7 @@ title: "Team management for startups and distributed teams"
 date: '2015-12-08T22:57:04+00:00'
 slug: '/blog/2015/12/team-management-for-startups-and-distributed-teams'
 tags: ["team management", "employee engagement", "gamification"]
-category: 'marketing'
+category: 'business'
 excerpt: "Managing a team with remote workers or managing distributed teams requires that communication should be fluid. It is very easy (and dangerous) to lose contact when people are not one desk/room/floor away."
 draft: false
 headerImage:

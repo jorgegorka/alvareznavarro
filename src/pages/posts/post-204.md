@@ -3,7 +3,7 @@ title: "Medir las páginas de error con Google Analytics"
 date: '2011-03-16T07:27:13+00:00'
 slug: '/blog/2011/03/medir-las-paginas-de-error-con-google-analytics'
 tags: ["google analytics"]
-category: 'marketing'
+category: 'business'
 excerpt: "Me he inscrito al [Master de Analítica Web]( que imparte [Secuoyas]("
 draft: false
 headerImage:

@@ -3,7 +3,7 @@ title: "Resumen del Tweet Trip"
 date: '2011-09-29T08:59:43+00:00'
 slug: '/blog/2011/09/resumen-del-tweet-trip'
 tags: ["redes sociales", "turismo", "twitter"]
-category: 'marketing'
+category: 'business'
 excerpt: "[![la tierra con nombre de vino]( tweet..."
 draft: false
 headerImage:

@@ -3,7 +3,7 @@ title: "Las páginas web como elemento de decisión en la compra de un vehículo
 date: '2006-01-31T20:00:00+00:00'
 slug: '/blog/2006/01/las-pginas-web-como-elemento-de-decisin-en-la-compra-de-un-vehculo'
 tags: ["usabilidad"]
-category: 'marketing'
+category: 'business'
 excerpt: "[Harris Interactive]( una empresa de New York especializada en estudios y análisis del sector automovilístico ha publicado [una encuesta]("
 draft: false
 headerImage:

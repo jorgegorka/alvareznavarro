@@ -3,7 +3,7 @@ title: "Crear eventos con Google Tag Manager"
 date: '2013-12-13T17:02:24+00:00'
 slug: '/blog/2013/12/crear-eventos-con-google-tag-manager'
 tags: ["eventos", "google tag manager", "javascript"]
-category: 'marketing'
+category: 'business'
 excerpt: "Una de las grandes mejoras introducidas por Google este verano ha sido la posibilidad de poder medir eventos desde Google Tag Manager. Para ver un ejemplo de como utilizar Google Tag Manager voy a implementar la funcionalidad descrita en un post que escribí en Junio titulado: Medir el tiempo de lectura de una página web.  "
 draft: false
 headerImage:

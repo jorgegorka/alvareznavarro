@@ -3,7 +3,7 @@ title: "Nuevo servicio a inmobiliarias"
 date: '2007-04-23T00:37:00+00:00'
 slug: '/blog/2007/04/nuevo-servicio-a-inmobiliarias'
 tags: ["inmobiliarias", "Internet"]
-category: 'marketing'
+category: 'business'
 excerpt: "Hemos lanzado un nuevo servicio destinado a agencias inmobiliarias y promotoras. Se llama [Oficinainmobiliaria.es]( y les ofrece la posibilidad de crear y personalizar..."
 draft: false
 headerImage:

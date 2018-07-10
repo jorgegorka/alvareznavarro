@@ -3,7 +3,7 @@ title: "Publicidad en aplicaciones web"
 date: '2006-12-06T12:03:00+00:00'
 slug: '/blog/2006/12/publicidad-en-aplicaciones-web'
 tags: ["publicidad"]
-category: 'marketing'
+category: 'business'
 excerpt: "Hoy [Ryan Carson]( habla sobre [la necesidad de gastar dinero en publicidad en aplicaciones web]("
 draft: false
 headerImage:

@@ -3,7 +3,7 @@ title: "Master Analítica web Semana 3"
 date: '2011-04-12T08:57:00+00:00'
 slug: '/blog/2011/04/master-analitica-web-semana-3'
 tags: ["Uncategorized"]
-category: 'marketing'
+category: 'business'
 excerpt: "Esta tercera semana ha empezado con mucha fuerza. Todos los alumnos nos dividimos en 4 grupos y tuvimos que realizar una presentación poniendo en práctica las enseñanzas de [René Dechamps]("
 draft: false
 headerImage:

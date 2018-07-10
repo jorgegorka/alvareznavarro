@@ -3,7 +3,7 @@ title: "Las críticas a las empresas en un mundo 2.0 (gestión de la reputación
 date: '2010-07-14T14:57:00+00:00'
 slug: '/blog/2010/07/las-criticas-a-las-empresas-en-un-mundo-2-0-gestion-de-la-reputacion'
 tags: ["redes sociales", "social media"]
-category: 'marketing'
+category: 'business'
 excerpt: "[caption id= align=alignnone width=] ![Criticas]("
 draft: false
 headerImage:

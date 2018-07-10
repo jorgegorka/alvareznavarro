@@ -3,7 +3,7 @@ title: "Medir el éxito de una web inmobiliaria - Indicadores de rendimiento"
 date: '2011-09-22T08:59:48+00:00'
 slug: '/blog/2011/09/medir-el-exito-de-una-web-inmobiliaria-indicadores-de-rendimiento'
 tags: ["inmobiliarias", "kpi", "metricas"]
-category: 'marketing'
+category: 'business'
 excerpt: "[![kpi webs agencias inmobiliarias]( casa\_v..."
 draft: false
 headerImage:

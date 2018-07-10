@@ -3,7 +3,7 @@ title: "El peligro de que copien tu idea"
 date: '2006-04-26T15:59:00+00:00'
 slug: '/blog/2006/04/el-peligro-de-que-copien-tu-idea'
 tags: ["emprendedores"]
-category: 'marketing'
+category: 'business'
 excerpt: "Muchas empresas que comienzan (o emprendedores con ganas de montar una empresa) se plantean la duda de si otros les podrán copiar su idea.Me gusta el artículo de [Paul Grahan]("
 draft: false
 headerImage:

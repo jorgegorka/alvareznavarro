@@ -3,7 +3,7 @@ title: "Datos de uso de Internet - comScore Septiembre de 2011"
 date: '2011-11-19T07:07:51+00:00'
 slug: '/desarrollo-web/2011/11/datos-de-uso-de-internet-comscore-septiembre-de-2011'
 tags: ["comscore", "estudio"]
-category: 'marketing'
+category: 'business'
 excerpt: "[![internet usage september 2011]( inter..."
 draft: false
 headerImage:

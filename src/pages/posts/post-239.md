@@ -3,7 +3,7 @@ title: "Alertas personalizadas en Google Analytics"
 date: '2011-10-27T14:34:21+00:00'
 slug: '/blog/2011/10/alertas-personalizadas-en-google-analytics'
 tags: ["google analytics", "intelligence events"]
-category: 'marketing'
+category: 'business'
 excerpt: "**[![Google Analytics - Jorge Alvarez]("
 draft: false
 headerImage:

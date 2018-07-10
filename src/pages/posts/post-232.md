@@ -3,7 +3,7 @@ title: "Master de analítica web - Entrega de diplomas"
 date: '2011-09-20T13:14:53+00:00'
 slug: '/blog/2011/09/master-de-analitica-web-entrega-de-diplomas'
 tags: ["master analítica web"]
-category: 'marketing'
+category: 'business'
 excerpt: "El pasado viernes tuvo lugar la entrega de diplomas de la primera promoción del [Master de Analítica Web]( master de analitica web) que di..."
 draft: false
 headerImage:

@@ -3,7 +3,7 @@ title: "Herramienta de colaboración"
 date: '2007-09-26T17:07:00+00:00'
 slug: '/blog/2007/09/herramienta-de-colaboracin'
 tags: ["aplicaciones", "colaboracion", "Internet", "novedades"]
-category: 'marketing'
+category: 'business'
 excerpt: "Ya está terminado el desarrollo de la primera versión de nuestra [herramienta de colaboración]( lo tanto ahora abrimos un periodo en el que aquellos interesados en probar..."
 draft: false
 headerImage:

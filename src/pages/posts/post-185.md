@@ -3,7 +3,7 @@ title: "La correcta presencia de las empresas en las redes sociales"
 date: '2010-07-05T08:17:00+00:00'
 slug: '/blog/2010/07/la-correcta-presencia-de-las-empresas-en-las-redes-sociales'
 tags: ["redes sociales", "social media"]
-category: 'marketing'
+category: 'business'
 excerpt: "[caption id= align=alignnone width=] ![Flower]("
 draft: false
 headerImage:

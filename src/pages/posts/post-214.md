@@ -3,7 +3,7 @@ title: "Master de Analítica Web - Semana 7"
 date: '2011-05-17T09:15:33+00:00'
 slug: '/blog/2011/05/master-de-analitica-web-semana-7'
 tags: []
-category: 'marketing'
+category: 'business'
 excerpt: "Una semana más y cada vez tengo más claro que ha sido una gran decisión el haber realizado este [Master de Analítica Web]( que organiza [Secuoya..."
 draft: false
 headerImage:

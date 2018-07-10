@@ -3,7 +3,7 @@ title: "Mentalidad Google o mentalidad Microsoft"
 date: '2007-05-30T14:31:00+00:00'
 slug: '/blog/2007/05/mentalidad-google-o-mentalidad-microsoft'
 tags: ["inmobiliarias", "Internet", "programa"]
-category: 'marketing'
+category: 'business'
 excerpt: "En mi opinión existen hoy día dos grandes maneras de entender el negocio del software: la manera [Google]( y la manera [Microsoft]( entiende el sof..."
 draft: false
 headerImage:

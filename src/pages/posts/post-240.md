@@ -3,7 +3,7 @@ title: "Como vincular tu cuenta de Google Analytics con Webmaster Tools"
 date: '2011-10-10T09:03:28+00:00'
 slug: '/blog/2011/10/como-vincular-tu-cuenta-de-google-analytics-con-webmaster-tools'
 tags: ["google analytics", "webmaster tools"]
-category: 'marketing'
+category: 'business'
 excerpt: "[![Herramienta para webmasters]( ..."
 draft: false
 headerImage:

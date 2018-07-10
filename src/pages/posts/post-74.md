@@ -3,7 +3,7 @@ title: "Fundamentos web - Día I"
 date: '2006-10-05T20:12:00+00:00'
 slug: '/blog/2006/10/fundamentos-web-da-i'
 tags: ["fundamentosweb", "Internet", "oviedo"]
-category: 'marketing'
+category: 'business'
 excerpt: "Este primer día de [Fundamentos web]( ha tenido altibajos.**Sinopsis (si vas con prisa lee esto)**Como destacado, en mi opinión, las ponencias de [Richard]("
 draft: false
 headerImage:

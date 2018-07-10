@@ -3,7 +3,7 @@ title: "How the size of a company affects developers"
 date: '2018-04-05T12:36:39+00:00'
 slug: '/blog/2018/4/how-size-of-company-affects-developers'
 tags: ["agile", "development", "team management"]
-category: 'marketing'
+category: 'business'
 excerpt: "I've been working in companies of different sizes both as a freelancer, employee and founder and although logic dictates that the size of the company will affect the way you work, I've seen developers that always try to work in the same way. You should adapt to the constrains and advantages that the company's size imposes on you."
 draft: false
 headerImage:

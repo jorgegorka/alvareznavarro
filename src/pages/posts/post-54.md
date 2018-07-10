@@ -3,7 +3,7 @@ title: "Nuevo rediseño de Arsys"
 date: '2006-02-02T19:24:00+00:00'
 slug: '/blog/2006/02/nuevo-rediseo-de-arsys'
 tags: ["accesibilidad", "Internet", "web"]
-category: 'marketing'
+category: 'business'
 excerpt: "[Arsys]( acaba de lanzar una nueva versión de su página web realizada empleando xhtml y css.En esta nueva versión no sólo se ha cambiado, a mejor, la presentación , sino que ahora..."
 draft: false
 headerImage:

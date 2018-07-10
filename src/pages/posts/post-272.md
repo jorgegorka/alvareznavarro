@@ -3,7 +3,7 @@ title: "Estrategias de crecimiento de aplicaciones web saas Parte 1"
 date: '2014-01-23T23:53:29+00:00'
 slug: '/blog/2014/01/estrategias-de-crecimiento-de-aplicaciones-web-saas-parte-1'
 tags: ["saas"]
-category: 'marketing'
+category: 'business'
 excerpt: "Cuando desarrollamos una aplicación web en modo SaaS existen únicamente dos formas de crecimiento:Captar nuevos usuarios y mantener a los ya existentes.La fase de madurez en la que se encuentre nuestra aplicación definirá que estrategia es mejor."
 draft: false
 headerImage:

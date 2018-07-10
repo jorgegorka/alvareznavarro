@@ -3,7 +3,7 @@ title: "Que historia cuenta tu web?"
 date: '2010-08-16T05:04:00+00:00'
 slug: '/blog/2010/08/que-historia-cuenta-tu-web'
 tags: ["contenido web"]
-category: 'marketing'
+category: 'business'
 excerpt: "[caption id= align=alignnone width=] ![All_equal]("
 draft: false
 headerImage:

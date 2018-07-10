@@ -3,7 +3,7 @@ title: "Cambios en el Buscador Inmobiliario"
 date: '2007-05-16T19:05:00+00:00'
 slug: '/blog/2007/05/cambios-en-el-buscador-inmobiliario'
 tags: ["buscador inmobiliario", "Internet"]
-category: 'marketing'
+category: 'business'
 excerpt: "Hace aproximadamente un año lanzamos la web [buscador inmobiliario]( con una intención muy clara: **evitar el uso de formularios para buscar viviendas**.La gran may..."
 draft: false
 headerImage:

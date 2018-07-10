@@ -3,7 +3,7 @@ title: "Necesita mi empresa tener presencia en las redes sociales?"
 date: '2010-05-31T14:15:00+00:00'
 slug: '/blog/2010/05/necesita-mi-empresa-tener-presencia-en-las-redes-sociales'
 tags: ["redes sociales", "social media"]
-category: 'marketing'
+category: 'business'
 excerpt: "Hace unas semanas explicaba porqué creo que [una empresa no necesita de la figura de un Community Manager]("
 draft: false
 headerImage:

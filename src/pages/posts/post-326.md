@@ -50,7 +50,19 @@ Now save your changes and you will be back to the bucket configuration page. Pre
 
 We are going to setup the permissions for this bucket. Because it will contain our website we want everybody to be able to read all the contents of this bucket. Everything should be public. Copy and paste this script but **remember to replace the bucket name with your own name**.
 
-    { "Version": "2012-10-17", "Statement": [{ "Sid": "PublicReadGetObject", "Effect": "Allow", "Principal": "\*", "Action": "s3:GetObject", "Resource": "arn:aws:s3:::alvareznavarro/\*" }] }
+    {
+      "Version": "2012-10-17",
+      "Statement": [
+        {
+          "Sid":
+          "PublicReadGetObject",
+          "Effect": "Allow",
+          "Principal": "\*",
+          "Action": "s3:GetObject",
+          "Resource": "arn:aws:s3:::alvareznavarro/\*"
+        }
+      ]
+    }
 
 Once this step is done we have am S3 bucket where all the contents will be readable by anybody. So far, so good. Nothing more needed in S3 now go to Services and choose Amazon IAM.
 
@@ -62,7 +74,23 @@ Visit Amazon IAM and in the left sidebar click on policies and then the button c
 
 Select the tab named JSON and copy/paste the following script. Again remember to change the bucket name and use your own.
 
-    { "Version": "2012-10-17", "Statement": [{ "Sid": "VisualEditor0", "Effect": "Allow", "Action": [ "s3:GetObject", "s3:PutObject", "s3:DeleteObject"], "Resource": "arn:aws:s3:::alvareznavarro/\*" }, { "Sid": "VisualEditor1", "Effect": "Allow", "Action": "s3:ListObjects", "Resource": "\*" } ] }
+    {
+      "Version": "2012-10-17",
+      "Statement": [
+        {
+          "Sid": "VisualEditor0",
+          "Effect": "Allow",
+          "Action": [ "s3:GetObject", "s3:PutObject", "s3:DeleteObject"],
+          "Resource": "arn:aws:s3:::alvareznavarro/\*"
+        },
+        {
+          "Sid": "VisualEditor1",
+          "Effect": "Allow",
+          "Action": "s3:ListObjects",
+          "Resource": "\*"
+        }
+      ]
+    }
 
 Save the changes and give the policy a name, mine is called _publicWebsiteBucket_. You can call the policy however makes more sense to you.
 
@@ -116,7 +144,9 @@ First you need to install GatbsbyJS which is very easy. Go to the terminal and w
 
 Now create a new website like this: (again mine is called _alvareznavarro_, yours can be called whatever you like).
 
-    gatsby new alvareznavarrocd alvareznavarro/gatsby develop
+    gatsby new alvareznavarro
+    cd alvareznavarro/
+    gatsby develop
 
 If you have followed these steps open a browser and visit http://localhost:8000 and you should see a default site.
 
@@ -124,7 +154,43 @@ Our next step is also the last one. We are going to deploy this website to our A
 
 Create a new file in the root of your [GatsbyJS](https://www.gatsbyjs.org/) repo called .gitlab-ci.yml then copy/paste this code (remember to change the bucket name and use your own):
 
-    image: node:lateststages: - build- deployvariables: BUCKET\_NAME: alvareznavarrocache: paths: - node\_modules/buildGatsby: stage: buildscript: - npm install- ./node\_modules/.bin/gatsby build --prefix-pathsartifacts: paths: - publiconly: - masterdeploys3: image: "python:latest"# We use python because there is a well-working AWS Sdkstage: deploydependencies: - buildGatsbybefore\_script: - pip install awscliscript: - aws s3 cp public s3://${BUCKET\_NAME} --recursiveenvironment: name: 's3-deploy'url: http://${BUCKET\_NAME}.s3.eu-central-1.amazonaws.com # This is the url of the bucket we saved before
+    image: node:latest
+
+    stages:
+      - build
+      - deploy
+
+    variables:
+      BUCKET_NAME: alvareznavarro
+
+    cache:
+      paths:
+        - node_modules/
+
+    buildGatsby:
+      stage: build
+      script:
+        - npm install
+        - ./node_modules/.bin/gatsby build --prefix-paths
+      artifacts:
+        paths:
+        - public
+      only:
+        - master
+
+    deploys3:
+      image: "python:3.6.6"  # We use python because there is a well-working AWS Sdk
+      stage: deploy
+      dependencies:
+        - buildGatsby
+      before_script:
+        - pip install awscli # Install the SDK
+      script:
+        - aws s3 cp public s3://${BUCKET_NAME} --recursive
+      environment:
+        name: 's3-deploy'
+        url: http://${BUCKET_NAME}.s3.eu-central-1.amazonaws.com  # This is the url of the bucket we saved before
+
 
 This script has two parts: One called build where we generate the website using gatsby build. The generated website will live under a directory called public.
 
@@ -132,7 +198,10 @@ In the second part of the script we copy the contents of the public directory to
 
 Now let's make everything work. It's time to push all the contents of our repo to Gitlab. Because this is a new directory we need to sync it with our Gitlab repo write this:
 
-    git initgit remote add origin git@gitlab.com:yourgitlabuser/yourrepo.gitgit add .git commit -m "Basic layout"git push origin master
+    git init
+    git remote add origin git@gitlab.com:yourgitlabuser/yourrepo.git
+    git add .git commit -m "Basic layout"
+    git push origin master
 
 We are initialising our local directory as a git repo then we add the Gitlab repo as the origin and after adding all files content is committed and pushed to Gitlab.
 

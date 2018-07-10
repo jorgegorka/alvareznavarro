@@ -3,7 +3,7 @@ title: "Seguimiento de acciones sociales en Google Analytics"
 date: '2011-07-01T09:30:55+00:00'
 slug: '/blog/2011/07/seguimiento-de-acciones-sociales-en-google-analytics'
 tags: ["google analytics", "social media"]
-category: 'marketing'
+category: 'business'
 excerpt: "Google se vuelve social. No se si eso será bueno o malo pero es la realidad. En Google Analytics en el apartado de Visitantes tenemos Social una sección desde la que podremos medir nuestras acciones ..."
 draft: false
 headerImage:

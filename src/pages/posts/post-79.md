@@ -3,7 +3,7 @@ title: "Hablemos de base de datos y de índices"
 date: '2006-11-22T10:09:00+00:00'
 slug: '/blog/2006/11/hablemos-de-base-de-datos-y-de-ndices'
 tags: ["bbdd", "rails"]
-category: 'marketing'
+category: 'business'
 excerpt: "Unos enlaces interesantes sobre optimización de bases de datos e índices.Un artículo de Jamis Buck sobre [mejorar el rendimiento de tu base de datos]("
 draft: false
 headerImage:

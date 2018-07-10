@@ -3,7 +3,7 @@ title: "El visitante como centro del análisis web"
 date: '2011-11-15T01:55:43+00:00'
 slug: '/blog/2011/11/el-visitante-como-centro-del-analisis-web'
 tags: ["kpi", "objetivos"]
-category: 'marketing'
+category: 'business'
 excerpt: "[![el usuario como centro del análisis web]("
 draft: false
 headerImage:

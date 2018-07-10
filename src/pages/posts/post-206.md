@@ -3,7 +3,7 @@ title: "Master de Analítica Web Secuoyas - Día 2"
 date: '2011-04-04T14:39:20+00:00'
 slug: '/blog/2011/04/master-de-analitica-web-secuoyas-dia-2'
 tags: ["Uncategorized"]
-category: 'marketing'
+category: 'business'
 excerpt: " En esta segunda semana del Master hemos contado con la presencia de René Deschamps y de Bárbara Mackey**René Dechamps**[René Dechamps]( a quien agr..."
 draft: false
 headerImage:

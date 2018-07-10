@@ -3,7 +3,7 @@ title: "Estadísticas de uso del blog - Resumen 2013 - Captación"
 date: '2013-12-29T22:48:00+00:00'
 slug: '/blog/6974'
 tags: ["estadisticas"]
-category: 'marketing'
+category: 'business'
 excerpt: "En esta serie de tres artículos analizo lo sucedido en mi blog desde el punto de vista de los tres principales comportamientos de los visitantes: Captación, Conversión y Fidelización."
 draft: false
 headerImage:

@@ -3,7 +3,7 @@ title: "El análisis web no es (solo) marketing"
 date: '2012-07-02T07:25:22+00:00'
 slug: '/blog/2012/07/el-analisis-web-no-es-solo-marketing'
 tags: []
-category: 'marketing'
+category: 'business'
 excerpt: "![El analista web no pertenece a marketing]("
 draft: false
 headerImage:
