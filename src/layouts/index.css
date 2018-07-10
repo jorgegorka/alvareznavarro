@@ -652,6 +652,10 @@ Centered content
   font-weight: 700;
 }
 
+.site-title:first-letter{
+  text-transform: capitalize
+}
+
 .site-logo {
   max-height: 45px;
 }

@@ -11,7 +11,7 @@ const Header = ({ siteTitle }) => (
     <div className="inner">
       <div className="site-header-content">
         <h1 className="site-title">{siteTitle}</h1>
-        <h2 className="site-description">Description</h2>
+        <h2 className="site-description">Full stack web developer & SaaS barista.</h2>
       </div>
       <SiteNavigation />
     </div>

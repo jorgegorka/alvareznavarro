@@ -7,6 +7,10 @@ import PageNavigation from '../components/page-navigation';
 
 export default ({ pathContext, data }) => (
   <div>
+    <Helmet>
+      <title>Jorge Alvarez | Full stack web developer & SaaS barista</title>
+      <meta name="description" content="I am Jorge Alvarez. I am a full stack web developer with a strong focus on the business aspects of applications. SaaS barista." />
+    </Helmet>
     <Header siteTitle={data.site.siteMetadata.title} />
     <main id="site-main" className="site-main outer" role="main">
       <div className="inner">

@@ -8,6 +8,8 @@ const AboutMe = () => (
   <div>
     <header className="site-header outer no-cover">
       <Helmet>
+        <title>Jorge Alvarez | Full stack web developer & SaaS barista</title>
+        <meta name="description" content="I am the founder of Happy Mood Score a feedback and employee engagement tool with an proactive and unique approach that makes give feedback an easy task." />
         <body className="page-template" />
       </Helmet>
       <div className="inner">
