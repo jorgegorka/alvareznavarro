@@ -1,16 +1,19 @@
-import React from "react"
+import React from 'react'
 import Helmet from 'react-helmet'
 
-import Header from '../components/header';
-import PostExcerpt from '../components/post-excerpt';
-import PageNavigation from '../components/page-navigation';
+import Header from '../components/header'
+import PostExcerpt from '../components/post-excerpt'
+import PageNavigation from '../components/page-navigation'
 
 export default ({ pathContext, data }) => (
   <div>
     <Helmet>
-      <title>Jorge Alvarez Full stack web developer & SaaS barista</title>
+      <title>Jorge Alvarez | Online business developer & SaaS barista</title>
       <meta name="author" content={data.site.siteMetadata.title} />
-      <meta name="description" content="I am Jorge Alvarez a full stack web developer with a strong focus on the business aspects of applications. SaaS barista." />
+      <meta
+        name="description"
+        content="I am Jorge Alvarez an online business developer with a strong focus on the business aspects of applications. I've been working on SaaS applications for the last 18 years."
+      />
     </Helmet>
     <Header siteTitle={data.site.siteMetadata.title} />
     <main id="site-main" className="site-main outer" role="main">
@@ -19,15 +22,15 @@ export default ({ pathContext, data }) => (
           <body className="home-template" />
         </Helmet>
         <div className="post-feed">
-          { pathContext.group.map(({ node }, index) => (
-            <PostExcerpt post={ node } key={ index } />
-          )) }
+          {pathContext.group.map(({ node }, index) => (
+            <PostExcerpt post={node} key={index} />
+          ))}
         </div>
-        <PageNavigation pathContext={ pathContext } />
+        <PageNavigation pathContext={pathContext} />
       </div>
     </main>
   </div>
-);
+)
 
 export const query = graphql`
   query SiteTitleQuery {
