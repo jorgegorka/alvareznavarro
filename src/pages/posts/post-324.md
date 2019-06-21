@@ -6,7 +6,7 @@ tags: ["javascript", "url", "parser", "npm"]
 category: 'web-development'
 excerpt: "If you need to extract named params from a URL in the form of /admin/employee/:id Then this library will help you with that. It's very small in size."
 draft: false
-headerImage: ''
+headerImage: 'https://alvareznavarro-images.s3.eu-central-1.amazonaws.com/almendros.jpg'
 ---
 
 If you work in web development you have probably found yourself in a situation where you need to extract named params from a URL.
