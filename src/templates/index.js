@@ -8,11 +8,11 @@ import PageNavigation from '../components/page-navigation'
 export default ({ pathContext, data }) => (
   <div>
     <Helmet>
-      <title>Jorge Alvarez | Online business developer & SaaS barista</title>
+      <title>Jorge Alvarez | Web developer & SaaS barista</title>
       <meta name="author" content={data.site.siteMetadata.title} />
       <meta
         name="description"
-        content="I am Jorge Alvarez an online business developer with a strong focus on the business aspects of applications. I've been working on SaaS applications for the last 18 years."
+        content="I am Jorge Alvarez an web developer with a strong focus on the business aspects of applications. I've been working on SaaS applications for the last 19 years."
       />
     </Helmet>
     <Header siteTitle={data.site.siteMetadata.title} />

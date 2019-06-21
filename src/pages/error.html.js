@@ -4,8 +4,7 @@ import Link from 'gatsby-link'
 const ErrorPage = () => (
   <div>
     <h1>Something went wrong</h1>
-    <p>If something is wrong Amazon will show this page to the users.</p>
-    <p>Tell them something nice and send them to the homepage</p>
+    <p>There has been a error generating the page.</p>
     <Link to="/">Go back to the homepage</Link>
   </div>
 )

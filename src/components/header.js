@@ -13,9 +13,7 @@ const Header = ({ siteTitle }) => (
     <div className="inner">
       <div className="site-header-content">
         <h1 className="site-title">{siteTitle}</h1>
-        <h2 className="site-description">
-          Online business developer & SaaS barista
-        </h2>
+        <h2 className="site-description">Web developer & SaaS barista</h2>
       </div>
       <SiteNavigation />
     </div>
