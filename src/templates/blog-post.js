@@ -1,22 +1,23 @@
 import React from 'react'
 
+import Layout from '../components/layout'
 import PostImage from '../components/post-image'
 import ReadMore from '../components/read-more'
 import PostTags from '../components/post-tags'
-import PostHeader from '../components/post-header';
-import SiteNavigation from '../components/site-navigation';
+import PostHeader from '../components/post-header'
+import SiteNavigation from '../components/site-navigation'
 
 export default ({ data }) => {
   if (!data || !data.markdownRemark) {
-    return null;
+    return null
   }
-  const post = data.markdownRemark;
-  const { site, allMarkdownRemark } = data;
+  const post = data.markdownRemark
+  const { site, allMarkdownRemark } = data
 
   return (
-    <div>
+    <Layout>
       <header className="site-header outer">
-        <PostHeader post={ post } siteTitle={ site.siteMetadata.title } />
+        <PostHeader post={post} siteTitle={site.siteMetadata.title} />
         <div className="inner">
           <SiteNavigation />
         </div>
@@ -26,22 +27,31 @@ export default ({ data }) => {
           <article className="post-full post">
             <header className="post-full-header">
               <section className="post-full-meta">
-                <time className="post-full-meta-date" dateTime="post.frontmatter.date">{ post.frontmatter.date }</time>
-                  <span className="date-divider">/</span> <PostTags tags={ post.frontmatter.tags } />
+                <time
+                  className="post-full-meta-date"
+                  dateTime="post.frontmatter.date"
+                >
+                  {post.frontmatter.date}
+                </time>
+                <span className="date-divider">/</span>{' '}
+                <PostTags tags={post.frontmatter.tags} />
               </section>
-              <h1 className="post-full-title">{ post.frontmatter.title }</h1>
+              <h1 className="post-full-title">{post.frontmatter.title}</h1>
             </header>
-            <PostImage image={ post.frontmatter.headerImage } />
+            <PostImage image={post.frontmatter.headerImage} />
             <section className="post-full-content">
-              <div className="kg-card-markdown" dangerouslySetInnerHTML={ { __html: post.html } } />
+              <div
+                className="kg-card-markdown"
+                dangerouslySetInnerHTML={{ __html: post.html }}
+              />
             </section>
           </article>
         </div>
       </main>
       <ReadMore posts={allMarkdownRemark} />
-    </div>
-  );
-};
+    </Layout>
+  )
+}
 
 export const query = graphql`
   query BlogPostQuery($slug: String!) {
@@ -81,4 +91,4 @@ export const query = graphql`
       }
     }
   }
-`;
+`

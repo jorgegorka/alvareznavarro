@@ -1,11 +1,11 @@
-const path = require('path');
-const _ = require('lodash');
-const { createFilePath } = require('gatsby-source-filesystem');
-const createPaginatedPages = require('gatsby-paginate');
+const path = require('path')
+const _ = require('lodash')
+const { createFilePath } = require('gatsby-source-filesystem')
+const createPaginatedPages = require('gatsby-paginate')
 // const generateTags = require('./tag-generator')
 
-exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
-  const { createNodeField } = boundActionCreators
+exports.onCreateNode = ({ node, getNode, actions }) => {
+  const { createNodeField } = actions
   if (node.internal.type === 'MarkdownRemark') {
     const slug = createFilePath({ node, getNode, basePath: 'pages' })
     createNodeField({
@@ -14,12 +14,12 @@ exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
       value: slug,
     })
   }
-};
+}
 
-exports.createPages = ({ boundActionCreators, graphql }) => {
-  const { createPage } = boundActionCreators;
+exports.createPages = ({ actions, graphql }) => {
+  const { createPage } = actions
 
-  const blogPostTemplate = path.resolve("src/templates/blog-post.js");
+  const blogPostTemplate = path.resolve('src/templates/blog-post.js')
 
   return graphql(`
     {
@@ -43,19 +43,18 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
     }
   `).then(result => {
     if (result.errors) {
-      return Promise.reject(result.errors);
+      return Promise.reject(result.errors)
     }
 
-    const posts = result.data.allMarkdownRemark.edges;
-
+    const posts = result.data.allMarkdownRemark.edges
     createPaginatedPages({
       edges: posts,
-      createPage: createPage,
+      createPage,
       pageTemplate: 'src/templates/index.js',
       pageLength: 15, // This is optional and defaults to 10 if not used
-      pathPrefix: "", // This is optional and defaults to an empty string if not used
-      context: {} // This is optional and defaults to an empty object if not used
-    });
+      pathPrefix: '/', // This is optional and defaults to an empty string if not used
+      context: {}, // This is optional and defaults to an empty object if not used
+    })
 
     // Create post detail pages
     posts.forEach(({ node }) => {
@@ -65,28 +64,27 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
         context: {
           slug: node.frontmatter.slug,
         },
-      });
-    });
+      })
+    })
 
-    generateTags(posts, createPage);
-    generateCategories(posts, createPage);
-  });
-};
+    generateTags(posts, createPage)
+    generateCategories(posts, createPage)
+  })
+}
 
 const generateTags = (posts, createPage) => {
   const tagTemplate = path.resolve('src/templates/tags.js')
 
   // Tag pages:
-  let tags = new Set([]);
+  let tags = new Set([])
   // Iterate through each post, putting all found tags into `tags`
   _.each(posts, edge => {
     if (_.get(edge, 'node.frontmatter.tags')) {
-      edge.node.frontmatter.tags.forEach( (tag) => {
+      edge.node.frontmatter.tags.forEach(tag => {
         tags.add(tag)
       })
     }
   })
-
 
   tags.forEach(tag => {
     createPage({
@@ -95,14 +93,14 @@ const generateTags = (posts, createPage) => {
       context: {
         tag,
       },
-    });
-  });
+    })
+  })
 }
 
 const generateCategories = (posts, createPage) => {
   const categoryTemplate = path.resolve('src/templates/category-list.js')
 
-  let categories = new Set([]);
+  let categories = new Set([])
   _.each(posts, edge => {
     if (_.get(edge, 'node.frontmatter.category')) {
       categories.add(edge.node.frontmatter.category)
@@ -110,13 +108,13 @@ const generateCategories = (posts, createPage) => {
   })
 
   categories.forEach(category => {
-    console.log(category);
+    console.log(category)
     createPage({
       path: `/categories/${_.kebabCase(category)}/`,
       component: categoryTemplate,
       context: {
         category,
       },
-    });
-  });
+    })
+  })
 }

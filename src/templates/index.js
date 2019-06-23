@@ -1,12 +1,13 @@
 import React from 'react'
 import Helmet from 'react-helmet'
 
+import Layout from '../components/layout'
 import Header from '../components/header'
 import PostExcerpt from '../components/post-excerpt'
 import PageNavigation from '../components/page-navigation'
 
-export default ({ pathContext, data }) => (
-  <div>
+export default ({ pageContext, data }) => (
+  <Layout>
     <Helmet>
       <title>Jorge Alvarez | Web developer & SaaS barista</title>
       <meta name="author" content={data.site.siteMetadata.title} />
@@ -22,14 +23,15 @@ export default ({ pathContext, data }) => (
           <body className="home-template" />
         </Helmet>
         <div className="post-feed">
-          {pathContext.group.map(({ node }, index) => (
+          {console.log(pageContext)}
+          {pageContext.group.map(({ node }, index) => (
             <PostExcerpt post={node} key={index} />
           ))}
         </div>
-        <PageNavigation pathContext={pathContext} />
+        <PageNavigation pageContext={pageContext} />
       </div>
     </main>
-  </div>
+  </Layout>
 )
 
 export const query = graphql`
