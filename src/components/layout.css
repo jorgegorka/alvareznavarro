@@ -691,12 +691,17 @@ Centered content
     background-position: center -200px;
   }
 }
+
 header h1 {
-  color: #eee;
+  color: #03a9f4;
 }
 
 header h2 {
-  color: #ddd;
+  color: #03a9f4;
+}
+
+body.home-template header h1 {
+  color: #eee;
 }
 
 .site-nav {
@@ -772,8 +777,12 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
   display: block;
   margin: 0;
   padding: 10px 12px;
-  color: #fff;
+  color: #444;
   opacity: 0.8;
+}
+
+body.home-template .nav li a {
+  color: #fff;
 }
 
 .nav li a:hover {
@@ -814,7 +823,11 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 
 .social-link svg {
   height: 1.8rem;
-  fill: #fff;
+  fill: #444;
+}
+
+body.home-template .social-link svg {
+  color: #fff;
 }
 
 .social-link-fb svg {
@@ -953,6 +966,8 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
   justify-content: space-between;
   align-items: flex-end;
   padding: 0 25px 25px;
+  font-size: 1.3rem;
+  color: #29b6f6;
 }
 
 .author-profile-image,
