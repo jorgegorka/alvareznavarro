@@ -36,6 +36,7 @@ exports.createPages = ({ actions, graphql }) => {
               category
               date(formatString: "DD MMMM, YYYY")
               excerpt
+              headerImage
             }
           }
         }

@@ -1,5 +1,6 @@
 import React from 'react'
 import Helmet from 'react-helmet'
+import { graphql } from 'gatsby'
 
 import SiteNavigation from '../components/site-navigation'
 import PostExcerpt from '../components/post-excerpt'

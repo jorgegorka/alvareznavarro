@@ -1,12 +1,12 @@
 ---
 title: "Svelete & Firebase template"
 date: '2019-06-11T08:47:41+00:00'
-slug: '/blog/2019/7/svelete-firebase-template'
+slug: '/blog/2019/6/svelete-firebase-template'
 tags: ["javascript", "GatsbyJS", "Gitlab", "S3"]
 category: 'web-development'
 excerpt: "Svelte and Firebase is a template you can use to start developing fast, secure and modern web applications in no time. User management, firestore rules, cloud functions, routing... All the tools you need ready to be used."
-draft: true
-headerImage: ''
+draft: false
+headerImage: 'https://alvareznavarro-images.s3.eu-central-1.amazonaws.com/almendro2.jpg'
 ---
 
 I've been working on a [template to create web applications easily using Svelte and Firebase](https://svelte-firebase-template.web.app/).

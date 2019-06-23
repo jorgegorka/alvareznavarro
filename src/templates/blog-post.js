@@ -1,4 +1,5 @@
 import React from 'react'
+import { graphql } from 'gatsby'
 
 import Layout from '../components/layout'
 import PostImage from '../components/post-image'
@@ -70,6 +71,7 @@ export const query = graphql`
         draft
         excerpt
         slug
+        headerImage
       }
     }
     allMarkdownRemark(
