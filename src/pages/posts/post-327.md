@@ -2,7 +2,7 @@
 title: 'Svelete & Firebase template'
 date: '2019-06-11T08:47:41+00:00'
 slug: '/blog/2019/6/svelete-firebase-template'
-tags: ['javascript', 'GatsbyJS', 'Gitlab', 'S3']
+tags: ['svelte', 'firebase', 'spa']
 category: 'web-development'
 excerpt: 'Svelte and Firebase is a template you can use to start developing fast, secure and modern web applications in no time. User management, firestore rules, cloud functions, routing... All the tools you need ready to be used.'
 draft: false
@@ -33,19 +33,19 @@ If you are interested in Svelte and Firebase with this template you can easily l
 - Secure Firebase databases with rules.
 - Use Firebase function clouds.
 - Create public and protected pages.
-- Use it as the foundation of your projects to speed up development.
+- Use it as the foundation for your projects to speed up development.
 
 ## Technology
 
 This project uses all these amazing technologies.
 
-### Firebase
-
-It's a [suite of tools](https://firebase.google.com) from Google to help you create applications for the web and mobile. It gives you a database, hosting, authentication, analytics, etc.
-
 ### Svelte
 
 [Svelte](https://svelte.dev) is a radical new approach to building user interfaces. Whereas traditional frameworks like React and Vue do the bulk of their work in the browser, Svelte shifts that work into a compile step that happens when you build your app.
+
+### Firebase
+
+It's a [suite of tools](https://firebase.google.com) from Google to help you create applications for the web and mobile. It gives you a database, hosting, authentication, analytics, etc.
 
 ### Materializecss
 
@@ -63,4 +63,4 @@ Created and designed by Google, Material Design is a design language that combin
 
 ## Summary
 
-I hope this template can help people that wants to learn Svelte and/or Firebase to get some ideas and speepd up their learning process. If you spot any error or have an improvement [contributions](https://github.com/jorgegorka/svelte-firebase/pulls) are more than welcome.
+I hope this template can help people that wants to learn Svelte and/or Firebase to get some ideas and speed up their learning process. If you spot any error or have an improvement [contributions](https://github.com/jorgegorka/svelte-firebase/pulls) are more than welcome.
