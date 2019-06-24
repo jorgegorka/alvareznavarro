@@ -24,7 +24,6 @@ export default ({ pageContext, data }) => (
           <body className="home-template" />
         </Helmet>
         <div className="post-feed">
-          {console.log(pageContext)}
           {pageContext.group.map(({ node }, index) => (
             <PostExcerpt post={node} key={index} />
           ))}

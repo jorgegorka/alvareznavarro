@@ -11,7 +11,6 @@ const generateCategories = (categories, createPage) => {
   categories = _.uniq(categories)
 
   categories.forEach(category => {
-    console.log(category)
     createPage({
       path: `/category/${_.kebabCase(category)}/`,
       component: categoryTemplate,
@@ -22,4 +21,4 @@ const generateCategories = (categories, createPage) => {
   })
 }
 
-export default generateCategories;
+export default generateCategories

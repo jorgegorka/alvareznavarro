@@ -14,8 +14,6 @@ const generateTags = (posts, createPage) => {
 
   // Make tag pages
   tags.forEach(tag => {
-    console.log(tag)
-
     createPage({
       path: `/tags/${_.kebabCase(tag)}/`,
       component: tagTemplate,
