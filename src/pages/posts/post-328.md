@@ -48,7 +48,7 @@ After a visitor has entered their name, email and password we'll try to create a
 const { user } = await Auth.createUserWithEmailAndPassword(email, password)
 ```
 
-That's all we need to create a user in Firebase. It couldn't be simpler. That method is doing two things, though. It's creating a new user but it's also automatically making the user logged in.
+That's all we need to create a user in Firebase. It couldn't be simpler. That method is doing two things, though. It's creating a new user but it's also automatically login the user in.
 
 Now that we have a user we want to create a company and make them the admin of that company. In order to do so we are going to use a Firebase Cloud Function. The code is the following:
 
@@ -73,9 +73,9 @@ Now that we have a user we want to create a company and make them the admin of t
 
 We are calling a function named _createCompany_ and we are sending an object as a param. This object has the company name as a property.
 
-In that function we will create a new company, we'll also create a new employee and assign it to the current user. After that we will assign the companyId and a role _admin_ to our users (since they are the only user of our application and therefore the admin) as a custom user claim.
+In that function we will create a new company, we'll also create a new employee and assign it to the current user. After that we will assign the companyId and a role _admin_ to our user as a custom token (user claim).
 
-In another article I'll talk about user claims and why they are paramout to secure our applications.
+In another article I'll talk about user claims and why they are of paramout importance to secure our applications.
 
 Check the code for the [createCompany function](https://github.com/jorgegorka/svelte-firebase/blob/master/functions/index.js#L7-L35)
 
@@ -151,8 +151,6 @@ $: if (!$currentUser) {
 
 We are checking for currentUser and if it exists then we check if there is a user id. If there is one then we know that the user has been logged in successfully. If the user id is zero then we know there is no active user and we show a message and redirect the user to the login page.
 
-You will know
-
 Since currentUser is just a [Svelte store](https://svelte.dev/docs#svelte_store) and stores are asyncronous, it may occur that it does not exist because it's still being loaded. While it's being loaded we use a variable called _showPage_ that presents a loading indicator so the visitor can see that something is going on.
 
 ```:javascript
@@ -197,14 +195,12 @@ Auth.onAuthStateChanged(() => {
 })
 ```
 
-When _onAuthStateChanged_ we first check if there is a currentUser. If so then we know that the user has an active session. If there is no currentUser then we set the id to zero to indicate that there is no active session and the user needs to enter their credentials to create a new valid session again.
+When _onAuthStateChanged_ changes we first check if there is a currentUser. If so then we know that the user has an active session. If there is no currentUser then we set the id to zero to indicate that there is no active session and the user needs to enter their credentials to create a new valid session again.
 
-If there is a valid user then we create a currentUser [Svelte store](https://svelte.dev/docs#svelte_store) and populate it with useful information about the user and their role. We'll use this store in our application to check information about the user.
+If there is a valid user then we create a [Svelte store](https://svelte.dev/docs#svelte_store), we give it the name currentUser and populate it with useful information about the user and their role. We'll use this store in our application to check information about the user.
 
 ## Summary
 
 User management is a critical part of a web application. Having all the user information stored in Firebase will reduce the chances of a data leak.
 
-We've implemented a complete user workflow (sign up, log in, authenticate) with very few lines of code.
-
-The complete code along with more features is available to donwload in the [Firebase & Svelte template](https://github.com/jorgegorka/svelte-firebase) repository.
+We've implemented a complete user workflow (sign up, log in, authenticate). The complete code along with more features is available to download in the [Firebase & Svelte template](https://github.com/jorgegorka/svelte-firebase) repository.
