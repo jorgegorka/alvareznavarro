@@ -1,5 +1,5 @@
 ---
-title: 'Svelete & Firebase template'
+title: 'Svelete & Firebase User authentication'
 date: '2019-06-26T11:00:21+00:00'
 slug: '/blog/2019/6/svelete-firebase-user-authentication'
 tags: ['svelte', 'firebase', 'spa']
