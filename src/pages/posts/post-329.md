@@ -13,6 +13,18 @@ Firestore rules give us the possibility to configure and secure a Firebase datab
 
 All the code mentioned in this article is availaible in the [Svelte & Firebase repository](https://github.com/jorgegorka/svelte-firebase) and you can download it for free.
 
+### Table of contents
+
+- Some thoughts on security
+- Basic rules
+  - Grant/Deny access to documents
+  - Use functions to improve clarity
+- Advanced rules
+  - Return only a subset of documents
+  - Allow special permissions to administrators
+  - Filter by current user
+- Summary
+
 ## Some thoughts on security
 
 In a web application we can not trust the client. All the code that is being executed in somebody else's computer can be tampered and hacked.
@@ -113,7 +125,7 @@ Now that we have the _userBelongsToCompany_ function we can change our rule to u
 
 Now in order to read a document, or a list of documents two conditions must be met. The user must be logged in and the companyId of the user must match the companyId of the documents returned.
 
-### Allow special permission to administrators
+### Allow special permissions to administrators
 
 Roles are a very common feature in many web applications. This is how we can apply roles to our rules :-).
 
