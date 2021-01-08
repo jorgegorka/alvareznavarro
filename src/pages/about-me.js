@@ -28,8 +28,8 @@ const AboutMe = () => (
           </header>
           <section className="post-full-content">
             <p>
-              My name is Jorge Alvarez. I am 47 years old and I've been working
-              in web projects for the last 19 years.
+              My name is Jorge Alvarez. I am 48 years old and I've been working
+              in web projects for the last 20 years.
               <br />
               Since 2005 I've been focused on SaaS applications: developing,
               managing, measuring and optimising.
@@ -42,8 +42,8 @@ const AboutMe = () => (
               me hard so I had to close the company in 2011.
             </p>
             <p>
-              I've been working for companies in the UK, Germany, Denmark and
-              Spain most of the time remotely.
+              I've been working for companies in the UK, Germany, Denmark, USA and
+              Spain, most of the time remotely.
             </p>
             <p>
               I'm the founder of{' '}
@@ -66,15 +66,7 @@ const AboutMe = () => (
               retention.
             </p>
             <p>
-              It's the perfect tool if your want to{' '}
-              <a
-                href="https://www.happymoodscore.com"
-                title="employee feedback and engagement"
-              >
-                improve the feedback you get from your employees
-              </a>{' '}
-              or your company has remote workers, digital nomads or distributed
-              teams.
+              I like to contribute to open source. Check <a href={"/open-source"} title={"Open source projects"}>my projects</a>.
             </p>
             <p>
               I graduated on the first promotion of the Web Analytics Master
@@ -82,10 +74,10 @@ const AboutMe = () => (
             </p>
             <p>
               I live in{' '}
-              <a href="https://binged.it/2MVNzSD" target="_blank">
+              <a href="https://binged.it/2MVNzSD" target="_blank" rel="noreferrer">
                 Logroño (La Rioja - Spain)
               </a>{' '}
-              with Mayte, Ariadna and Mario. We also have a cat named Pili.
+              with Mayte, Ariadna and Mario.
             </p>
           </section>
         </article>

@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "alvareznavarro.es",
+  "description": "Personal website of Jorge Alvarez",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Jorge Alvarez <jorge@alvareznavarro.es>",
   "dependencies": {
     "gatsby": "^2.10.0",
     "gatsby-link": "^2.2.0",
