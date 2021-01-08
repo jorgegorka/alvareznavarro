@@ -29,3 +29,4 @@ jobs:
         uses: jonelantha/gatsby-s3-action@v1
         with:
           dest-s3-bucket: alvareznavarro
+          cloudfront-id-to-invalidate: E2CCORPGQOLBPD
