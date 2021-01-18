@@ -12,7 +12,7 @@ It's the eternal struggle, creating a strong password that is hard to crack yet 
 
 We are usually forced to use random letters uppercase and downcase, numbers and symbols and the password should be at least 8 characters long. 
 
-All of that is very good for security but very bad for our brains.  If you try to remember: HP2EuBgz9YsFwpzo&BTPuyQV chances are that you will end up writing it down on a piece of paper.  
+All of that is very good for security but very bad for our brains.  If you try to remember: _HP2EuBg&BTPuyQV_ chances are that you will end up writing it down on a piece of paper.  
 
 So here is the trick I use to generate random passwords that are easy to memorize.
 
@@ -36,27 +36,27 @@ These are a few examples using Iron Maiden songs.
 
 **Fly on you way like an eagle, fly as high as the sun.**
 
-The resulting password is: foywlaefahats
+The resulting password is: _foywlaefahats_
 
 Let's improve it a bit:
 
-With an ampersand to join the two sentences: foywlae&fahats
+With an ampersand to join the two sentences: _foywlae&fahats_
 
-Adding the year that the album was released: foywlae&fahats1983
+Adding the year that the album was released: _foywlae&fahats1983_
 
 Another example:
 
 **Oh Well, wherever, wherever you are, Iron Maiden's gonna get you, no matter how far.**
 
-The resulting password is: owwwyaimggynmhf
+The resulting password is: _owwwyaimiggynmhf_
 
 That's a very good password by itself but we can spice it up.
 
-Put Iron Maiden in uppercase: owwwyaIMggynmhf
+Put Iron Maiden in uppercase: _owwwyaIMiggynmhf_
 
 Add some numbers and symbols. I'm adding the year that the album was released and changing the first O with an asterisk.
 
-The resulting password is: 1980*wwwyaIMggynmhf
+The resulting password is: _1980*wwwyaIMiggynmhf_
 
 ## Summary
 
