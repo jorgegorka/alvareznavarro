@@ -9,9 +9,10 @@ draft: false
 headerImage: 'https://alvareznavarro-images.s3.eu-central-1.amazonaws.com/siete-valles-dashboard.png'
 ---
 
+
 ## Siete Valles
 
-The goal of [this application](https://github.com/jorgegorka/siete-valles) is to give an easy way to integrate user engagement schemas and event tracking into your existent applications.
+The goal of [this application](https://github.com/jorgegorka/siete-valles) is to provide an easy way to integrate user engagement schemas and event tracking into your existent applications.
 
 Tracking engagement both from users or employees has plenty of benefits. You can create specific schemas like an onboarding process and keep track of the progress of each individual employee. Or you can implement generic long term schemas and event tracking like tracking the activity of users on a website (articles, comments, likes, etc.).
 
